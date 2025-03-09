@@ -67,6 +67,8 @@ def job():
     #scrape('swift', filename)
     scrape('javascript', filename)
     scrape('go', filename)
+    scrape('HTML', filename)
+    scrape('TypeScript', filename)
     scrape('java', filename)
 
 
