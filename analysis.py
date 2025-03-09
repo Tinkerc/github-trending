@@ -67,7 +67,8 @@ def save_to_csv(entry_count, entry_details, output_directory):
                 writer.writerow(row)
 
 if __name__ == "__main__":
-    directory = './2025'
-    output_directory = './output'
-    entry_count, entry_details = analyze_md_files(directory)
-    save_to_csv(entry_count, entry_details, output_directory)
+    for year in range(2015, 2026):
+        directory = f'./{year}'
+        output_directory = f'./output/{year}'
+        entry_count, entry_details = analyze_md_files(directory)
+        save_to_csv(entry_count, entry_details, output_directory)
