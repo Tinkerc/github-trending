@@ -8,3 +8,6 @@ pip-delete-this-directory.txt
 
 *.log
 *.out
+
+# Local tool state (oh-my-claudecode)
+.omc/
