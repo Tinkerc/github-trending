@@ -62,6 +62,22 @@ class CliTest(unittest.TestCase):
         self.assertEqual(code, 1)
         self.assertIn("快照不存在", stderr.getvalue())
 
+    def test_notify_only_uses_history_for_digest(self):
+        for day in (13, 14, 15):
+            run_with_mapping(self.data_dir, default_mapping(), now=datetime.datetime(
+                2026, 11, day, 2, tzinfo=datetime.timezone.utc
+            ))
+        with mock.patch.object(notify, "send_notification") as send:
+            code = scraper.main([
+                "--notify-only", "--date", "2026-11-15", "--data-dir", self.data_dir,
+            ])
+        self.assertEqual(code, 0)
+        digest = send.call_args.kwargs["digest"]
+        self.assertFalse(digest["is_baseline"])
+        self.assertEqual(digest["observed_days"], 3)
+        self.assertEqual(digest["new_count"], 0)
+        self.assertTrue(any("持续上榜" in item["reasons"] for item in digest["items"]))
+
     def test_notify_explicit_date_after_midnight(self):
         before_midnight = datetime.datetime(
             2026, 11, 15, 15, 59, 59, tzinfo=datetime.timezone.utc

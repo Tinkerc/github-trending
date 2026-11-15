@@ -1,0 +1,35 @@
+{
+  "boards": [
+    {
+      "entries": [],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [],
+      "language_filter": "swift",
+      "period": "daily",
+      "source_url": "https://github.com/trending/swift?since=daily"
+    },
+    {
+      "entries": [],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    }
+  ],
+  "date": "2019-06-12",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2019/2019-06-12.md",
+  "source_sha256": "5094d29ca23b41db979a246502496f7e2b9f3d61c15e35a86cb0031217ec33c0",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

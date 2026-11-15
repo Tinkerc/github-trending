@@ -19,6 +19,7 @@ import requests
 from pyquery import PyQuery as pq
 
 import notify
+import trends
 
 SCHEMA_VERSION = 1
 SHANGHAI = ZoneInfo("Asia/Shanghai")
@@ -312,12 +313,16 @@ def run_notify_only(data_dir, date=None):
         snapshot = json.load(handle)
     repos_doc = load_repositories(data_dir)
     validate_snapshot(snapshot, repos_doc["repositories"])
+    digest = trends.build_digest(
+        snapshot, repos_doc["repositories"], trends.load_history(data_dir, date)
+    )
     notify.send_notification(
         snapshot,
         repos_doc["repositories"],
         webhook_url=os.environ.get("FEISHU_WEBHOOK_URL"),
         signing_secret=os.environ.get("FEISHU_SIGNING_SECRET"),
         archive_url=archive_url(data_dir, date),
+        digest=digest,
     )
 
 

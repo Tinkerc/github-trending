@@ -1,0 +1,732 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+          "forks": null,
+          "name": "opendatalab / MinerU",
+          "rank": 1,
+          "repo_key": "opendatalab/mineru",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/opendatalab/MinerU"
+        },
+        {
+          "description": "Stable Diffusion web UI",
+          "forks": null,
+          "name": "AUTOMATIC1111 / stable-diffusion-webui",
+          "rank": 2,
+          "repo_key": "automatic1111/stable-diffusion-webui",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+        },
+        {
+          "description": "Easily train a good VC model with voice data <= 10 mins!",
+          "forks": null,
+          "name": "RVC-Project / Retrieval-based-Voice-Conversion-WebUI",
+          "rank": 3,
+          "repo_key": "rvc-project/retrieval-based-voice-conversion-webui",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI"
+        },
+        {
+          "description": "aider is AI pair programming in your terminal",
+          "forks": null,
+          "name": "paul-gauthier / aider",
+          "rank": 4,
+          "repo_key": "paul-gauthier/aider",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/paul-gauthier/aider"
+        },
+        {
+          "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+          "forks": null,
+          "name": "comfyanonymous / ComfyUI",
+          "rank": 5,
+          "repo_key": "comfyanonymous/comfyui",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/comfyanonymous/ComfyUI"
+        },
+        {
+          "description": "Ollama Python library",
+          "forks": null,
+          "name": "ollama / ollama-python",
+          "rank": 6,
+          "repo_key": "ollama/ollama-python",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ollama/ollama-python"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "lllyasviel / stable-diffusion-webui-forge",
+          "rank": 7,
+          "repo_key": "lllyasviel/stable-diffusion-webui-forge",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge"
+        },
+        {
+          "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+          "forks": null,
+          "name": "searxng / searxng",
+          "rank": 8,
+          "repo_key": "searxng/searxng",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/searxng/searxng"
+        },
+        {
+          "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+          "forks": null,
+          "name": "mingrammer / diagrams",
+          "rank": 9,
+          "repo_key": "mingrammer/diagrams",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mingrammer/diagrams"
+        },
+        {
+          "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+          "forks": null,
+          "name": "cpacker / MemGPT",
+          "rank": 10,
+          "repo_key": "cpacker/memgpt",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cpacker/MemGPT"
+        },
+        {
+          "description": "Free, open source crypto trading bot",
+          "forks": null,
+          "name": "freqtrade / freqtrade",
+          "rank": 11,
+          "repo_key": "freqtrade/freqtrade",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/freqtrade/freqtrade"
+        },
+        {
+          "description": "Automate development gruntwwork like code reviews, patching and documentation with LLM workflows.",
+          "forks": null,
+          "name": "patched-codes / patchwork",
+          "rank": 12,
+          "repo_key": "patched-codes/patchwork",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/patched-codes/patchwork"
+        },
+        {
+          "description": "An API wrapper for Discord written in Python.",
+          "forks": null,
+          "name": "Rapptz / discord.py",
+          "rank": 13,
+          "repo_key": "rapptz/discord.py",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Rapptz/discord.py"
+        },
+        {
+          "description": "A feature-rich command-line audio/video downloader",
+          "forks": null,
+          "name": "yt-dlp / yt-dlp",
+          "rank": 14,
+          "repo_key": "yt-dlp/yt-dlp",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yt-dlp/yt-dlp"
+        },
+        {
+          "description": "🎮 Chinese DOS games collections.",
+          "forks": null,
+          "name": "rwv / chinese-dos-games",
+          "rank": 15,
+          "repo_key": "rwv/chinese-dos-games",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/rwv/chinese-dos-games"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+          "forks": null,
+          "name": "drawdb-io / drawdb",
+          "rank": 1,
+          "repo_key": "drawdb-io/drawdb",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/drawdb-io/drawdb"
+        },
+        {
+          "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+          "forks": null,
+          "name": "brave / brave-browser",
+          "rank": 2,
+          "repo_key": "brave/brave-browser",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/brave/brave-browser"
+        },
+        {
+          "description": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
+          "forks": null,
+          "name": "SuhailTechInfo / Suhail-Md",
+          "rank": 3,
+          "repo_key": "suhailtechinfo/suhail-md",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SuhailTechInfo/Suhail-Md"
+        },
+        {
+          "description": "A tool for writing better scripts",
+          "forks": null,
+          "name": "google / zx",
+          "rank": 4,
+          "repo_key": "google/zx",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/zx"
+        },
+        {
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "forks": null,
+          "name": "iptv-org / iptv",
+          "rank": 5,
+          "repo_key": "iptv-org/iptv",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iptv-org/iptv"
+        },
+        {
+          "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+          "forks": null,
+          "name": "NaiboWang / EasySpider",
+          "rank": 6,
+          "repo_key": "naibowang/easyspider",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NaiboWang/EasySpider"
+        },
+        {
+          "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+          "forks": null,
+          "name": "4ian / GDevelop",
+          "rank": 7,
+          "repo_key": "4ian/gdevelop",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/4ian/GDevelop"
+        },
+        {
+          "description": "LuCI - OpenWrt Configuration Interface",
+          "forks": null,
+          "name": "openwrt / luci",
+          "rank": 8,
+          "repo_key": "openwrt/luci",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/openwrt/luci"
+        },
+        {
+          "description": "🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.",
+          "forks": null,
+          "name": "saadpasta / developerFolio",
+          "rank": 9,
+          "repo_key": "saadpasta/developerfolio",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/saadpasta/developerFolio"
+        },
+        {
+          "description": "Clone to try a simple Electron app",
+          "forks": null,
+          "name": "electron / electron-quick-start",
+          "rank": 10,
+          "repo_key": "electron/electron-quick-start",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/electron/electron-quick-start"
+        },
+        {
+          "description": "The open-source repo for docs.github.com",
+          "forks": null,
+          "name": "github / docs",
+          "rank": 11,
+          "repo_key": "github/docs",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/docs"
+        },
+        {
+          "description": "Modern, feature-rich and accessible desktop configuration.",
+          "forks": null,
+          "name": "end-4 / dots-hyprland",
+          "rank": 12,
+          "repo_key": "end-4/dots-hyprland",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/end-4/dots-hyprland"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+          "forks": null,
+          "name": "ollama / ollama",
+          "rank": 1,
+          "repo_key": "ollama/ollama",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ollama/ollama"
+        },
+        {
+          "description": "An automated e-mail OSINT tool",
+          "forks": null,
+          "name": "alpkeskin / mosint",
+          "rank": 2,
+          "repo_key": "alpkeskin/mosint",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alpkeskin/mosint"
+        },
+        {
+          "description": "The universal proxy platform",
+          "forks": null,
+          "name": "SagerNet / sing-box",
+          "rank": 3,
+          "repo_key": "sagernet/sing-box",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SagerNet/sing-box"
+        },
+        {
+          "description": "Developer Friendly Kubernetes 👁️",
+          "forks": null,
+          "name": "cyclops-ui / cyclops",
+          "rank": 4,
+          "repo_key": "cyclops-ui/cyclops",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cyclops-ui/cyclops"
+        },
+        {
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "forks": null,
+          "name": "influxdata / telegraf",
+          "rank": 5,
+          "repo_key": "influxdata/telegraf",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/influxdata/telegraf"
+        },
+        {
+          "description": "Network-wide ads & trackers blocking DNS server",
+          "forks": null,
+          "name": "AdguardTeam / AdGuardHome",
+          "rank": 6,
+          "repo_key": "adguardteam/adguardhome",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AdguardTeam/AdGuardHome"
+        },
+        {
+          "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+          "forks": null,
+          "name": "livekit / livekit",
+          "rank": 7,
+          "repo_key": "livekit/livekit",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/livekit/livekit"
+        },
+        {
+          "description": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",
+          "forks": null,
+          "name": "v2rayA / v2rayA",
+          "rank": 8,
+          "repo_key": "v2raya/v2raya",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2rayA/v2rayA"
+        },
+        {
+          "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+          "forks": null,
+          "name": "XIU2 / CloudflareSpeedTest",
+          "rank": 9,
+          "repo_key": "xiu2/cloudflarespeedtest",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XIU2/CloudflareSpeedTest"
+        },
+        {
+          "description": "Fast, secure, efficient backup program",
+          "forks": null,
+          "name": "restic / restic",
+          "rank": 10,
+          "repo_key": "restic/restic",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/restic/restic"
+        },
+        {
+          "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+          "forks": null,
+          "name": "matrix-org / dendrite",
+          "rank": 11,
+          "repo_key": "matrix-org/dendrite",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/matrix-org/dendrite"
+        },
+        {
+          "description": "🧟 The modern PHP app server",
+          "forks": null,
+          "name": "dunglas / frankenphp",
+          "rank": 12,
+          "repo_key": "dunglas/frankenphp",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dunglas/frankenphp"
+        },
+        {
+          "description": "The world’s fastest framework for building websites.",
+          "forks": null,
+          "name": "gohugoio / hugo",
+          "rank": 13,
+          "repo_key": "gohugoio/hugo",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gohugoio/hugo"
+        },
+        {
+          "description": "In-depth attack surface mapping and asset discovery",
+          "forks": null,
+          "name": "owasp-amass / amass",
+          "rank": 14,
+          "repo_key": "owasp-amass/amass",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/owasp-amass/amass"
+        },
+        {
+          "description": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
+          "forks": null,
+          "name": "DiceDB / dice",
+          "rank": 15,
+          "repo_key": "dicedb/dice",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DiceDB/dice"
+        },
+        {
+          "description": "Elegant Scraper and Crawler Framework for Golang",
+          "forks": null,
+          "name": "gocolly / colly",
+          "rank": 16,
+          "repo_key": "gocolly/colly",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gocolly/colly"
+        },
+        {
+          "description": "Distributed server for social and realtime games and apps.",
+          "forks": null,
+          "name": "heroiclabs / nakama",
+          "rank": 17,
+          "repo_key": "heroiclabs/nakama",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/heroiclabs/nakama"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Design patterns implemented in Java",
+          "forks": null,
+          "name": "iluwatar / java-design-patterns",
+          "rank": 1,
+          "repo_key": "iluwatar/java-design-patterns",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iluwatar/java-design-patterns"
+        },
+        {
+          "description": "No clever tagline needed.",
+          "forks": null,
+          "name": "LawnchairLauncher / lawnchair",
+          "rank": 2,
+          "repo_key": "lawnchairlauncher/lawnchair",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/LawnchairLauncher/lawnchair"
+        },
+        {
+          "description": "Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+          "forks": null,
+          "name": "kestra-io / kestra",
+          "rank": 3,
+          "repo_key": "kestra-io/kestra",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kestra-io/kestra"
+        },
+        {
+          "description": "AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.",
+          "forks": null,
+          "name": "AutoMQ / automq",
+          "rank": 4,
+          "repo_key": "automq/automq",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AutoMQ/automq"
+        },
+        {
+          "description": "The automation tower defense RTS",
+          "forks": null,
+          "name": "Anuken / Mindustry",
+          "rank": 5,
+          "repo_key": "anuken/mindustry",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Anuken/Mindustry"
+        },
+        {
+          "description": "Material design file manager for Android",
+          "forks": null,
+          "name": "TeamAmaze / AmazeFileManager",
+          "rank": 6,
+          "repo_key": "teamamaze/amazefilemanager",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamAmaze/AmazeFileManager"
+        },
+        {
+          "description": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
+          "forks": null,
+          "name": "yuliskov / SmartTube",
+          "rank": 7,
+          "repo_key": "yuliskov/smarttube",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yuliskov/SmartTube"
+        },
+        {
+          "description": "Mirror of Apache Cassandra",
+          "forks": null,
+          "name": "apache / cassandra",
+          "rank": 8,
+          "repo_key": "apache/cassandra",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/cassandra"
+        },
+        {
+          "description": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+          "forks": null,
+          "name": "CatVodTVOfficial / TVBoxOSC",
+          "rank": 9,
+          "repo_key": "catvodtvofficial/tvboxosc",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CatVodTVOfficial/TVBoxOSC"
+        },
+        {
+          "description": "Digital logic design tool and simulator",
+          "forks": null,
+          "name": "logisim-evolution / logisim-evolution",
+          "rank": 10,
+          "repo_key": "logisim-evolution/logisim-evolution",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/logisim-evolution/logisim-evolution"
+        },
+        {
+          "description": "OsmAnd",
+          "forks": null,
+          "name": "osmandapp / OsmAnd",
+          "rank": 11,
+          "repo_key": "osmandapp/osmand",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/osmandapp/OsmAnd"
+        },
+        {
+          "description": "Your Cheat Sheet For Android Interview - Android Interview Questions and Answers",
+          "forks": null,
+          "name": "amitshekhariitbhu / android-interview-questions",
+          "rank": 12,
+          "repo_key": "amitshekhariitbhu/android-interview-questions",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/amitshekhariitbhu/android-interview-questions"
+        },
+        {
+          "description": "Open source Old School RuneScape client",
+          "forks": null,
+          "name": "runelite / runelite",
+          "rank": 13,
+          "repo_key": "runelite/runelite",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/runelite/runelite"
+        },
+        {
+          "description": "MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!",
+          "forks": null,
+          "name": "ReChronoRain / HyperCeiler",
+          "rank": 14,
+          "repo_key": "rechronorain/hyperceiler",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ReChronoRain/HyperCeiler"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "devopshydclub / vprofile-project",
+          "rank": 15,
+          "repo_key": "devopshydclub/vprofile-project",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/devopshydclub/vprofile-project"
+        },
+        {
+          "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+          "forks": null,
+          "name": "ReactiveX / RxJava",
+          "rank": 16,
+          "repo_key": "reactivex/rxjava",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ReactiveX/RxJava"
+        },
+        {
+          "description": "A tool for reverse engineering Android apk files",
+          "forks": null,
+          "name": "iBotPeaches / Apktool",
+          "rank": 17,
+          "repo_key": "ibotpeaches/apktool",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iBotPeaches/Apktool"
+        },
+        {
+          "description": "A Fabric mod designed to improve frame rates and reduce micro-stutter",
+          "forks": null,
+          "name": "CaffeineMC / sodium-fabric",
+          "rank": 18,
+          "repo_key": "caffeinemc/sodium-fabric",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CaffeineMC/sodium-fabric"
+        },
+        {
+          "description": "ehviewer，用爱发电，快乐前行",
+          "forks": null,
+          "name": "xiaojieonly / Ehviewer_CN_SXJ",
+          "rank": 19,
+          "repo_key": "xiaojieonly/ehviewer_cn_sxj",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2024-07-29",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2024/2024-07-29.md",
+  "source_sha256": "f1207017efd8c48f4e7729599855b4dbb9e5a84fabf390504a58d551ef02fec5",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

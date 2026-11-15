@@ -1,0 +1,655 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "A Lightweight Recommendation System",
+          "forks": null,
+          "name": "bytedance / monolith",
+          "rank": 1,
+          "repo_key": "bytedance/monolith",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bytedance/monolith"
+        },
+        {
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "forks": null,
+          "name": "pathwaycom / pathway",
+          "rank": 2,
+          "repo_key": "pathwaycom/pathway",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pathwaycom/pathway"
+        },
+        {
+          "description": "DeepSeek Coder: Let the Code Write Itself",
+          "forks": null,
+          "name": "deepseek-ai / DeepSeek-Coder",
+          "rank": 3,
+          "repo_key": "deepseek-ai/deepseek-coder",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/deepseek-ai/DeepSeek-Coder"
+        },
+        {
+          "description": "Official inference repo for FLUX.1 models",
+          "forks": null,
+          "name": "black-forest-labs / flux",
+          "rank": 4,
+          "repo_key": "black-forest-labs/flux",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/black-forest-labs/flux"
+        },
+        {
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+          "forks": null,
+          "name": "stanford-oval / storm",
+          "rank": 5,
+          "repo_key": "stanford-oval/storm",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/stanford-oval/storm"
+        },
+        {
+          "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more",
+          "forks": null,
+          "name": "intuitem / ciso-assistant-community",
+          "rank": 6,
+          "repo_key": "intuitem/ciso-assistant-community",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/intuitem/ciso-assistant-community"
+        },
+        {
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+          "forks": null,
+          "name": "Byaidu / PDFMathTranslate",
+          "rank": 7,
+          "repo_key": "byaidu/pdfmathtranslate",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Byaidu/PDFMathTranslate"
+        },
+        {
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+          "forks": null,
+          "name": "crewAIInc / crewAI",
+          "rank": 8,
+          "repo_key": "crewaiinc/crewai",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/crewAIInc/crewAI"
+        },
+        {
+          "description": "The authentication glue you need.",
+          "forks": null,
+          "name": "goauthentik / authentik",
+          "rank": 9,
+          "repo_key": "goauthentik/authentik",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/goauthentik/authentik"
+        },
+        {
+          "description": "Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.",
+          "forks": null,
+          "name": "NexaAI / nexa-sdk",
+          "rank": 10,
+          "repo_key": "nexaai/nexa-sdk",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NexaAI/nexa-sdk"
+        },
+        {
+          "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+          "forks": null,
+          "name": "feder-cr / Jobs_Applier_AI_Agent",
+          "rank": 11,
+          "repo_key": "feder-cr/jobs_applier_ai_agent",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent"
+        },
+        {
+          "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+          "forks": null,
+          "name": "DrewThomasson / ebook2audiobook",
+          "rank": 12,
+          "repo_key": "drewthomasson/ebook2audiobook",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DrewThomasson/ebook2audiobook"
+        },
+        {
+          "description": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.",
+          "forks": null,
+          "name": "facebookresearch / Kats",
+          "rank": 13,
+          "repo_key": "facebookresearch/kats",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/facebookresearch/Kats"
+        },
+        {
+          "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+          "forks": null,
+          "name": "h2oai / h2ogpt",
+          "rank": 14,
+          "repo_key": "h2oai/h2ogpt",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/h2oai/h2ogpt"
+        },
+        {
+          "description": "The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towards completion.",
+          "forks": null,
+          "name": "OWASP / OFFAT",
+          "rank": 15,
+          "repo_key": "owasp/offat",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/OWASP/OFFAT"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Actual's server",
+          "forks": null,
+          "name": "actualbudget / actual-server",
+          "rank": 1,
+          "repo_key": "actualbudget/actual-server",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/actualbudget/actual-server"
+        },
+        {
+          "description": "Meshery, the cloud native manager",
+          "forks": null,
+          "name": "meshery / meshery",
+          "rank": 2,
+          "repo_key": "meshery/meshery",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/meshery/meshery"
+        },
+        {
+          "description": "Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.",
+          "forks": null,
+          "name": "vogler / free-games-claimer",
+          "rank": 3,
+          "repo_key": "vogler/free-games-claimer",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vogler/free-games-claimer"
+        },
+        {
+          "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+          "forks": null,
+          "name": "is-a-dev / register",
+          "rank": 4,
+          "repo_key": "is-a-dev/register",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/is-a-dev/register"
+        },
+        {
+          "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+          "forks": null,
+          "name": "Asabeneh / 30-Days-Of-JavaScript",
+          "rank": 5,
+          "repo_key": "asabeneh/30-days-of-javascript",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript"
+        },
+        {
+          "description": "Fourth iteration of my personal website built with Gatsby",
+          "forks": null,
+          "name": "bchiang7 / v4",
+          "rank": 6,
+          "repo_key": "bchiang7/v4",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bchiang7/v4"
+        },
+        {
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.",
+          "forks": null,
+          "name": "bia-pain-bache / BPB-Worker-Panel",
+          "rank": 7,
+          "repo_key": "bia-pain-bache/bpb-worker-panel",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "DefiLlama / chainlist",
+          "rank": 8,
+          "repo_key": "defillama/chainlist",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DefiLlama/chainlist"
+        },
+        {
+          "description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
+          "forks": null,
+          "name": "GoogleChrome / workbox",
+          "rank": 9,
+          "repo_key": "googlechrome/workbox",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/GoogleChrome/workbox"
+        },
+        {
+          "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+          "forks": null,
+          "name": "lucide-icons / lucide",
+          "rank": 10,
+          "repo_key": "lucide-icons/lucide",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lucide-icons/lucide"
+        },
+        {
+          "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+          "forks": null,
+          "name": "Koenkk / zigbee2mqtt",
+          "rank": 11,
+          "repo_key": "koenkk/zigbee2mqtt",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Koenkk/zigbee2mqtt"
+        },
+        {
+          "description": "A Clash Client For OpenWrt",
+          "forks": null,
+          "name": "vernesong / OpenClash",
+          "rank": 12,
+          "repo_key": "vernesong/openclash",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vernesong/OpenClash"
+        },
+        {
+          "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+          "forks": null,
+          "name": "sudheerj / reactjs-interview-questions",
+          "rank": 13,
+          "repo_key": "sudheerj/reactjs-interview-questions",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sudheerj/reactjs-interview-questions"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+          "forks": null,
+          "name": "caddyserver / caddy",
+          "rank": 1,
+          "repo_key": "caddyserver/caddy",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/caddyserver/caddy"
+        },
+        {
+          "description": "Solar Charging ☀️🚘",
+          "forks": null,
+          "name": "evcc-io / evcc",
+          "rank": 2,
+          "repo_key": "evcc-io/evcc",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/evcc-io/evcc"
+        },
+        {
+          "description": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+          "forks": null,
+          "name": "ollama / ollama",
+          "rank": 3,
+          "repo_key": "ollama/ollama",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ollama/ollama"
+        },
+        {
+          "description": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+          "forks": null,
+          "name": "1Panel-dev / 1Panel",
+          "rank": 4,
+          "repo_key": "1panel-dev/1panel",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/1Panel-dev/1Panel"
+        },
+        {
+          "description": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+          "forks": null,
+          "name": "Melkeydev / go-blueprint",
+          "rank": 5,
+          "repo_key": "melkeydev/go-blueprint",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Melkeydev/go-blueprint"
+        },
+        {
+          "description": "Torrent stream server",
+          "forks": null,
+          "name": "YouROK / TorrServer",
+          "rank": 6,
+          "repo_key": "yourok/torrserver",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/YouROK/TorrServer"
+        },
+        {
+          "description": "Fast passive subdomain enumeration tool.",
+          "forks": null,
+          "name": "projectdiscovery / subfinder",
+          "rank": 7,
+          "repo_key": "projectdiscovery/subfinder",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/projectdiscovery/subfinder"
+        },
+        {
+          "description": "A Modern Testing Framework for Go",
+          "forks": null,
+          "name": "onsi / ginkgo",
+          "rank": 8,
+          "repo_key": "onsi/ginkgo",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/onsi/ginkgo"
+        },
+        {
+          "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+          "forks": null,
+          "name": "gorilla / mux",
+          "rank": 9,
+          "repo_key": "gorilla/mux",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gorilla/mux"
+        },
+        {
+          "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+          "forks": null,
+          "name": "apernet / hysteria",
+          "rank": 10,
+          "repo_key": "apernet/hysteria",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apernet/hysteria"
+        },
+        {
+          "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+          "forks": null,
+          "name": "kubevirt / kubevirt",
+          "rank": 11,
+          "repo_key": "kubevirt/kubevirt",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubevirt/kubevirt"
+        },
+        {
+          "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+          "forks": null,
+          "name": "m1k1o / neko",
+          "rank": 12,
+          "repo_key": "m1k1o/neko",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/m1k1o/neko"
+        },
+        {
+          "description": "Making it easy to write shell-like scripts in Go",
+          "forks": null,
+          "name": "bitfield / script",
+          "rank": 13,
+          "repo_key": "bitfield/script",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bitfield/script"
+        },
+        {
+          "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+          "forks": null,
+          "name": "sysadminsmedia / homebox",
+          "rank": 14,
+          "repo_key": "sysadminsmedia/homebox",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sysadminsmedia/homebox"
+        },
+        {
+          "description": "Find, verify, and analyze leaked credentials",
+          "forks": null,
+          "name": "trufflesecurity / trufflehog",
+          "rank": 15,
+          "repo_key": "trufflesecurity/trufflehog",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/trufflesecurity/trufflehog"
+        },
+        {
+          "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+          "forks": null,
+          "name": "projectdiscovery / httpx",
+          "rank": 16,
+          "repo_key": "projectdiscovery/httpx",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/projectdiscovery/httpx"
+        },
+        {
+          "description": "Directory/File, DNS and VHost busting tool written in Go",
+          "forks": null,
+          "name": "OJ / gobuster",
+          "rank": 17,
+          "repo_key": "oj/gobuster",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/OJ/gobuster"
+        },
+        {
+          "description": "Ethereum implementation on the efficiency frontier https://docs.erigon.tech",
+          "forks": null,
+          "name": "erigontech / erigon",
+          "rank": 18,
+          "repo_key": "erigontech/erigon",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/erigontech/erigon"
+        },
+        {
+          "description": "Infrastructure as code for DNS!",
+          "forks": null,
+          "name": "StackExchange / dnscontrol",
+          "rank": 19,
+          "repo_key": "stackexchange/dnscontrol",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/StackExchange/dnscontrol"
+        },
+        {
+          "description": "CLI tool for spawning and running containers according to the OCI specification",
+          "forks": null,
+          "name": "opencontainers / runc",
+          "rank": 20,
+          "repo_key": "opencontainers/runc",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/opencontainers/runc"
+        },
+        {
+          "description": "A fast TCP/UDP tunnel over HTTP",
+          "forks": null,
+          "name": "jpillora / chisel",
+          "rank": 21,
+          "repo_key": "jpillora/chisel",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jpillora/chisel"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+          "forks": null,
+          "name": "krahets / hello-algo",
+          "rank": 1,
+          "repo_key": "krahets/hello-algo",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/krahets/hello-algo"
+        },
+        {
+          "description": "It's a Virtual Machine App for Android Which is Based on QEMU",
+          "forks": null,
+          "name": "xoureldeen / Vectras-VM-Android",
+          "rank": 2,
+          "repo_key": "xoureldeen/vectras-vm-android",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xoureldeen/Vectras-VM-Android"
+        },
+        {
+          "description": "A libre lightweight streaming front-end for Android.",
+          "forks": null,
+          "name": "TeamNewPipe / NewPipe",
+          "rank": 3,
+          "repo_key": "teamnewpipe/newpipe",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamNewPipe/NewPipe"
+        },
+        {
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "forks": null,
+          "name": "NationalSecurityAgency / ghidra",
+          "rank": 4,
+          "repo_key": "nationalsecurityagency/ghidra",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NationalSecurityAgency/ghidra"
+        },
+        {
+          "description": "ehviewer，用爱发电，快乐前行",
+          "forks": null,
+          "name": "xiaojieonly / Ehviewer_CN_SXJ",
+          "rank": 5,
+          "repo_key": "xiaojieonly/ehviewer_cn_sxj",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
+        },
+        {
+          "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+          "forks": null,
+          "name": "TGX-Android / Telegram-X",
+          "rank": 6,
+          "repo_key": "tgx-android/telegram-x",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TGX-Android/Telegram-X"
+        },
+        {
+          "description": "The API and the developer guide for Shizuku and Sui.",
+          "forks": null,
+          "name": "RikkaApps / Shizuku-API",
+          "rank": 7,
+          "repo_key": "rikkaapps/shizuku-api",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/RikkaApps/Shizuku-API"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2025-01-03",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2025/2025-01-03.md",
+  "source_sha256": "d91c6333333a3b29823e917da80735a36726e447ca459baf851fdf48c4bc872e",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

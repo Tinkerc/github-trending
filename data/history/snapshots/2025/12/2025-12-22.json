@@ -1,0 +1,1032 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "forks": null,
+          "name": "exo-explore / exo",
+          "rank": 1,
+          "repo_key": "exo-explore/exo",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/exo-explore/exo"
+        },
+        {
+          "description": "A GPT-empowered penetration testing tool",
+          "forks": null,
+          "name": "GreyDGL / PentestGPT",
+          "rank": 2,
+          "repo_key": "greydgl/pentestgpt",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/GreyDGL/PentestGPT"
+        },
+        {
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "forks": null,
+          "name": "swisskyrepo / PayloadsAllTheThings",
+          "rank": 3,
+          "repo_key": "swisskyrepo/payloadsallthethings",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "sgl-project / mini-sglang",
+          "rank": 4,
+          "repo_key": "sgl-project/mini-sglang",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sgl-project/mini-sglang"
+        },
+        {
+          "description": "Reachy Mini's SDK",
+          "forks": null,
+          "name": "pollen-robotics / reachy_mini",
+          "rank": 5,
+          "repo_key": "pollen-robotics/reachy_mini",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pollen-robotics/reachy_mini"
+        },
+        {
+          "description": "Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more. Join our Discord: https://discord.gg/ejRNvftDp9",
+          "forks": null,
+          "name": "MODSetter / SurfSense",
+          "rank": 6,
+          "repo_key": "modsetter/surfsense",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MODSetter/SurfSense"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "lllyasviel / stable-diffusion-webui-forge",
+          "rank": 7,
+          "repo_key": "lllyasviel/stable-diffusion-webui-forge",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge"
+        },
+        {
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "forks": null,
+          "name": "unclecode / crawl4ai",
+          "rank": 8,
+          "repo_key": "unclecode/crawl4ai",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/unclecode/crawl4ai"
+        },
+        {
+          "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.",
+          "forks": null,
+          "name": "JerBouma / FinanceDatabase",
+          "rank": 9,
+          "repo_key": "jerbouma/financedatabase",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JerBouma/FinanceDatabase"
+        },
+        {
+          "description": "The fundamental package for scientific computing with Python.",
+          "forks": null,
+          "name": "numpy / numpy",
+          "rank": 10,
+          "repo_key": "numpy/numpy",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/numpy/numpy"
+        },
+        {
+          "description": "All Algorithms implemented in Python",
+          "forks": null,
+          "name": "TheAlgorithms / Python",
+          "rank": 11,
+          "repo_key": "thealgorithms/python",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TheAlgorithms/Python"
+        },
+        {
+          "description": "GGUF Quantization support for native ComfyUI models",
+          "forks": null,
+          "name": "city96 / ComfyUI-GGUF",
+          "rank": 12,
+          "repo_key": "city96/comfyui-gguf",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/city96/ComfyUI-GGUF"
+        },
+        {
+          "description": "Experience macOS just like before",
+          "forks": null,
+          "name": "dortania / OpenCore-Legacy-Patcher",
+          "rank": 13,
+          "repo_key": "dortania/opencore-legacy-patcher",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dortania/OpenCore-Legacy-Patcher"
+        },
+        {
+          "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.",
+          "forks": null,
+          "name": "unslothai / unsloth",
+          "rank": 14,
+          "repo_key": "unslothai/unsloth",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/unslothai/unsloth"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+          "forks": null,
+          "name": "jaywcjlove / awesome-mac",
+          "rank": 1,
+          "repo_key": "jaywcjlove/awesome-mac",
+          "source_line": 20,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jaywcjlove/awesome-mac"
+        },
+        {
+          "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+          "forks": null,
+          "name": "HeyPuter / puter",
+          "rank": 2,
+          "repo_key": "heyputer/puter",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/HeyPuter/puter"
+        },
+        {
+          "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "forks": null,
+          "name": "hmjz100 / LinkSwift",
+          "rank": 3,
+          "repo_key": "hmjz100/linkswift",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hmjz100/LinkSwift"
+        },
+        {
+          "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+          "forks": null,
+          "name": "lovell / sharp",
+          "rank": 4,
+          "repo_key": "lovell/sharp",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lovell/sharp"
+        },
+        {
+          "description": "Meshery, the cloud native manager",
+          "forks": null,
+          "name": "meshery / meshery",
+          "rank": 5,
+          "repo_key": "meshery/meshery",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/meshery/meshery"
+        },
+        {
+          "description": "Self-hosted audiobook and podcast server",
+          "forks": null,
+          "name": "advplyr / audiobookshelf",
+          "rank": 6,
+          "repo_key": "advplyr/audiobookshelf",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/advplyr/audiobookshelf"
+        },
+        {
+          "description": "Stremio - Freedom to Stream",
+          "forks": null,
+          "name": "Stremio / stremio-web",
+          "rank": 7,
+          "repo_key": "stremio/stremio-web",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Stremio/stremio-web"
+        },
+        {
+          "description": "Fast, unopinionated, minimalist web framework for node.",
+          "forks": null,
+          "name": "expressjs / express",
+          "rank": 8,
+          "repo_key": "expressjs/express",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/expressjs/express"
+        },
+        {
+          "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新",
+          "forks": null,
+          "name": "zhaoolee / ChromeAppHeroes",
+          "rank": 9,
+          "repo_key": "zhaoolee/chromeappheroes",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zhaoolee/ChromeAppHeroes"
+        },
+        {
+          "description": "uBO Lite home (MV3)",
+          "forks": null,
+          "name": "uBlockOrigin / uBOL-home",
+          "rank": 10,
+          "repo_key": "ublockorigin/ubol-home",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/uBlockOrigin/uBOL-home"
+        },
+        {
+          "description": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。",
+          "forks": null,
+          "name": "huangxd- / danmu_api",
+          "rank": 11,
+          "repo_key": "huangxd-/danmu_api",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/huangxd-/danmu_api"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "basecamp / lexxy",
+          "rank": 12,
+          "repo_key": "basecamp/lexxy",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/basecamp/lexxy"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+          "forks": null,
+          "name": "NexaAI / nexa-sdk",
+          "rank": 1,
+          "repo_key": "nexaai/nexa-sdk",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NexaAI/nexa-sdk"
+        },
+        {
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+          "forks": null,
+          "name": "mudler / LocalAI",
+          "rank": 2,
+          "repo_key": "mudler/localai",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mudler/LocalAI"
+        },
+        {
+          "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+          "forks": null,
+          "name": "danielmiessler / Fabric",
+          "rank": 3,
+          "repo_key": "danielmiessler/fabric",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danielmiessler/Fabric"
+        },
+        {
+          "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+          "forks": null,
+          "name": "google / adk-go",
+          "rank": 4,
+          "repo_key": "google/adk-go",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/adk-go"
+        },
+        {
+          "description": "Run Kubernetes locally",
+          "forks": null,
+          "name": "kubernetes / minikube",
+          "rank": 5,
+          "repo_key": "kubernetes/minikube",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubernetes/minikube"
+        },
+        {
+          "description": "Network reconnaissance and asset discovery tool",
+          "forks": null,
+          "name": "Dyneteq / reconya",
+          "rank": 6,
+          "repo_key": "dyneteq/reconya",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Dyneteq/reconya"
+        },
+        {
+          "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+          "forks": null,
+          "name": "v2fly / domain-list-community",
+          "rank": 7,
+          "repo_key": "v2fly/domain-list-community",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2fly/domain-list-community"
+        },
+        {
+          "description": "Pretty fancy and modern terminal file manager",
+          "forks": null,
+          "name": "yorukot / superfile",
+          "rank": 8,
+          "repo_key": "yorukot/superfile",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yorukot/superfile"
+        },
+        {
+          "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+          "forks": null,
+          "name": "woodpecker-ci / woodpecker",
+          "rank": 9,
+          "repo_key": "woodpecker-ci/woodpecker",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/woodpecker-ci/woodpecker"
+        },
+        {
+          "description": "Easily sideload the IPA to AppleTV",
+          "forks": null,
+          "name": "bitxeno / atvloadly",
+          "rank": 10,
+          "repo_key": "bitxeno/atvloadly",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bitxeno/atvloadly"
+        },
+        {
+          "description": "The personal information dashboard for your terminal",
+          "forks": null,
+          "name": "wtfutil / wtf",
+          "rank": 11,
+          "repo_key": "wtfutil/wtf",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wtfutil/wtf"
+        },
+        {
+          "description": "Release engineering, simplified",
+          "forks": null,
+          "name": "goreleaser / goreleaser",
+          "rank": 12,
+          "repo_key": "goreleaser/goreleaser",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/goreleaser/goreleaser"
+        },
+        {
+          "description": "📂 Web File Browser",
+          "forks": null,
+          "name": "filebrowser / filebrowser",
+          "rank": 13,
+          "repo_key": "filebrowser/filebrowser",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/filebrowser/filebrowser"
+        },
+        {
+          "description": "Network-wide ads & trackers blocking DNS server",
+          "forks": null,
+          "name": "AdguardTeam / AdGuardHome",
+          "rank": 14,
+          "repo_key": "adguardteam/adguardhome",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AdguardTeam/AdGuardHome"
+        },
+        {
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "forks": null,
+          "name": "glanceapp / glance",
+          "rank": 15,
+          "repo_key": "glanceapp/glance",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/glanceapp/glance"
+        },
+        {
+          "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+          "forks": null,
+          "name": "milvus-io / milvus",
+          "rank": 16,
+          "repo_key": "milvus-io/milvus",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/milvus-io/milvus"
+        },
+        {
+          "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+          "forks": null,
+          "name": "googleapis / genai-toolbox",
+          "rank": 17,
+          "repo_key": "googleapis/genai-toolbox",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/googleapis/genai-toolbox"
+        },
+        {
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+          "forks": null,
+          "name": "hashicorp / terraform",
+          "rank": 18,
+          "repo_key": "hashicorp/terraform",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hashicorp/terraform"
+        },
+        {
+          "description": "🪓 Run Background Tasks at Scale",
+          "forks": null,
+          "name": "hatchet-dev / hatchet",
+          "rank": 19,
+          "repo_key": "hatchet-dev/hatchet",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hatchet-dev/hatchet"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Repository for the book \"Crafting Interpreters\"",
+          "forks": null,
+          "name": "munificent / craftinginterpreters",
+          "rank": 1,
+          "repo_key": "munificent/craftinginterpreters",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/munificent/craftinginterpreters"
+        },
+        {
+          "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+          "forks": null,
+          "name": "web-platform-tests / wpt",
+          "rank": 2,
+          "repo_key": "web-platform-tests/wpt",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/web-platform-tests/wpt"
+        },
+        {
+          "description": "A fast, clean, responsive Hugo theme.",
+          "forks": null,
+          "name": "adityatelange / hugo-PaperMod",
+          "rank": 3,
+          "repo_key": "adityatelange/hugo-papermod",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/adityatelange/hugo-PaperMod"
+        },
+        {
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "forks": null,
+          "name": "DigitalPlatDev / FreeDomain",
+          "rank": 4,
+          "repo_key": "digitalplatdev/freedomain",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DigitalPlatDev/FreeDomain"
+        },
+        {
+          "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)",
+          "forks": null,
+          "name": "MHSanaei / 3x-ui",
+          "rank": 5,
+          "repo_key": "mhsanaei/3x-ui",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MHSanaei/3x-ui"
+        },
+        {
+          "description": "A Clash Client For OpenWrt",
+          "forks": null,
+          "name": "vernesong / OpenClash",
+          "rank": 6,
+          "repo_key": "vernesong/openclash",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vernesong/OpenClash"
+        },
+        {
+          "description": "📘 Home Assistant User documentation",
+          "forks": null,
+          "name": "home-assistant / home-assistant.io",
+          "rank": 7,
+          "repo_key": "home-assistant/home-assistant.io",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/home-assistant/home-assistant.io"
+        },
+        {
+          "description": "Awesome Docker Compose samples",
+          "forks": null,
+          "name": "docker / awesome-compose",
+          "rank": 8,
+          "repo_key": "docker/awesome-compose",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/docker/awesome-compose"
+        },
+        {
+          "description": "Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.",
+          "forks": null,
+          "name": "iptv-org / epg",
+          "rank": 9,
+          "repo_key": "iptv-org/epg",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iptv-org/epg"
+        },
+        {
+          "description": "一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用",
+          "forks": null,
+          "name": "joyce677 / TrendRadar",
+          "rank": 10,
+          "repo_key": "joyce677/trendradar",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/joyce677/TrendRadar"
+        },
+        {
+          "description": "Open source courseware for Git and GitHub",
+          "forks": null,
+          "name": "github / training-kit",
+          "rank": 11,
+          "repo_key": "github/training-kit",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/training-kit"
+        }
+      ],
+      "language_filter": "html",
+      "period": "daily",
+      "source_url": "https://github.com/trending/html?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The swiss army knife of lossless video/audio editing",
+          "forks": null,
+          "name": "mifi / lossless-cut",
+          "rank": 1,
+          "repo_key": "mifi/lossless-cut",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mifi/lossless-cut"
+        },
+        {
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "forks": null,
+          "name": "iptv-org / iptv",
+          "rank": 2,
+          "repo_key": "iptv-org/iptv",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iptv-org/iptv"
+        },
+        {
+          "description": "Build production-ready applications in TypeScript",
+          "forks": null,
+          "name": "Effect-TS / effect",
+          "rank": 3,
+          "repo_key": "effect-ts/effect",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Effect-TS/effect"
+        },
+        {
+          "description": "The open-source repo for docs.github.com",
+          "forks": null,
+          "name": "github / docs",
+          "rank": 4,
+          "repo_key": "github/docs",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/docs"
+        },
+        {
+          "description": "Write beautiful documentations with Nuxt and Markdown.",
+          "forks": null,
+          "name": "nuxt-content / docus",
+          "rank": 5,
+          "repo_key": "nuxt-content/docus",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nuxt-content/docus"
+        },
+        {
+          "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+          "forks": null,
+          "name": "firecrawl / firecrawl",
+          "rank": 6,
+          "repo_key": "firecrawl/firecrawl",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/firecrawl/firecrawl"
+        },
+        {
+          "description": "Personal AI Infrastructure for upgrading humans.",
+          "forks": null,
+          "name": "danielmiessler / Personal_AI_Infrastructure",
+          "rank": 7,
+          "repo_key": "danielmiessler/personal_ai_infrastructure",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+        },
+        {
+          "description": "⚡ Next-gen Web Extension Framework",
+          "forks": null,
+          "name": "wxt-dev / wxt",
+          "rank": 8,
+          "repo_key": "wxt-dev/wxt",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wxt-dev/wxt"
+        },
+        {
+          "description": "The cutest Discord modification",
+          "forks": null,
+          "name": "Vendicated / Vencord",
+          "rank": 9,
+          "repo_key": "vendicated/vencord",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Vendicated/Vencord"
+        },
+        {
+          "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+          "forks": null,
+          "name": "google / adk-js",
+          "rank": 10,
+          "repo_key": "google/adk-js",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/adk-js"
+        }
+      ],
+      "language_filter": "typescript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/typescript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "强大易用的开源建站工具。",
+          "forks": null,
+          "name": "halo-dev / halo",
+          "rank": 1,
+          "repo_key": "halo-dev/halo",
+          "source_line": 80,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/halo-dev/halo"
+        },
+        {
+          "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+          "forks": null,
+          "name": "PaperMC / Paper",
+          "rank": 2,
+          "repo_key": "papermc/paper",
+          "source_line": 81,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PaperMC/Paper"
+        },
+        {
+          "description": "A digital logic designer and circuit simulator.",
+          "forks": null,
+          "name": "hneemann / Digital",
+          "rank": 3,
+          "repo_key": "hneemann/digital",
+          "source_line": 82,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hneemann/Digital"
+        },
+        {
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation",
+          "forks": null,
+          "name": "krahets / hello-algo",
+          "rank": 4,
+          "repo_key": "krahets/hello-algo",
+          "source_line": 83,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/krahets/hello-algo"
+        },
+        {
+          "description": "Google core libraries for Java",
+          "forks": null,
+          "name": "google / guava",
+          "rank": 5,
+          "repo_key": "google/guava",
+          "source_line": 84,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/guava"
+        },
+        {
+          "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+          "forks": null,
+          "name": "termux / termux-app",
+          "rank": 6,
+          "repo_key": "termux/termux-app",
+          "source_line": 85,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/termux/termux-app"
+        },
+        {
+          "description": "LSPosed Framework resuscitated",
+          "forks": null,
+          "name": "JingMatrix / LSPosed",
+          "rank": 7,
+          "repo_key": "jingmatrix/lsposed",
+          "source_line": 86,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JingMatrix/LSPosed"
+        },
+        {
+          "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+          "forks": null,
+          "name": "karma9874 / AndroRAT",
+          "rank": 8,
+          "repo_key": "karma9874/androrat",
+          "source_line": 87,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/karma9874/AndroRAT"
+        },
+        {
+          "description": "OsmAnd",
+          "forks": null,
+          "name": "osmandapp / OsmAnd",
+          "rank": 9,
+          "repo_key": "osmandapp/osmand",
+          "source_line": 88,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/osmandapp/OsmAnd"
+        },
+        {
+          "description": "Apache Maven core",
+          "forks": null,
+          "name": "apache / maven",
+          "rank": 10,
+          "repo_key": "apache/maven",
+          "source_line": 89,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/maven"
+        },
+        {
+          "description": "Spring Framework",
+          "forks": null,
+          "name": "spring-projects / spring-framework",
+          "rank": 11,
+          "repo_key": "spring-projects/spring-framework",
+          "source_line": 90,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/spring-projects/spring-framework"
+        },
+        {
+          "description": "Apache Hadoop",
+          "forks": null,
+          "name": "apache / hadoop",
+          "rank": 12,
+          "repo_key": "apache/hadoop",
+          "source_line": 91,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/hadoop"
+        },
+        {
+          "description": "Telegram for Android source",
+          "forks": null,
+          "name": "DrKLO / Telegram",
+          "rank": 13,
+          "repo_key": "drklo/telegram",
+          "source_line": 92,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DrKLO/Telegram"
+        },
+        {
+          "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+          "forks": null,
+          "name": "checkstyle / checkstyle",
+          "rank": 14,
+          "repo_key": "checkstyle/checkstyle",
+          "source_line": 93,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/checkstyle/checkstyle"
+        },
+        {
+          "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+          "forks": null,
+          "name": "Creators-of-Create / Create",
+          "rank": 15,
+          "repo_key": "creators-of-create/create",
+          "source_line": 94,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Creators-of-Create/Create"
+        },
+        {
+          "description": "Essential hooks for modding with Fabric.",
+          "forks": null,
+          "name": "FabricMC / fabric",
+          "rank": 16,
+          "repo_key": "fabricmc/fabric",
+          "source_line": 95,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/FabricMC/fabric"
+        },
+        {
+          "description": "Advanced Text Editor for Android",
+          "forks": null,
+          "name": "Xed-Editor / Xed-Editor",
+          "rank": 17,
+          "repo_key": "xed-editor/xed-editor",
+          "source_line": 96,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Xed-Editor/Xed-Editor"
+        },
+        {
+          "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
+          "forks": null,
+          "name": "shmykelsa / AAAD",
+          "rank": 18,
+          "repo_key": "shmykelsa/aaad",
+          "source_line": 97,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/shmykelsa/AAAD"
+        },
+        {
+          "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+          "forks": null,
+          "name": "kunal-kushwaha / DSA-Bootcamp-Java",
+          "rank": 19,
+          "repo_key": "kunal-kushwaha/dsa-bootcamp-java",
+          "source_line": 98,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java"
+        },
+        {
+          "description": "Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases",
+          "forks": null,
+          "name": "JabRef / jabref",
+          "rank": 20,
+          "repo_key": "jabref/jabref",
+          "source_line": 99,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JabRef/jabref"
+        },
+        {
+          "description": "MyBatis SQL mapper framework for Java",
+          "forks": null,
+          "name": "mybatis / mybatis-3",
+          "rank": 21,
+          "repo_key": "mybatis/mybatis-3",
+          "source_line": 100,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mybatis/mybatis-3"
+        },
+        {
+          "description": "A libre lightweight streaming front-end for Android.",
+          "forks": null,
+          "name": "TeamNewPipe / NewPipe",
+          "rank": 22,
+          "repo_key": "teamnewpipe/newpipe",
+          "source_line": 101,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamNewPipe/NewPipe"
+        },
+        {
+          "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+          "forks": null,
+          "name": "HMCL-dev / HMCL",
+          "rank": 23,
+          "repo_key": "hmcl-dev/hmcl",
+          "source_line": 102,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/HMCL-dev/HMCL"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2025-12-22",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2025/2025-12-22.md",
+  "source_sha256": "7e67205a37d23a5364285c8953031c5eb3668b4fd990193fb9c8c451945dcdfe",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

@@ -1,0 +1,820 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Brand new TTS solution",
+          "forks": null,
+          "name": "fishaudio / fish-speech",
+          "rank": 1,
+          "repo_key": "fishaudio/fish-speech",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fishaudio/fish-speech"
+        },
+        {
+          "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+          "forks": null,
+          "name": "Avaiga / taipy",
+          "rank": 2,
+          "repo_key": "avaiga/taipy",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Avaiga/taipy"
+        },
+        {
+          "description": "Agent Zero AI framework",
+          "forks": null,
+          "name": "frdel / agent-zero",
+          "rank": 3,
+          "repo_key": "frdel/agent-zero",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/frdel/agent-zero"
+        },
+        {
+          "description": "Python - 100天从新手到大师",
+          "forks": null,
+          "name": "jackfrued / Python-100-Days",
+          "rank": 4,
+          "repo_key": "jackfrued/python-100-days",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jackfrued/Python-100-Days"
+        },
+        {
+          "description": "aider is AI pair programming in your terminal",
+          "forks": null,
+          "name": "paul-gauthier / aider",
+          "rank": 5,
+          "repo_key": "paul-gauthier/aider",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/paul-gauthier/aider"
+        },
+        {
+          "description": "A feature-rich command-line audio/video downloader",
+          "forks": null,
+          "name": "yt-dlp / yt-dlp",
+          "rank": 6,
+          "repo_key": "yt-dlp/yt-dlp",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yt-dlp/yt-dlp"
+        },
+        {
+          "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+          "forks": null,
+          "name": "sissbruecker / linkding",
+          "rank": 7,
+          "repo_key": "sissbruecker/linkding",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sissbruecker/linkding"
+        },
+        {
+          "description": "The first real AI developer",
+          "forks": null,
+          "name": "Pythagora-io / gpt-pilot",
+          "rank": 8,
+          "repo_key": "pythagora-io/gpt-pilot",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Pythagora-io/gpt-pilot"
+        },
+        {
+          "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+          "forks": null,
+          "name": "infiniflow / ragflow",
+          "rank": 9,
+          "repo_key": "infiniflow/ragflow",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/infiniflow/ragflow"
+        },
+        {
+          "description": "High accuracy RAG for answering questions from scientific documents with citations",
+          "forks": null,
+          "name": "Future-House / paper-qa",
+          "rank": 10,
+          "repo_key": "future-house/paper-qa",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Future-House/paper-qa"
+        },
+        {
+          "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+          "forks": null,
+          "name": "zhayujie / chatgpt-on-wechat",
+          "rank": 11,
+          "repo_key": "zhayujie/chatgpt-on-wechat",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zhayujie/chatgpt-on-wechat"
+        },
+        {
+          "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+          "forks": null,
+          "name": "khoj-ai / khoj",
+          "rank": 12,
+          "repo_key": "khoj-ai/khoj",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/khoj-ai/khoj"
+        },
+        {
+          "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+          "forks": null,
+          "name": "vinta / awesome-python",
+          "rank": 13,
+          "repo_key": "vinta/awesome-python",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vinta/awesome-python"
+        },
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 14,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+          "forks": null,
+          "name": "modelscope / FunASR",
+          "rank": 15,
+          "repo_key": "modelscope/funasr",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/modelscope/FunASR"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Cybernetically enhanced web apps",
+          "forks": null,
+          "name": "sveltejs / svelte",
+          "rank": 1,
+          "repo_key": "sveltejs/svelte",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sveltejs/svelte"
+        },
+        {
+          "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+          "forks": null,
+          "name": "songquanpeng / one-api",
+          "rank": 2,
+          "repo_key": "songquanpeng/one-api",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/songquanpeng/one-api"
+        },
+        {
+          "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+          "forks": null,
+          "name": "ltdrdata / ComfyUI-Manager",
+          "rank": 3,
+          "repo_key": "ltdrdata/comfyui-manager",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ltdrdata/ComfyUI-Manager"
+        },
+        {
+          "description": "🛍️ NodeJS E-commerce Platform",
+          "forks": null,
+          "name": "evershopcommerce / evershop",
+          "rank": 4,
+          "repo_key": "evershopcommerce/evershop",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/evershopcommerce/evershop"
+        },
+        {
+          "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+          "forks": null,
+          "name": "4ian / GDevelop",
+          "rank": 5,
+          "repo_key": "4ian/gdevelop",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/4ian/GDevelop"
+        },
+        {
+          "description": "✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+          "forks": null,
+          "name": "fanmingming / live",
+          "rank": 6,
+          "repo_key": "fanmingming/live",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fanmingming/live"
+        },
+        {
+          "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+          "forks": null,
+          "name": "cmliu / CF-Workers-docker.io",
+          "rank": 7,
+          "repo_key": "cmliu/cf-workers-docker.io",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cmliu/CF-Workers-docker.io"
+        },
+        {
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "forks": null,
+          "name": "iptv-org / iptv",
+          "rank": 8,
+          "repo_key": "iptv-org/iptv",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iptv-org/iptv"
+        },
+        {
+          "description": "The Abstraction and Reasoning Corpus",
+          "forks": null,
+          "name": "fchollet / ARC-AGI",
+          "rank": 9,
+          "repo_key": "fchollet/arc-agi",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fchollet/ARC-AGI"
+        },
+        {
+          "description": "Source Code for Sigma Web Development Course",
+          "forks": null,
+          "name": "CodeWithHarry / Sigma-Web-Dev-Course",
+          "rank": 10,
+          "repo_key": "codewithharry/sigma-web-dev-course",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course"
+        },
+        {
+          "description": "LLM Frontend for Power Users.",
+          "forks": null,
+          "name": "SillyTavern / SillyTavern",
+          "rank": 11,
+          "repo_key": "sillytavern/sillytavern",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SillyTavern/SillyTavern"
+        },
+        {
+          "description": "Fast, unopinionated, minimalist web framework for node.",
+          "forks": null,
+          "name": "expressjs / express",
+          "rank": 12,
+          "repo_key": "expressjs/express",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/expressjs/express"
+        },
+        {
+          "description": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+          "forks": null,
+          "name": "wanglin2 / mind-map",
+          "rank": 13,
+          "repo_key": "wanglin2/mind-map",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wanglin2/mind-map"
+        },
+        {
+          "description": "支持多协议多用户的 xray 面板",
+          "forks": null,
+          "name": "vaxilu / x-ui",
+          "rank": 14,
+          "repo_key": "vaxilu/x-ui",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vaxilu/x-ui"
+        },
+        {
+          "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+          "forks": null,
+          "name": "WhiskeySockets / Baileys",
+          "rank": 15,
+          "repo_key": "whiskeysockets/baileys",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WhiskeySockets/Baileys"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Yet another Yogurt - An AUR Helper written in Go",
+          "forks": null,
+          "name": "Jguer / yay",
+          "rank": 1,
+          "repo_key": "jguer/yay",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Jguer/yay"
+        },
+        {
+          "description": "🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。",
+          "forks": null,
+          "name": "1Panel-dev / 1Panel",
+          "rank": 2,
+          "repo_key": "1panel-dev/1panel",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/1Panel-dev/1Panel"
+        },
+        {
+          "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+          "forks": null,
+          "name": "cloudwego / hertz",
+          "rank": 3,
+          "repo_key": "cloudwego/hertz",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cloudwego/hertz"
+        },
+        {
+          "description": "Giving Kubernetes Superpowers to everyone",
+          "forks": null,
+          "name": "k8sgpt-ai / k8sgpt",
+          "rank": 4,
+          "repo_key": "k8sgpt-ai/k8sgpt",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/k8sgpt-ai/k8sgpt"
+        },
+        {
+          "description": "The universal proxy platform",
+          "forks": null,
+          "name": "SagerNet / sing-box",
+          "rank": 5,
+          "repo_key": "sagernet/sing-box",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SagerNet/sing-box"
+        },
+        {
+          "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "forks": null,
+          "name": "IceWhaleTech / CasaOS",
+          "rank": 6,
+          "repo_key": "icewhaletech/casaos",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/IceWhaleTech/CasaOS"
+        },
+        {
+          "description": "⚡️ Express inspired web framework written in Go",
+          "forks": null,
+          "name": "gofiber / fiber",
+          "rank": 7,
+          "repo_key": "gofiber/fiber",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gofiber/fiber"
+        },
+        {
+          "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+          "forks": null,
+          "name": "containerd / nerdctl",
+          "rank": 8,
+          "repo_key": "containerd/nerdctl",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/containerd/nerdctl"
+        },
+        {
+          "description": "📂 Web File Browser",
+          "forks": null,
+          "name": "filebrowser / filebrowser",
+          "rank": 9,
+          "repo_key": "filebrowser/filebrowser",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/filebrowser/filebrowser"
+        },
+        {
+          "description": "👾 Fast and simple video download library and CLI tool written in Go",
+          "forks": null,
+          "name": "iawia002 / lux",
+          "rank": 10,
+          "repo_key": "iawia002/lux",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iawia002/lux"
+        },
+        {
+          "description": "IM Chat",
+          "forks": null,
+          "name": "openimsdk / open-im-server",
+          "rank": 11,
+          "repo_key": "openimsdk/open-im-server",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/openimsdk/open-im-server"
+        },
+        {
+          "description": "Create beautiful applications using Go",
+          "forks": null,
+          "name": "wailsapp / wails",
+          "rank": 12,
+          "repo_key": "wailsapp/wails",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wailsapp/wails"
+        },
+        {
+          "description": "🌸 A command-line fuzzy finder",
+          "forks": null,
+          "name": "junegunn / fzf",
+          "rank": 13,
+          "repo_key": "junegunn/fzf",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/junegunn/fzf"
+        },
+        {
+          "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser",
+          "forks": null,
+          "name": "gdy666 / lucky",
+          "rank": 14,
+          "repo_key": "gdy666/lucky",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gdy666/lucky"
+        },
+        {
+          "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+          "forks": null,
+          "name": "tmc / langchaingo",
+          "rank": 15,
+          "repo_key": "tmc/langchaingo",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tmc/langchaingo"
+        },
+        {
+          "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+          "forks": null,
+          "name": "netbirdio / netbird",
+          "rank": 16,
+          "repo_key": "netbirdio/netbird",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/netbirdio/netbird"
+        },
+        {
+          "description": "The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",
+          "forks": null,
+          "name": "bytebase / bytebase",
+          "rank": 17,
+          "repo_key": "bytebase/bytebase",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bytebase/bytebase"
+        },
+        {
+          "description": "Go example projects",
+          "forks": null,
+          "name": "golang / example",
+          "rank": 18,
+          "repo_key": "golang/example",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/golang/example"
+        },
+        {
+          "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+          "forks": null,
+          "name": "zeromicro / go-zero",
+          "rank": 19,
+          "repo_key": "zeromicro/go-zero",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zeromicro/go-zero"
+        },
+        {
+          "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+          "forks": null,
+          "name": "ollama / ollama",
+          "rank": 20,
+          "repo_key": "ollama/ollama",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ollama/ollama"
+        },
+        {
+          "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+          "forks": null,
+          "name": "v2fly / domain-list-community",
+          "rank": 21,
+          "repo_key": "v2fly/domain-list-community",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2fly/domain-list-community"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+          "forks": null,
+          "name": "krahets / hello-algo",
+          "rank": 1,
+          "repo_key": "krahets/hello-algo",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/krahets/hello-algo"
+        },
+        {
+          "description": "Apache IoTDB",
+          "forks": null,
+          "name": "apache / iotdb",
+          "rank": 2,
+          "repo_key": "apache/iotdb",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/iotdb"
+        },
+        {
+          "description": "强大易用的开源建站工具。",
+          "forks": null,
+          "name": "halo-dev / halo",
+          "rank": 3,
+          "repo_key": "halo-dev/halo",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/halo-dev/halo"
+        },
+        {
+          "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+          "forks": null,
+          "name": "ashishps1 / awesome-low-level-design",
+          "rank": 4,
+          "repo_key": "ashishps1/awesome-low-level-design",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ashishps1/awesome-low-level-design"
+        },
+        {
+          "description": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+          "forks": null,
+          "name": "apache / incubator-seata",
+          "rank": 5,
+          "repo_key": "apache/incubator-seata",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/incubator-seata"
+        },
+        {
+          "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+          "forks": null,
+          "name": "alibaba / nacos",
+          "rank": 6,
+          "repo_key": "alibaba/nacos",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/nacos"
+        },
+        {
+          "description": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+          "forks": null,
+          "name": "jeecgboot / JeecgBoot",
+          "rank": 7,
+          "repo_key": "jeecgboot/jeecgboot",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jeecgboot/JeecgBoot"
+        },
+        {
+          "description": "Spring Boot",
+          "forks": null,
+          "name": "spring-projects / spring-boot",
+          "rank": 8,
+          "repo_key": "spring-projects/spring-boot",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/spring-projects/spring-boot"
+        },
+        {
+          "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+          "forks": null,
+          "name": "alibaba / spring-cloud-alibaba",
+          "rank": 9,
+          "repo_key": "alibaba/spring-cloud-alibaba",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/spring-cloud-alibaba"
+        },
+        {
+          "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+          "forks": null,
+          "name": "alibaba / arthas",
+          "rank": 10,
+          "repo_key": "alibaba/arthas",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/arthas"
+        },
+        {
+          "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+          "forks": null,
+          "name": "gunnarmorling / 1brc",
+          "rank": 11,
+          "repo_key": "gunnarmorling/1brc",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gunnarmorling/1brc"
+        },
+        {
+          "description": "MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。",
+          "forks": null,
+          "name": "metersphere / metersphere",
+          "rank": 12,
+          "repo_key": "metersphere/metersphere",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/metersphere/metersphere"
+        },
+        {
+          "description": "The official home of the Presto distributed SQL query engine for big data",
+          "forks": null,
+          "name": "prestodb / presto",
+          "rank": 13,
+          "repo_key": "prestodb/presto",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/prestodb/presto"
+        },
+        {
+          "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
+          "forks": null,
+          "name": "PojavLauncherTeam / PojavLauncher",
+          "rank": 14,
+          "repo_key": "pojavlauncherteam/pojavlauncher",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PojavLauncherTeam/PojavLauncher"
+        },
+        {
+          "description": "AList proxy server for TvBox, support playlist and search.",
+          "forks": null,
+          "name": "power721 / alist-tvbox",
+          "rank": 15,
+          "repo_key": "power721/alist-tvbox",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/power721/alist-tvbox"
+        },
+        {
+          "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+          "forks": null,
+          "name": "yudaocode / SpringBoot-Labs",
+          "rank": 16,
+          "repo_key": "yudaocode/springboot-labs",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yudaocode/SpringBoot-Labs"
+        },
+        {
+          "description": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+          "forks": null,
+          "name": "648540858 / wvp-GB28181-pro",
+          "rank": 17,
+          "repo_key": "648540858/wvp-gb28181-pro",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/648540858/wvp-GB28181-pro"
+        },
+        {
+          "description": "ehviewer，用爱发电，快乐前行",
+          "forks": null,
+          "name": "xiaojieonly / Ehviewer_CN_SXJ",
+          "rank": 18,
+          "repo_key": "xiaojieonly/ehviewer_cn_sxj",
+          "source_line": 78,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
+        },
+        {
+          "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+          "forks": null,
+          "name": "dataease / dataease",
+          "rank": 19,
+          "repo_key": "dataease/dataease",
+          "source_line": 79,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dataease/dataease"
+        },
+        {
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "forks": null,
+          "name": "Snailclimb / JavaGuide",
+          "rank": 20,
+          "repo_key": "snailclimb/javaguide",
+          "source_line": 80,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Snailclimb/JavaGuide"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2024-09-16",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2024/2024-09-16.md",
+  "source_sha256": "848a9799990321689688ad5690e6beefd5d21a9e0937a5e46053dfba448efd95",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

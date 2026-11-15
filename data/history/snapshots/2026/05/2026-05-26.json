@@ -1,0 +1,1032 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "forks": null,
+          "name": "anthropics / knowledge-work-plugins",
+          "rank": 1,
+          "repo_key": "anthropics/knowledge-work-plugins",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/anthropics/knowledge-work-plugins"
+        },
+        {
+          "description": "Learn it. Build it. Ship it for others.",
+          "forks": null,
+          "name": "rohitg00 / ai-engineering-from-scratch",
+          "rank": 2,
+          "repo_key": "rohitg00/ai-engineering-from-scratch",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+        },
+        {
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "forks": null,
+          "name": "mukul975 / Anthropic-Cybersecurity-Skills",
+          "rank": 3,
+          "repo_key": "mukul975/anthropic-cybersecurity-skills",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+        },
+        {
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "forks": null,
+          "name": "Fincept-Corporation / FinceptTerminal",
+          "rank": 4,
+          "repo_key": "fincept-corporation/finceptterminal",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+        },
+        {
+          "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+          "forks": null,
+          "name": "paperless-ngx / paperless-ngx",
+          "rank": 5,
+          "repo_key": "paperless-ngx/paperless-ngx",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/paperless-ngx/paperless-ngx"
+        },
+        {
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "forks": null,
+          "name": "shiyu-coder / Kronos",
+          "rank": 6,
+          "repo_key": "shiyu-coder/kronos",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/shiyu-coder/Kronos"
+        },
+        {
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+          "forks": null,
+          "name": "microsoft / agent-governance-toolkit",
+          "rank": 7,
+          "repo_key": "microsoft/agent-governance-toolkit",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/microsoft/agent-governance-toolkit"
+        },
+        {
+          "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+          "forks": null,
+          "name": "st-tech / ppf-contact-solver",
+          "rank": 8,
+          "repo_key": "st-tech/ppf-contact-solver",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/st-tech/ppf-contact-solver"
+        },
+        {
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "forks": null,
+          "name": "sansan0 / TrendRadar",
+          "rank": 9,
+          "repo_key": "sansan0/trendradar",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sansan0/TrendRadar"
+        },
+        {
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "forks": null,
+          "name": "666ghj / MiroFish",
+          "rank": 10,
+          "repo_key": "666ghj/mirofish",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+          "forks": null,
+          "name": "Datalux / Osintgram",
+          "rank": 11,
+          "repo_key": "datalux/osintgram",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Datalux/Osintgram"
+        },
+        {
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "forks": null,
+          "name": "OpenBB-finance / OpenBB",
+          "rank": 12,
+          "repo_key": "openbb-finance/openbb",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/OpenBB-finance/OpenBB"
+        },
+        {
+          "description": "Free trading strategies for Freqtrade bot",
+          "forks": null,
+          "name": "freqtrade / freqtrade-strategies",
+          "rank": 13,
+          "repo_key": "freqtrade/freqtrade-strategies",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/freqtrade/freqtrade-strategies"
+        },
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 14,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "A feature-rich command-line audio/video downloader",
+          "forks": null,
+          "name": "yt-dlp / yt-dlp",
+          "rank": 15,
+          "repo_key": "yt-dlp/yt-dlp",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yt-dlp/yt-dlp"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "forks": null,
+          "name": "affaan-m / ECC",
+          "rank": 1,
+          "repo_key": "affaan-m/ecc",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+          "description": "Curated list of the best free apps for PC and mobile",
+          "forks": null,
+          "name": "Axorax / awesome-free-apps",
+          "rank": 2,
+          "repo_key": "axorax/awesome-free-apps",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Axorax/awesome-free-apps"
+        },
+        {
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "forks": null,
+          "name": "nodejs / node",
+          "rank": 3,
+          "repo_key": "nodejs/node",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nodejs/node"
+        },
+        {
+          "description": "Make changes to FMHY",
+          "forks": null,
+          "name": "fmhy / edit",
+          "rank": 4,
+          "repo_key": "fmhy/edit",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fmhy/edit"
+        },
+        {
+          "description": "The design language that makes your AI harness better at design.",
+          "forks": null,
+          "name": "pbakaus / impeccable",
+          "rank": 5,
+          "repo_key": "pbakaus/impeccable",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+          "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+          "forks": null,
+          "name": "gorhill / uBlock",
+          "rank": 6,
+          "repo_key": "gorhill/ublock",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gorhill/uBlock"
+        },
+        {
+          "description": "The Free Software Media System - Official Web Client",
+          "forks": null,
+          "name": "jellyfin / jellyfin-web",
+          "rank": 7,
+          "repo_key": "jellyfin/jellyfin-web",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jellyfin/jellyfin-web"
+        },
+        {
+          "description": "Esphome based smart home control panel",
+          "forks": null,
+          "name": "jtenniswood / espcontrol",
+          "rank": 8,
+          "repo_key": "jtenniswood/espcontrol",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jtenniswood/espcontrol"
+        },
+        {
+          "description": "Welcome to a calmer internet",
+          "forks": null,
+          "name": "zen-browser / desktop",
+          "rank": 9,
+          "repo_key": "zen-browser/desktop",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zen-browser/desktop"
+        },
+        {
+          "description": "LLM Frontend for Power Users.",
+          "forks": null,
+          "name": "SillyTavern / SillyTavern",
+          "rank": 10,
+          "repo_key": "sillytavern/sillytavern",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SillyTavern/SillyTavern"
+        },
+        {
+          "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+          "forks": null,
+          "name": "gildas-lormeau / SingleFile",
+          "rank": 11,
+          "repo_key": "gildas-lormeau/singlefile",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gildas-lormeau/SingleFile"
+        },
+        {
+          "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "forks": null,
+          "name": "qist / tvbox",
+          "rank": 12,
+          "repo_key": "qist/tvbox",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/qist/tvbox"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Claude / Codex / Gemini API Proxy - CCX",
+          "forks": null,
+          "name": "BenedictKing / ccx",
+          "rank": 1,
+          "repo_key": "benedictking/ccx",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/BenedictKing/ccx"
+        },
+        {
+          "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+          "forks": null,
+          "name": "photoprism / photoprism",
+          "rank": 2,
+          "repo_key": "photoprism/photoprism",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/photoprism/photoprism"
+        },
+        {
+          "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+          "forks": null,
+          "name": "masterking32 / MasterDnsVPN",
+          "rank": 3,
+          "repo_key": "masterking32/masterdnsvpn",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/masterking32/MasterDnsVPN"
+        },
+        {
+          "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+          "forks": null,
+          "name": "crowdsecurity / crowdsec",
+          "rank": 4,
+          "repo_key": "crowdsecurity/crowdsec",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/crowdsecurity/crowdsec"
+        },
+        {
+          "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)",
+          "forks": null,
+          "name": "MHSanaei / 3x-ui",
+          "rank": 5,
+          "repo_key": "mhsanaei/3x-ui",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MHSanaei/3x-ui"
+        },
+        {
+          "description": "Network-wide ads & trackers blocking DNS server",
+          "forks": null,
+          "name": "AdguardTeam / AdGuardHome",
+          "rank": 6,
+          "repo_key": "adguardteam/adguardhome",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AdguardTeam/AdGuardHome"
+        },
+        {
+          "description": "Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+          "forks": null,
+          "name": "GhostTroops / scan4all",
+          "rank": 7,
+          "repo_key": "ghosttroops/scan4all",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/GhostTroops/scan4all"
+        },
+        {
+          "description": "Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML",
+          "forks": null,
+          "name": "everywall / ladder",
+          "rank": 8,
+          "repo_key": "everywall/ladder",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/everywall/ladder"
+        },
+        {
+          "description": "Google Workspace in your terminal.",
+          "forks": null,
+          "name": "openclaw / gogcli",
+          "rank": 9,
+          "repo_key": "openclaw/gogcli",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/openclaw/gogcli"
+        },
+        {
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+          "forks": null,
+          "name": "hashicorp / terraform",
+          "rank": 10,
+          "repo_key": "hashicorp/terraform",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hashicorp/terraform"
+        },
+        {
+          "description": "An open and reliable container runtime",
+          "forks": null,
+          "name": "containerd / containerd",
+          "rank": 11,
+          "repo_key": "containerd/containerd",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/containerd/containerd"
+        },
+        {
+          "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+          "forks": null,
+          "name": "google / syzkaller",
+          "rank": 12,
+          "repo_key": "google/syzkaller",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/syzkaller"
+        },
+        {
+          "description": "Open Source Continuous File Synchronization",
+          "forks": null,
+          "name": "syncthing / syncthing",
+          "rank": 13,
+          "repo_key": "syncthing/syncthing",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/syncthing/syncthing"
+        },
+        {
+          "description": "The world’s fastest framework for building websites.",
+          "forks": null,
+          "name": "gohugoio / hugo",
+          "rank": 14,
+          "repo_key": "gohugoio/hugo",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gohugoio/hugo"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "📘 Home Assistant User documentation",
+          "forks": null,
+          "name": "home-assistant / home-assistant.io",
+          "rank": 1,
+          "repo_key": "home-assistant/home-assistant.io",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/home-assistant/home-assistant.io"
+        },
+        {
+          "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
+          "forks": null,
+          "name": "pedrohcgs / claude-code-my-workflow",
+          "rank": 2,
+          "repo_key": "pedrohcgs/claude-code-my-workflow",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pedrohcgs/claude-code-my-workflow"
+        },
+        {
+          "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+          "forks": null,
+          "name": "windmill-labs / windmill",
+          "rank": 3,
+          "repo_key": "windmill-labs/windmill",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/windmill-labs/windmill"
+        },
+        {
+          "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
+          "forks": null,
+          "name": "google / fonts",
+          "rank": 4,
+          "repo_key": "google/fonts",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/fonts"
+        },
+        {
+          "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+          "forks": null,
+          "name": "cotes2020 / jekyll-theme-chirpy",
+          "rank": 5,
+          "repo_key": "cotes2020/jekyll-theme-chirpy",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cotes2020/jekyll-theme-chirpy"
+        },
+        {
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "forks": null,
+          "name": "trycua / cua",
+          "rank": 6,
+          "repo_key": "trycua/cua",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/trycua/cua"
+        },
+        {
+          "description": "Check if people follows you back on Instagram.",
+          "forks": null,
+          "name": "davidarroyo1234 / InstagramUnfollowers",
+          "rank": 7,
+          "repo_key": "davidarroyo1234/instagramunfollowers",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/davidarroyo1234/InstagramUnfollowers"
+        },
+        {
+          "description": "一个ai聊天项目",
+          "forks": null,
+          "name": "whale-Yd00 / freeapp",
+          "rank": 8,
+          "repo_key": "whale-yd00/freeapp",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/whale-Yd00/freeapp"
+        },
+        {
+          "description": "Examples of ComfyUI workflows",
+          "forks": null,
+          "name": "comfyanonymous / ComfyUI_examples",
+          "rank": 9,
+          "repo_key": "comfyanonymous/comfyui_examples",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/comfyanonymous/ComfyUI_examples"
+        },
+        {
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "forks": null,
+          "name": "ossu / computer-science",
+          "rank": 10,
+          "repo_key": "ossu/computer-science",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ossu/computer-science"
+        },
+        {
+          "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+          "forks": null,
+          "name": "tabler / tabler",
+          "rank": 11,
+          "repo_key": "tabler/tabler",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tabler/tabler"
+        },
+        {
+          "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+          "forks": null,
+          "name": "wilsonfreitas / awesome-quant",
+          "rank": 12,
+          "repo_key": "wilsonfreitas/awesome-quant",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wilsonfreitas/awesome-quant"
+        }
+      ],
+      "language_filter": "html",
+      "period": "daily",
+      "source_url": "https://github.com/trending/html?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "forks": null,
+          "name": "Lum1104 / Understand-Anything",
+          "rank": 1,
+          "repo_key": "lum1104/understand-anything",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Lum1104/Understand-Anything"
+        },
+        {
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "forks": null,
+          "name": "colbymchenry / codegraph",
+          "rank": 2,
+          "repo_key": "colbymchenry/codegraph",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/colbymchenry/codegraph"
+        },
+        {
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "forks": null,
+          "name": "moeru-ai / airi",
+          "rank": 3,
+          "repo_key": "moeru-ai/airi",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/moeru-ai/airi"
+        },
+        {
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "forks": null,
+          "name": "garrytan / gstack",
+          "rank": 4,
+          "repo_key": "garrytan/gstack",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/garrytan/gstack"
+        },
+        {
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "forks": null,
+          "name": "gitroomhq / postiz-app",
+          "rank": 5,
+          "repo_key": "gitroomhq/postiz-app",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gitroomhq/postiz-app"
+        },
+        {
+          "description": "very good whiteboard infinite canvas SDK",
+          "forks": null,
+          "name": "tldraw / tldraw",
+          "rank": 6,
+          "repo_key": "tldraw/tldraw",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tldraw/tldraw"
+        },
+        {
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "forks": null,
+          "name": "twentyhq / twenty",
+          "rank": 7,
+          "repo_key": "twentyhq/twenty",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/twentyhq/twenty"
+        },
+        {
+          "description": "CADAM is the open source text-to-CAD web application",
+          "forks": null,
+          "name": "Adam-CAD / CADAM",
+          "rank": 8,
+          "repo_key": "adam-cad/cadam",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Adam-CAD/CADAM"
+        },
+        {
+          "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+          "forks": null,
+          "name": "Stirling-Tools / Stirling-PDF",
+          "rank": 9,
+          "repo_key": "stirling-tools/stirling-pdf",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+        },
+        {
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "forks": null,
+          "name": "multica-ai / multica",
+          "rank": 10,
+          "repo_key": "multica-ai/multica",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/multica-ai/multica"
+        },
+        {
+          "description": "Generate code from the terminal!",
+          "forks": null,
+          "name": "CodebuffAI / codebuff",
+          "rank": 11,
+          "repo_key": "codebuffai/codebuff",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CodebuffAI/codebuff"
+        },
+        {
+          "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+          "forks": null,
+          "name": "presenton / presenton",
+          "rank": 12,
+          "repo_key": "presenton/presenton",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/presenton/presenton"
+        },
+        {
+          "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
+          "forks": null,
+          "name": "NateBJones-Projects / OB1",
+          "rank": 13,
+          "repo_key": "natebjones-projects/ob1",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NateBJones-Projects/OB1"
+        },
+        {
+          "description": "An autonomous agent for deep financial research",
+          "forks": null,
+          "name": "virattt / dexter",
+          "rank": 14,
+          "repo_key": "virattt/dexter",
+          "source_line": 78,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/virattt/dexter"
+        },
+        {
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "forks": null,
+          "name": "earendil-works / pi",
+          "rank": 15,
+          "repo_key": "earendil-works/pi",
+          "source_line": 79,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/earendil-works/pi"
+        },
+        {
+          "description": "High performance self-hosted photo and video management solution.",
+          "forks": null,
+          "name": "immich-app / immich",
+          "rank": 16,
+          "repo_key": "immich-app/immich",
+          "source_line": 80,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/immich-app/immich"
+        }
+      ],
+      "language_filter": "typescript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/typescript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The automation tower defense RTS",
+          "forks": null,
+          "name": "Anuken / Mindustry",
+          "rank": 1,
+          "repo_key": "anuken/mindustry",
+          "source_line": 83,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Anuken/Mindustry"
+        },
+        {
+          "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
+          "forks": null,
+          "name": "FCL-Team / FoldCraftLauncher",
+          "rank": 2,
+          "repo_key": "fcl-team/foldcraftlauncher",
+          "source_line": 84,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/FCL-Team/FoldCraftLauncher"
+        },
+        {
+          "description": "Browse media content with your own rules on Android TV",
+          "forks": null,
+          "name": "yuliskov / SmartTube",
+          "rank": 3,
+          "repo_key": "yuliskov/smarttube",
+          "source_line": 85,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yuliskov/SmartTube"
+        },
+        {
+          "description": "A full-featured package manager and viewer for Android",
+          "forks": null,
+          "name": "MuntashirAkon / AppManager",
+          "rank": 4,
+          "repo_key": "muntashirakon/appmanager",
+          "source_line": 86,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MuntashirAkon/AppManager"
+        },
+        {
+          "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
+          "forks": null,
+          "name": "MojoLauncher / MojoLauncher",
+          "rank": 5,
+          "repo_key": "mojolauncher/mojolauncher",
+          "source_line": 87,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MojoLauncher/MojoLauncher"
+        },
+        {
+          "description": "Open-source third-party Telegram client with not many but useful modifications.",
+          "forks": null,
+          "name": "Nekogram / Nekogram",
+          "rank": 6,
+          "repo_key": "nekogram/nekogram",
+          "source_line": 88,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Nekogram/Nekogram"
+        },
+        {
+          "description": "All Code of LLD Playlist",
+          "forks": null,
+          "name": "adityatandon15 / Low-Level-Design-Course",
+          "rank": 7,
+          "repo_key": "adityatandon15/low-level-design-course",
+          "source_line": 89,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/adityatandon15/Low-Level-Design-Course"
+        },
+        {
+          "description": "A libre lightweight streaming front-end for Android.",
+          "forks": null,
+          "name": "TeamNewPipe / NewPipe",
+          "rank": 8,
+          "repo_key": "teamnewpipe/newpipe",
+          "source_line": 90,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamNewPipe/NewPipe"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "navinreddy20 / Javacode",
+          "rank": 9,
+          "repo_key": "navinreddy20/javacode",
+          "source_line": 91,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/navinreddy20/Javacode"
+        },
+        {
+          "description": "A lightweight keyboard for Android",
+          "forks": null,
+          "name": "Julow / Unexpected-Keyboard",
+          "rank": 10,
+          "repo_key": "julow/unexpected-keyboard",
+          "source_line": 92,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Julow/Unexpected-Keyboard"
+        },
+        {
+          "description": "Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/",
+          "forks": null,
+          "name": "MinecraftForge / MinecraftForge",
+          "rank": 11,
+          "repo_key": "minecraftforge/minecraftforge",
+          "source_line": 93,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MinecraftForge/MinecraftForge"
+        },
+        {
+          "description": "The best authentication plugin for the Bukkit/Spigot API!",
+          "forks": null,
+          "name": "AuthMe / AuthMeReloaded",
+          "rank": 12,
+          "repo_key": "authme/authmereloaded",
+          "source_line": 94,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AuthMe/AuthMeReloaded"
+        },
+        {
+          "description": "A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.",
+          "forks": null,
+          "name": "polymorphicshade / Tubular",
+          "rank": 13,
+          "repo_key": "polymorphicshade/tubular",
+          "source_line": 95,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/polymorphicshade/Tubular"
+        },
+        {
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "forks": null,
+          "name": "github / copilot-sdk",
+          "rank": 14,
+          "repo_key": "github/copilot-sdk",
+          "source_line": 96,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/copilot-sdk"
+        },
+        {
+          "description": "Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.",
+          "forks": null,
+          "name": "sleuthkit / autopsy",
+          "rank": 15,
+          "repo_key": "sleuthkit/autopsy",
+          "source_line": 97,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sleuthkit/autopsy"
+        },
+        {
+          "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+          "forks": null,
+          "name": "TGX-Android / Telegram-X",
+          "rank": 16,
+          "repo_key": "tgx-android/telegram-x",
+          "source_line": 98,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TGX-Android/Telegram-X"
+        },
+        {
+          "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+          "forks": null,
+          "name": "ashishps1 / awesome-low-level-design",
+          "rank": 17,
+          "repo_key": "ashishps1/awesome-low-level-design",
+          "source_line": 99,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ashishps1/awesome-low-level-design"
+        },
+        {
+          "description": "QuestDB is a high performance, open-source, time-series database",
+          "forks": null,
+          "name": "questdb / questdb",
+          "rank": 18,
+          "repo_key": "questdb/questdb",
+          "source_line": 100,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/questdb/questdb"
+        },
+        {
+          "description": "AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。",
+          "forks": null,
+          "name": "jeecgboot / JeecgBoot",
+          "rank": 19,
+          "repo_key": "jeecgboot/jeecgboot",
+          "source_line": 101,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jeecgboot/JeecgBoot"
+        },
+        {
+          "description": "Free implementation of Play Services",
+          "forks": null,
+          "name": "microg / GmsCore",
+          "rank": 20,
+          "repo_key": "microg/gmscore",
+          "source_line": 102,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/microg/GmsCore"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2026-05-26",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2026/2026-05-26.md",
+  "source_sha256": "4934a9e2356d82a26800063a1ba46126181f85002b7f923572cb26ed12c0a52c",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

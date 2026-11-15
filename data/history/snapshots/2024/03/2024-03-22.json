@@ -1,0 +1,688 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "forks": null,
+          "name": "hpcaitech / Open-Sora",
+          "rank": 1,
+          "repo_key": "hpcaitech/open-sora",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hpcaitech/Open-Sora"
+        },
+        {
+          "description": "We write your reusable computer vision tools. 💜",
+          "forks": null,
+          "name": "roboflow / supervision",
+          "rank": 2,
+          "repo_key": "roboflow/supervision",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/roboflow/supervision"
+        },
+        {
+          "description": "Making large AI models cheaper, faster and more accessible",
+          "forks": null,
+          "name": "hpcaitech / ColossalAI",
+          "rank": 3,
+          "repo_key": "hpcaitech/colossalai",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hpcaitech/ColossalAI"
+        },
+        {
+          "description": "DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.",
+          "forks": null,
+          "name": "luijait / DarkGPT",
+          "rank": 4,
+          "repo_key": "luijait/darkgpt",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/luijait/DarkGPT"
+        },
+        {
+          "description": "Generative Models by Stability AI",
+          "forks": null,
+          "name": "Stability-AI / generative-models",
+          "rank": 5,
+          "repo_key": "stability-ai/generative-models",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Stability-AI/generative-models"
+        },
+        {
+          "description": "OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models",
+          "forks": null,
+          "name": "kongzhecn / OMG",
+          "rank": 6,
+          "repo_key": "kongzhecn/omg",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kongzhecn/OMG"
+        },
+        {
+          "description": "APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)",
+          "forks": null,
+          "name": "Kiteretsu77 / APISR",
+          "rank": 7,
+          "repo_key": "kiteretsu77/apisr",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Kiteretsu77/APISR"
+        },
+        {
+          "description": "CapsWriter 的离线版，一个好用的 PC 端的语音输入工具",
+          "forks": null,
+          "name": "HaujetZhao / CapsWriter-Offline",
+          "rank": 8,
+          "repo_key": "haujetzhao/capswriter-offline",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/HaujetZhao/CapsWriter-Offline"
+        },
+        {
+          "description": "Turn any face into a video game character, pixel art, claymation, 3D or toy",
+          "forks": null,
+          "name": "fofr / cog-face-to-many",
+          "rank": 9,
+          "repo_key": "fofr/cog-face-to-many",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fofr/cog-face-to-many"
+        },
+        {
+          "description": "Developer-first error tracking and performance monitoring",
+          "forks": null,
+          "name": "getsentry / sentry",
+          "rank": 10,
+          "repo_key": "getsentry/sentry",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/getsentry/sentry"
+        },
+        {
+          "description": "Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.",
+          "forks": null,
+          "name": "mrphrazer / reverser_ai",
+          "rank": 11,
+          "repo_key": "mrphrazer/reverser_ai",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mrphrazer/reverser_ai"
+        },
+        {
+          "description": "The easy-to-use and developer-friendly enterprise CMS powered by Django",
+          "forks": null,
+          "name": "django-cms / django-cms",
+          "rank": 12,
+          "repo_key": "django-cms/django-cms",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/django-cms/django-cms"
+        },
+        {
+          "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+          "forks": null,
+          "name": "huggingface / transformers",
+          "rank": 13,
+          "repo_key": "huggingface/transformers",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/huggingface/transformers"
+        },
+        {
+          "description": "An orchestration platform for the development, production, and observation of data assets.",
+          "forks": null,
+          "name": "dagster-io / dagster",
+          "rank": 14,
+          "repo_key": "dagster-io/dagster",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dagster-io/dagster"
+        },
+        {
+          "description": "Gorilla: An API store for LLMs",
+          "forks": null,
+          "name": "ShishirPatil / gorilla",
+          "rank": 15,
+          "repo_key": "shishirpatil/gorilla",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ShishirPatil/gorilla"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The realtime kanban board for workgroups built with React and Redux.",
+          "forks": null,
+          "name": "plankanban / planka",
+          "rank": 1,
+          "repo_key": "plankanban/planka",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/plankanban/planka"
+        },
+        {
+          "description": "Observatorio de los observatorios públicos de España",
+          "forks": null,
+          "name": "JaimeObregon / observatoriospublicos.es",
+          "rank": 2,
+          "repo_key": "jaimeobregon/observatoriospublicos.es",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JaimeObregon/observatoriospublicos.es"
+        },
+        {
+          "description": "A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!",
+          "forks": null,
+          "name": "Mintplex-Labs / anything-llm",
+          "rank": 3,
+          "repo_key": "mintplex-labs/anything-llm",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Mintplex-Labs/anything-llm"
+        },
+        {
+          "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+          "forks": null,
+          "name": "oldboyxx / jira_clone",
+          "rank": 4,
+          "repo_key": "oldboyxx/jira_clone",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/oldboyxx/jira_clone"
+        },
+        {
+          "description": "The React Framework",
+          "forks": null,
+          "name": "vercel / next.js",
+          "rank": 5,
+          "repo_key": "vercel/next.js",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vercel/next.js"
+        },
+        {
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+          "forks": null,
+          "name": "trekhleb / javascript-algorithms",
+          "rank": 6,
+          "repo_key": "trekhleb/javascript-algorithms",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/trekhleb/javascript-algorithms"
+        },
+        {
+          "description": "WebGoat is a deliberately insecure application",
+          "forks": null,
+          "name": "WebGoat / WebGoat",
+          "rank": 7,
+          "repo_key": "webgoat/webgoat",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WebGoat/WebGoat"
+        },
+        {
+          "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+          "forks": null,
+          "name": "ToolJet / ToolJet",
+          "rank": 8,
+          "repo_key": "tooljet/tooljet",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ToolJet/ToolJet"
+        },
+        {
+          "description": "Write atomic React components using only CSS! (JS-from-CSS™) 🌬️",
+          "forks": null,
+          "name": "typicode / mistcss",
+          "rank": 9,
+          "repo_key": "typicode/mistcss",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/typicode/mistcss"
+        },
+        {
+          "description": "Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.",
+          "forks": null,
+          "name": "adrianhajdin / iphone",
+          "rank": 10,
+          "repo_key": "adrianhajdin/iphone",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/adrianhajdin/iphone"
+        },
+        {
+          "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+          "forks": null,
+          "name": "kkevsekk1 / AutoX",
+          "rank": 11,
+          "repo_key": "kkevsekk1/autox",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kkevsekk1/AutoX"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "FiveKG / gas-listener",
+          "rank": 12,
+          "repo_key": "fivekg/gas-listener",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/FiveKG/gas-listener"
+        },
+        {
+          "description": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",
+          "forks": null,
+          "name": "palxiao / poster-design",
+          "rank": 13,
+          "repo_key": "palxiao/poster-design",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/palxiao/poster-design"
+        },
+        {
+          "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+          "forks": null,
+          "name": "LeCoupa / awesome-cheatsheets",
+          "rank": 14,
+          "repo_key": "lecoupa/awesome-cheatsheets",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/LeCoupa/awesome-cheatsheets"
+        },
+        {
+          "description": "Telegram电报tg红包雷,红包扫雷机器人源码--自助充值、提现全功能完整版多语言全网最全假人自动抢包",
+          "forks": null,
+          "name": "Hyizhou1 / tg_hongbao",
+          "rank": 15,
+          "repo_key": "hyizhou1/tg_hongbao",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Hyizhou1/tg_hongbao"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "eBPF distributed networking observability tool for Kubernetes",
+          "forks": null,
+          "name": "microsoft / retina",
+          "rank": 1,
+          "repo_key": "microsoft/retina",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/microsoft/retina"
+        },
+        {
+          "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+          "forks": null,
+          "name": "kubernetes-sigs / external-dns",
+          "rank": 2,
+          "repo_key": "kubernetes-sigs/external-dns",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubernetes-sigs/external-dns"
+        },
+        {
+          "description": "eBPF-based Networking, Security, and Observability",
+          "forks": null,
+          "name": "cilium / cilium",
+          "rank": 3,
+          "repo_key": "cilium/cilium",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cilium/cilium"
+        },
+        {
+          "description": "Production-Grade Container Scheduling and Management",
+          "forks": null,
+          "name": "kubernetes / kubernetes",
+          "rank": 4,
+          "repo_key": "kubernetes/kubernetes",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubernetes/kubernetes"
+        },
+        {
+          "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+          "forks": null,
+          "name": "grpc-ecosystem / grpc-gateway",
+          "rank": 5,
+          "repo_key": "grpc-ecosystem/grpc-gateway",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/grpc-ecosystem/grpc-gateway"
+        },
+        {
+          "description": "Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux",
+          "forks": null,
+          "name": "omriharel / deej",
+          "rank": 6,
+          "repo_key": "omriharel/deej",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/omriharel/deej"
+        },
+        {
+          "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+          "forks": null,
+          "name": "hashicorp / packer",
+          "rank": 7,
+          "repo_key": "hashicorp/packer",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hashicorp/packer"
+        },
+        {
+          "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+          "forks": null,
+          "name": "karmada-io / karmada",
+          "rank": 8,
+          "repo_key": "karmada-io/karmada",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/karmada-io/karmada"
+        },
+        {
+          "description": "Protect and discover secrets using Gitleaks 🔑",
+          "forks": null,
+          "name": "gitleaks / gitleaks",
+          "rank": 9,
+          "repo_key": "gitleaks/gitleaks",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gitleaks/gitleaks"
+        },
+        {
+          "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+          "forks": null,
+          "name": "elastic / beats",
+          "rank": 10,
+          "repo_key": "elastic/beats",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/elastic/beats"
+        },
+        {
+          "description": "libp2p implementation in Go",
+          "forks": null,
+          "name": "libp2p / go-libp2p",
+          "rank": 11,
+          "repo_key": "libp2p/go-libp2p",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/libp2p/go-libp2p"
+        },
+        {
+          "description": "Protect access to all of your infrastructure",
+          "forks": null,
+          "name": "gravitational / teleport",
+          "rank": 12,
+          "repo_key": "gravitational/teleport",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gravitational/teleport"
+        },
+        {
+          "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+          "forks": null,
+          "name": "VictoriaMetrics / VictoriaMetrics",
+          "rank": 13,
+          "repo_key": "victoriametrics/victoriametrics",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/VictoriaMetrics/VictoriaMetrics"
+        },
+        {
+          "description": "A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",
+          "forks": null,
+          "name": "version-fox / vfox",
+          "rank": 14,
+          "repo_key": "version-fox/vfox",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/version-fox/vfox"
+        },
+        {
+          "description": "Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀",
+          "forks": null,
+          "name": "pulumi / pulumi",
+          "rank": 15,
+          "repo_key": "pulumi/pulumi",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pulumi/pulumi"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+          "forks": null,
+          "name": "YunaiV / ruoyi-vue-pro",
+          "rank": 1,
+          "repo_key": "yunaiv/ruoyi-vue-pro",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/YunaiV/ruoyi-vue-pro"
+        },
+        {
+          "description": "Just Announced - \"Learn Spring Security OAuth\":",
+          "forks": null,
+          "name": "eugenp / tutorials",
+          "rank": 2,
+          "repo_key": "eugenp/tutorials",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/eugenp/tutorials"
+        },
+        {
+          "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+          "forks": null,
+          "name": "apache / dolphinscheduler",
+          "rank": 3,
+          "repo_key": "apache/dolphinscheduler",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/dolphinscheduler"
+        },
+        {
+          "description": "JetCache is a Java cache framework.",
+          "forks": null,
+          "name": "alibaba / jetcache",
+          "rank": 4,
+          "repo_key": "alibaba/jetcache",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/jetcache"
+        },
+        {
+          "description": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",
+          "forks": null,
+          "name": "apache / seatunnel",
+          "rank": 5,
+          "repo_key": "apache/seatunnel",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/seatunnel"
+        },
+        {
+          "description": "A <Video /> component for react-native",
+          "forks": null,
+          "name": "react-native-video / react-native-video",
+          "rank": 6,
+          "repo_key": "react-native-video/react-native-video",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/react-native-video/react-native-video"
+        },
+        {
+          "description": "Flink CDC is a streaming data integration tool",
+          "forks": null,
+          "name": "apache / flink-cdc",
+          "rank": 7,
+          "repo_key": "apache/flink-cdc",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/flink-cdc"
+        },
+        {
+          "description": "Universal File Online Preview Project based on Spring-Boot",
+          "forks": null,
+          "name": "kekingcn / kkFileView",
+          "rank": 8,
+          "repo_key": "kekingcn/kkfileview",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kekingcn/kkFileView"
+        },
+        {
+          "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+          "forks": null,
+          "name": "apolloconfig / apollo",
+          "rank": 9,
+          "repo_key": "apolloconfig/apollo",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apolloconfig/apollo"
+        },
+        {
+          "description": "The Metadata Platform for your Data Stack",
+          "forks": null,
+          "name": "datahub-project / datahub",
+          "rank": 10,
+          "repo_key": "datahub-project/datahub",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/datahub-project/datahub"
+        },
+        {
+          "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+          "forks": null,
+          "name": "GrowingGit / GitHub-Chinese-Top-Charts",
+          "rank": 11,
+          "repo_key": "growinggit/github-chinese-top-charts",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts"
+        },
+        {
+          "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+          "forks": null,
+          "name": "Azure / azure-sdk-for-java",
+          "rank": 12,
+          "repo_key": "azure/azure-sdk-for-java",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Azure/azure-sdk-for-java"
+        },
+        {
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "forks": null,
+          "name": "Snailclimb / JavaGuide",
+          "rank": 13,
+          "repo_key": "snailclimb/javaguide",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Snailclimb/JavaGuide"
+        },
+        {
+          "description": "DataX是阿里云DataWorks数据集成的开源版本。",
+          "forks": null,
+          "name": "alibaba / DataX",
+          "rank": 14,
+          "repo_key": "alibaba/datax",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/DataX"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2024-03-22",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2024/2024-03-22.md",
+  "source_sha256": "9a9e928d62efe7918e4fdc94cd4cc3272b59b2da6a71032d7c4f63a5b8cb0ff2",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

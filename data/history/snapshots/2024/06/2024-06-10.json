@@ -1,0 +1,787 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "NVR with realtime local object detection for IP cameras",
+          "forks": null,
+          "name": "blakeblackshear / frigate",
+          "rank": 1,
+          "repo_key": "blakeblackshear/frigate",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/blakeblackshear/frigate"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "google / mesop",
+          "rank": 2,
+          "repo_key": "google/mesop",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/mesop"
+        },
+        {
+          "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+          "forks": null,
+          "name": "huggingface / lerobot",
+          "rank": 3,
+          "repo_key": "huggingface/lerobot",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/huggingface/lerobot"
+        },
+        {
+          "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+          "forks": null,
+          "name": "tinygrad / tinygrad",
+          "rank": 4,
+          "repo_key": "tinygrad/tinygrad",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tinygrad/tinygrad"
+        },
+        {
+          "description": "Universal LLM Deployment Engine with ML Compilation",
+          "forks": null,
+          "name": "mlc-ai / mlc-llm",
+          "rank": 5,
+          "repo_key": "mlc-ai/mlc-llm",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mlc-ai/mlc-llm"
+        },
+        {
+          "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+          "forks": null,
+          "name": "danielmiessler / fabric",
+          "rank": 6,
+          "repo_key": "danielmiessler/fabric",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danielmiessler/fabric"
+        },
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 7,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "aider is AI pair programming in your terminal",
+          "forks": null,
+          "name": "paul-gauthier / aider",
+          "rank": 8,
+          "repo_key": "paul-gauthier/aider",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/paul-gauthier/aider"
+        },
+        {
+          "description": "A feature-rich command-line audio/video downloader",
+          "forks": null,
+          "name": "yt-dlp / yt-dlp",
+          "rank": 9,
+          "repo_key": "yt-dlp/yt-dlp",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yt-dlp/yt-dlp"
+        },
+        {
+          "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+          "forks": null,
+          "name": "dataelement / bisheng",
+          "rank": 10,
+          "repo_key": "dataelement/bisheng",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dataelement/bisheng"
+        },
+        {
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "forks": null,
+          "name": "home-assistant / core",
+          "rank": 11,
+          "repo_key": "home-assistant/core",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/home-assistant/core"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+          "forks": null,
+          "name": "xenova / transformers.js",
+          "rank": 1,
+          "repo_key": "xenova/transformers.js",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xenova/transformers.js"
+        },
+        {
+          "description": "</> htmx - high power tools for HTML",
+          "forks": null,
+          "name": "bigskysoftware / htmx",
+          "rank": 2,
+          "repo_key": "bigskysoftware/htmx",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bigskysoftware/htmx"
+        },
+        {
+          "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+          "forks": null,
+          "name": "MHSanaei / 3x-ui",
+          "rank": 3,
+          "repo_key": "mhsanaei/3x-ui",
+          "source_line": 19,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MHSanaei/3x-ui"
+        },
+        {
+          "description": "Modern, feature-rich and accessible desktop configuration.",
+          "forks": null,
+          "name": "end-4 / dots-hyprland",
+          "rank": 4,
+          "repo_key": "end-4/dots-hyprland",
+          "source_line": 20,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/end-4/dots-hyprland"
+        },
+        {
+          "description": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection",
+          "forks": null,
+          "name": "TheRealJoelmatic / RemoveAdblockThing",
+          "rank": 5,
+          "repo_key": "therealjoelmatic/removeadblockthing",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TheRealJoelmatic/RemoveAdblockThing"
+        },
+        {
+          "description": "Use Cloudflare pages and worker serverless to implement VLESS protocol",
+          "forks": null,
+          "name": "3Kmfi6HP / EDtunnel",
+          "rank": 6,
+          "repo_key": "3kmfi6hp/edtunnel",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/3Kmfi6HP/EDtunnel"
+        },
+        {
+          "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+          "forks": null,
+          "name": "Mintplex-Labs / anything-llm",
+          "rank": 7,
+          "repo_key": "mintplex-labs/anything-llm",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Mintplex-Labs/anything-llm"
+        },
+        {
+          "description": "🇱🇰 Multi-device whatsapp bot 🎉",
+          "forks": null,
+          "name": "prabathLK / PRABATH-MD",
+          "rank": 8,
+          "repo_key": "prabathlk/prabath-md",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/prabathLK/PRABATH-MD"
+        },
+        {
+          "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
+          "forks": null,
+          "name": "4ian / GDevelop",
+          "rank": 9,
+          "repo_key": "4ian/gdevelop",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/4ian/GDevelop"
+        },
+        {
+          "description": "Build your personal knowledge base with Trilium Notes",
+          "forks": null,
+          "name": "zadam / trilium",
+          "rank": 10,
+          "repo_key": "zadam/trilium",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zadam/trilium"
+        },
+        {
+          "description": "Running V2ray inside edge/serverless runtime",
+          "forks": null,
+          "name": "zizifn / edgetunnel",
+          "rank": 11,
+          "repo_key": "zizifn/edgetunnel",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zizifn/edgetunnel"
+        },
+        {
+          "description": "The open-source repo for docs.github.com",
+          "forks": null,
+          "name": "github / docs",
+          "rank": 12,
+          "repo_key": "github/docs",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/docs"
+        },
+        {
+          "description": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
+          "forks": null,
+          "name": "SuhailTechInfo / Suhail-Md",
+          "rank": 13,
+          "repo_key": "suhailtechinfo/suhail-md",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SuhailTechInfo/Suhail-Md"
+        },
+        {
+          "description": "Meshery, the cloud native manager",
+          "forks": null,
+          "name": "meshery / meshery",
+          "rank": 14,
+          "repo_key": "meshery/meshery",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/meshery/meshery"
+        },
+        {
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "forks": null,
+          "name": "nodejs / node",
+          "rank": 15,
+          "repo_key": "nodejs/node",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nodejs/node"
+        },
+        {
+          "description": "⭐️ Companies that don't have a broken hiring process",
+          "forks": null,
+          "name": "poteto / hiring-without-whiteboards",
+          "rank": 16,
+          "repo_key": "poteto/hiring-without-whiteboards",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/poteto/hiring-without-whiteboards"
+        },
+        {
+          "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+          "forks": null,
+          "name": "WhiskeySockets / Baileys",
+          "rank": 17,
+          "repo_key": "whiskeysockets/baileys",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WhiskeySockets/Baileys"
+        },
+        {
+          "description": "支持多协议多用户的 xray 面板",
+          "forks": null,
+          "name": "vaxilu / x-ui",
+          "rank": 18,
+          "repo_key": "vaxilu/x-ui",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vaxilu/x-ui"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+          "forks": null,
+          "name": "JanDeDobbeleer / oh-my-posh",
+          "rank": 1,
+          "repo_key": "jandedobbeleer/oh-my-posh",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        {
+          "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+          "forks": null,
+          "name": "alist-org / alist",
+          "rank": 2,
+          "repo_key": "alist-org/alist",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alist-org/alist"
+        },
+        {
+          "description": "The universal proxy platform",
+          "forks": null,
+          "name": "SagerNet / sing-box",
+          "rank": 3,
+          "repo_key": "sagernet/sing-box",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SagerNet/sing-box"
+        },
+        {
+          "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "forks": null,
+          "name": "IceWhaleTech / CasaOS",
+          "rank": 4,
+          "repo_key": "icewhaletech/casaos",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/IceWhaleTech/CasaOS"
+        },
+        {
+          "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+          "forks": null,
+          "name": "livekit / livekit",
+          "rank": 5,
+          "repo_key": "livekit/livekit",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/livekit/livekit"
+        },
+        {
+          "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+          "forks": null,
+          "name": "XIU2 / CloudflareSpeedTest",
+          "rank": 6,
+          "repo_key": "xiu2/cloudflarespeedtest",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XIU2/CloudflareSpeedTest"
+        },
+        {
+          "description": "A Golang framework for web artisans. Tribute to Laravel.",
+          "forks": null,
+          "name": "goravel / goravel",
+          "rank": 7,
+          "repo_key": "goravel/goravel",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/goravel/goravel"
+        },
+        {
+          "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+          "forks": null,
+          "name": "apernet / hysteria",
+          "rank": 8,
+          "repo_key": "apernet/hysteria",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apernet/hysteria"
+        },
+        {
+          "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+          "forks": null,
+          "name": "google / syzkaller",
+          "rank": 9,
+          "repo_key": "google/syzkaller",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/google/syzkaller"
+        },
+        {
+          "description": "🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。",
+          "forks": null,
+          "name": "1Panel-dev / 1Panel",
+          "rank": 10,
+          "repo_key": "1panel-dev/1panel",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/1Panel-dev/1Panel"
+        },
+        {
+          "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+          "forks": null,
+          "name": "usememos / memos",
+          "rank": 11,
+          "repo_key": "usememos/memos",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/usememos/memos"
+        },
+        {
+          "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+          "forks": null,
+          "name": "ViRb3 / wgcf",
+          "rank": 12,
+          "repo_key": "virb3/wgcf",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ViRb3/wgcf"
+        },
+        {
+          "description": "A platform for building proxies to bypass network restrictions.",
+          "forks": null,
+          "name": "v2ray / v2ray-core",
+          "rank": 13,
+          "repo_key": "v2ray/v2ray-core",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2ray/v2ray-core"
+        },
+        {
+          "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+          "forks": null,
+          "name": "XTLS / Xray-core",
+          "rank": 14,
+          "repo_key": "xtls/xray-core",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XTLS/Xray-core"
+        },
+        {
+          "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+          "forks": null,
+          "name": "cloudflare / cloudflared",
+          "rank": 15,
+          "repo_key": "cloudflare/cloudflared",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cloudflare/cloudflared"
+        },
+        {
+          "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+          "forks": null,
+          "name": "hashicorp / nomad",
+          "rank": 16,
+          "repo_key": "hashicorp/nomad",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hashicorp/nomad"
+        },
+        {
+          "description": "The database client every command line junkie deserves.",
+          "forks": null,
+          "name": "danvergara / dblab",
+          "rank": 17,
+          "repo_key": "danvergara/dblab",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danvergara/dblab"
+        },
+        {
+          "description": "Go implementation of the Ethereum protocol",
+          "forks": null,
+          "name": "ethereum / go-ethereum",
+          "rank": 18,
+          "repo_key": "ethereum/go-ethereum",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ethereum/go-ethereum"
+        },
+        {
+          "description": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
+          "forks": null,
+          "name": "playwright-community / playwright-go",
+          "rank": 19,
+          "repo_key": "playwright-community/playwright-go",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/playwright-community/playwright-go"
+        },
+        {
+          "description": "Lightweight Kubernetes",
+          "forks": null,
+          "name": "k3s-io / k3s",
+          "rank": 20,
+          "repo_key": "k3s-io/k3s",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/k3s-io/k3s"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+          "forks": null,
+          "name": "termux / termux-app",
+          "rank": 1,
+          "repo_key": "termux/termux-app",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/termux/termux-app"
+        },
+        {
+          "description": "No clever tagline needed.",
+          "forks": null,
+          "name": "LawnchairLauncher / lawnchair",
+          "rank": 2,
+          "repo_key": "lawnchairlauncher/lawnchair",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/LawnchairLauncher/lawnchair"
+        },
+        {
+          "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+          "forks": null,
+          "name": "PaperMC / Paper",
+          "rank": 3,
+          "repo_key": "papermc/paper",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PaperMC/Paper"
+        },
+        {
+          "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+          "forks": null,
+          "name": "kunal-kushwaha / DSA-Bootcamp-Java",
+          "rank": 4,
+          "repo_key": "kunal-kushwaha/dsa-bootcamp-java",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java"
+        },
+        {
+          "description": "A private messenger for Android.",
+          "forks": null,
+          "name": "signalapp / Signal-Android",
+          "rank": 5,
+          "repo_key": "signalapp/signal-android",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/signalapp/Signal-Android"
+        },
+        {
+          "description": "悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统",
+          "forks": null,
+          "name": "WuKongOpenSource / WukongCRM-11.0-JAVA",
+          "rank": 6,
+          "repo_key": "wukongopensource/wukongcrm-11.0-java",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA"
+        },
+        {
+          "description": "A libre lightweight streaming front-end for Android.",
+          "forks": null,
+          "name": "TeamNewPipe / NewPipe",
+          "rank": 7,
+          "repo_key": "teamnewpipe/newpipe",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamNewPipe/NewPipe"
+        },
+        {
+          "description": "Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6",
+          "forks": null,
+          "name": "ali-bouali / spring-boot-3-jwt-security",
+          "rank": 8,
+          "repo_key": "ali-bouali/spring-boot-3-jwt-security",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ali-bouali/spring-boot-3-jwt-security"
+        },
+        {
+          "description": "QNotified phoenix - To make OICQ great again",
+          "forks": null,
+          "name": "cinit / QAuxiliary",
+          "rank": 9,
+          "repo_key": "cinit/qauxiliary",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cinit/QAuxiliary"
+        },
+        {
+          "description": "A lightweight virtual keyboard for developers.",
+          "forks": null,
+          "name": "Julow / Unexpected-Keyboard",
+          "rank": 10,
+          "repo_key": "julow/unexpected-keyboard",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Julow/Unexpected-Keyboard"
+        },
+        {
+          "description": "杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！",
+          "forks": null,
+          "name": "nining377 / dolby_beta",
+          "rank": 11,
+          "repo_key": "nining377/dolby_beta",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nining377/dolby_beta"
+        },
+        {
+          "description": "Apache Hadoop",
+          "forks": null,
+          "name": "apache / hadoop",
+          "rank": 12,
+          "repo_key": "apache/hadoop",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/hadoop"
+        },
+        {
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "forks": null,
+          "name": "NationalSecurityAgency / ghidra",
+          "rank": 13,
+          "repo_key": "nationalsecurityagency/ghidra",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NationalSecurityAgency/ghidra"
+        },
+        {
+          "description": "Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops",
+          "forks": null,
+          "name": "in28minutes / devops-master-class",
+          "rank": 14,
+          "repo_key": "in28minutes/devops-master-class",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/in28minutes/devops-master-class"
+        },
+        {
+          "description": "Hide your private files and apps with a single click.",
+          "forks": null,
+          "name": "deltazefiro / Amarok-Hider",
+          "rank": 15,
+          "repo_key": "deltazefiro/amarok-hider",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/deltazefiro/Amarok-Hider"
+        },
+        {
+          "description": "1.20.6 Lightweight Minecraft server",
+          "forks": null,
+          "name": "Minestom / Minestom",
+          "rank": 16,
+          "repo_key": "minestom/minestom",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Minestom/Minestom"
+        },
+        {
+          "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+          "forks": null,
+          "name": "TGX-Android / Telegram-X",
+          "rank": 17,
+          "repo_key": "tgx-android/telegram-x",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TGX-Android/Telegram-X"
+        },
+        {
+          "description": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+          "forks": null,
+          "name": "CatVodTVOfficial / TVBoxOSC",
+          "rank": 18,
+          "repo_key": "catvodtvofficial/tvboxosc",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CatVodTVOfficial/TVBoxOSC"
+        },
+        {
+          "description": "Apache Solr open-source search software",
+          "forks": null,
+          "name": "apache / solr",
+          "rank": 19,
+          "repo_key": "apache/solr",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/solr"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2024-06-10",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2024/2024-06-10.md",
+  "source_sha256": "c8855dbfb52db043faff5cbc880aba9f02bddf0fb071147331ea2b6d792f2fc2",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

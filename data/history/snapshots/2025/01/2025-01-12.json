@@ -1,0 +1,842 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+          "forks": null,
+          "name": "feder-cr / Jobs_Applier_AI_Agent",
+          "rank": 1,
+          "repo_key": "feder-cr/jobs_applier_ai_agent",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent"
+        },
+        {
+          "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+          "forks": null,
+          "name": "Shubhamsaboo / awesome-llm-apps",
+          "rank": 2,
+          "repo_key": "shubhamsaboo/awesome-llm-apps",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+        },
+        {
+          "description": "A fast multimodal LLM for real-time voice",
+          "forks": null,
+          "name": "fixie-ai / ultravox",
+          "rank": 3,
+          "repo_key": "fixie-ai/ultravox",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fixie-ai/ultravox"
+        },
+        {
+          "description": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+          "forks": null,
+          "name": "NVIDIA / nv-ingest",
+          "rank": 4,
+          "repo_key": "nvidia/nv-ingest",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NVIDIA/nv-ingest"
+        },
+        {
+          "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.",
+          "forks": null,
+          "name": "srbhr / Resume-Matcher",
+          "rank": 5,
+          "repo_key": "srbhr/resume-matcher",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/srbhr/Resume-Matcher"
+        },
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 6,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "The LLM Evaluation Framework",
+          "forks": null,
+          "name": "confident-ai / deepeval",
+          "rank": 7,
+          "repo_key": "confident-ai/deepeval",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/confident-ai/deepeval"
+        },
+        {
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "forks": null,
+          "name": "PriorLabs / TabPFN",
+          "rank": 8,
+          "repo_key": "priorlabs/tabpfn",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PriorLabs/TabPFN"
+        },
+        {
+          "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+          "forks": null,
+          "name": "microsoft / PromptWizard",
+          "rank": 9,
+          "repo_key": "microsoft/promptwizard",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/microsoft/PromptWizard"
+        },
+        {
+          "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+          "forks": null,
+          "name": "NVlabs / VILA",
+          "rank": 10,
+          "repo_key": "nvlabs/vila",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NVlabs/VILA"
+        },
+        {
+          "description": "PyTorch native post-training library",
+          "forks": null,
+          "name": "pytorch / torchtune",
+          "rank": 11,
+          "repo_key": "pytorch/torchtune",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pytorch/torchtune"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+          "forks": null,
+          "name": "mailcow / mailcow-dockerized",
+          "rank": 1,
+          "repo_key": "mailcow/mailcow-dockerized",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mailcow/mailcow-dockerized"
+        },
+        {
+          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+          "forks": null,
+          "name": "webpack / webpack",
+          "rank": 2,
+          "repo_key": "webpack/webpack",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/webpack/webpack"
+        },
+        {
+          "description": "🃏 A magical documentation site generator.",
+          "forks": null,
+          "name": "docsifyjs / docsify",
+          "rank": 3,
+          "repo_key": "docsifyjs/docsify",
+          "source_line": 19,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/docsifyjs/docsify"
+        },
+        {
+          "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+          "forks": null,
+          "name": "is-a-dev / register",
+          "rank": 4,
+          "repo_key": "is-a-dev/register",
+          "source_line": 20,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/is-a-dev/register"
+        },
+        {
+          "description": "A collection of 🤗 Transformers.js demos and example applications",
+          "forks": null,
+          "name": "huggingface / transformers.js-examples",
+          "rank": 5,
+          "repo_key": "huggingface/transformers.js-examples",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/huggingface/transformers.js-examples"
+        },
+        {
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.",
+          "forks": null,
+          "name": "bia-pain-bache / BPB-Worker-Panel",
+          "rank": 6,
+          "repo_key": "bia-pain-bache/bpb-worker-panel",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel"
+        },
+        {
+          "description": "The React Framework",
+          "forks": null,
+          "name": "vercel / next.js",
+          "rank": 7,
+          "repo_key": "vercel/next.js",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vercel/next.js"
+        },
+        {
+          "description": "An extension to watch sub only VOD on Twitch",
+          "forks": null,
+          "name": "besuper / TwitchNoSub",
+          "rank": 8,
+          "repo_key": "besuper/twitchnosub",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/besuper/TwitchNoSub"
+        },
+        {
+          "description": "</> htmx - high power tools for HTML",
+          "forks": null,
+          "name": "bigskysoftware / htmx",
+          "rank": 9,
+          "repo_key": "bigskysoftware/htmx",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bigskysoftware/htmx"
+        },
+        {
+          "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+          "forks": null,
+          "name": "WhiskeySockets / Baileys",
+          "rank": 10,
+          "repo_key": "whiskeysockets/baileys",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WhiskeySockets/Baileys"
+        },
+        {
+          "description": "Windows 11 in React 💻🌈⚡",
+          "forks": null,
+          "name": "blueedgetechno / win11React",
+          "rank": 11,
+          "repo_key": "blueedgetechno/win11react",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/blueedgetechno/win11React"
+        },
+        {
+          "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+          "forks": null,
+          "name": "rabbitmq / rabbitmq-server",
+          "rank": 12,
+          "repo_key": "rabbitmq/rabbitmq-server",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/rabbitmq/rabbitmq-server"
+        },
+        {
+          "description": "Free Modern URL Shortener.",
+          "forks": null,
+          "name": "thedevs-network / kutt",
+          "rank": 13,
+          "repo_key": "thedevs-network/kutt",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/thedevs-network/kutt"
+        },
+        {
+          "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+          "forks": null,
+          "name": "usebruno / bruno",
+          "rank": 14,
+          "repo_key": "usebruno/bruno",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/usebruno/bruno"
+        },
+        {
+          "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+          "forks": null,
+          "name": "swagger-api / swagger-ui",
+          "rank": 15,
+          "repo_key": "swagger-api/swagger-ui",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/swagger-api/swagger-ui"
+        },
+        {
+          "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+          "forks": null,
+          "name": "WebKit / WebKit",
+          "rank": 16,
+          "repo_key": "webkit/webkit",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WebKit/WebKit"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Cloud Native Policy Management",
+          "forks": null,
+          "name": "kyverno / kyverno",
+          "rank": 1,
+          "repo_key": "kyverno/kyverno",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kyverno/kyverno"
+        },
+        {
+          "description": "The Cloud Native Application Proxy",
+          "forks": null,
+          "name": "traefik / traefik",
+          "rank": 2,
+          "repo_key": "traefik/traefik",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/traefik/traefik"
+        },
+        {
+          "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+          "forks": null,
+          "name": "chaitin / SafeLine",
+          "rank": 3,
+          "repo_key": "chaitin/safeline",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/chaitin/SafeLine"
+        },
+        {
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "forks": null,
+          "name": "aquasecurity / trivy",
+          "rank": 4,
+          "repo_key": "aquasecurity/trivy",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/aquasecurity/trivy"
+        },
+        {
+          "description": "A BNB Smart Chain client based on the go-ethereum fork",
+          "forks": null,
+          "name": "bnb-chain / bsc",
+          "rank": 5,
+          "repo_key": "bnb-chain/bsc",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bnb-chain/bsc"
+        },
+        {
+          "description": "Build and run containers leveraging NVIDIA GPUs",
+          "forks": null,
+          "name": "NVIDIA / nvidia-container-toolkit",
+          "rank": 6,
+          "repo_key": "nvidia/nvidia-container-toolkit",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NVIDIA/nvidia-container-toolkit"
+        },
+        {
+          "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+          "forks": null,
+          "name": "danielmiessler / fabric",
+          "rank": 7,
+          "repo_key": "danielmiessler/fabric",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danielmiessler/fabric"
+        },
+        {
+          "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+          "forks": null,
+          "name": "moby / moby",
+          "rank": 8,
+          "repo_key": "moby/moby",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/moby/moby"
+        },
+        {
+          "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+          "forks": null,
+          "name": "prometheus-operator / prometheus-operator",
+          "rank": 9,
+          "repo_key": "prometheus-operator/prometheus-operator",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/prometheus-operator/prometheus-operator"
+        },
+        {
+          "description": "Production-Grade Container Scheduling and Management",
+          "forks": null,
+          "name": "kubernetes / kubernetes",
+          "rank": 10,
+          "repo_key": "kubernetes/kubernetes",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubernetes/kubernetes"
+        },
+        {
+          "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+          "forks": null,
+          "name": "cosmos / cosmos-sdk",
+          "rank": 11,
+          "repo_key": "cosmos/cosmos-sdk",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cosmos/cosmos-sdk"
+        },
+        {
+          "description": "Autoscaling components for Kubernetes",
+          "forks": null,
+          "name": "kubernetes / autoscaler",
+          "rank": 12,
+          "repo_key": "kubernetes/autoscaler",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kubernetes/autoscaler"
+        },
+        {
+          "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+          "forks": null,
+          "name": "moby / buildkit",
+          "rank": 13,
+          "repo_key": "moby/buildkit",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/moby/buildkit"
+        },
+        {
+          "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+          "forks": null,
+          "name": "netbirdio / netbird",
+          "rank": 14,
+          "repo_key": "netbirdio/netbird",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/netbirdio/netbird"
+        },
+        {
+          "description": "Workflow Engine for Kubernetes",
+          "forks": null,
+          "name": "argoproj / argo-workflows",
+          "rank": 15,
+          "repo_key": "argoproj/argo-workflows",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/argoproj/argo-workflows"
+        },
+        {
+          "description": "Information gathering framework for phone numbers",
+          "forks": null,
+          "name": "sundowndev / phoneinfoga",
+          "rank": 16,
+          "repo_key": "sundowndev/phoneinfoga",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sundowndev/phoneinfoga"
+        },
+        {
+          "description": "Database migrations. CLI and Golang library.",
+          "forks": null,
+          "name": "golang-migrate / migrate",
+          "rank": 17,
+          "repo_key": "golang-migrate/migrate",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/golang-migrate/migrate"
+        },
+        {
+          "description": "An open and reliable container runtime",
+          "forks": null,
+          "name": "containerd / containerd",
+          "rank": 18,
+          "repo_key": "containerd/containerd",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/containerd/containerd"
+        },
+        {
+          "description": "The toolkit to pack, ship, store, and deliver container content",
+          "forks": null,
+          "name": "distribution / distribution",
+          "rank": 19,
+          "repo_key": "distribution/distribution",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/distribution/distribution"
+        },
+        {
+          "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+          "forks": null,
+          "name": "pulumi / pulumi",
+          "rank": 20,
+          "repo_key": "pulumi/pulumi",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pulumi/pulumi"
+        },
+        {
+          "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+          "forks": null,
+          "name": "livekit / livekit",
+          "rank": 21,
+          "repo_key": "livekit/livekit",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/livekit/livekit"
+        },
+        {
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "forks": null,
+          "name": "influxdata / telegraf",
+          "rank": 22,
+          "repo_key": "influxdata/telegraf",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/influxdata/telegraf"
+        },
+        {
+          "description": "The Havoc Framework",
+          "forks": null,
+          "name": "HavocFramework / Havoc",
+          "rank": 23,
+          "repo_key": "havocframework/havoc",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/HavocFramework/Havoc"
+        },
+        {
+          "description": "The Docker CLI",
+          "forks": null,
+          "name": "docker / cli",
+          "rank": 24,
+          "repo_key": "docker/cli",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/docker/cli"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Java version of LangChain",
+          "forks": null,
+          "name": "langchain4j / langchain4j",
+          "rank": 1,
+          "repo_key": "langchain4j/langchain4j",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/langchain4j/langchain4j"
+        },
+        {
+          "description": "Mirror of Apache Kafka",
+          "forks": null,
+          "name": "apache / kafka",
+          "rank": 2,
+          "repo_key": "apache/kafka",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/kafka"
+        },
+        {
+          "description": "Quarkus: Supersonic Subatomic Java.",
+          "forks": null,
+          "name": "quarkusio / quarkus",
+          "rank": 3,
+          "repo_key": "quarkusio/quarkus",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/quarkusio/quarkus"
+        },
+        {
+          "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+          "forks": null,
+          "name": "thingsboard / thingsboard",
+          "rank": 4,
+          "repo_key": "thingsboard/thingsboard",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/thingsboard/thingsboard"
+        },
+        {
+          "description": "Conductor is an event driven orchestration platform",
+          "forks": null,
+          "name": "conductor-oss / conductor",
+          "rank": 5,
+          "repo_key": "conductor-oss/conductor",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/conductor-oss/conductor"
+        },
+        {
+          "description": "WildFly Application Server",
+          "forks": null,
+          "name": "wildfly / wildfly",
+          "rank": 6,
+          "repo_key": "wildfly/wildfly",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wildfly/wildfly"
+        },
+        {
+          "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
+          "forks": null,
+          "name": "androidx / media",
+          "rank": 7,
+          "repo_key": "androidx/media",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/androidx/media"
+        },
+        {
+          "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+          "forks": null,
+          "name": "alibaba / nacos",
+          "rank": 8,
+          "repo_key": "alibaba/nacos",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/nacos"
+        },
+        {
+          "description": "Code for Quartz Scheduler",
+          "forks": null,
+          "name": "quartz-scheduler / quartz",
+          "rank": 9,
+          "repo_key": "quartz-scheduler/quartz",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/quartz-scheduler/quartz"
+        },
+        {
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+          "forks": null,
+          "name": "spring-projects / spring-boot",
+          "rank": 10,
+          "repo_key": "spring-projects/spring-boot",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/spring-projects/spring-boot"
+        },
+        {
+          "description": "Apache Iceberg",
+          "forks": null,
+          "name": "apache / iceberg",
+          "rank": 11,
+          "repo_key": "apache/iceberg",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/iceberg"
+        },
+        {
+          "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+          "forks": null,
+          "name": "real-logic / aeron",
+          "rank": 12,
+          "repo_key": "real-logic/aeron",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/real-logic/aeron"
+        },
+        {
+          "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+          "forks": null,
+          "name": "termux / termux-app",
+          "rank": 13,
+          "repo_key": "termux/termux-app",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/termux/termux-app"
+        },
+        {
+          "description": "Universal File Online Preview Project based on Spring-Boot",
+          "forks": null,
+          "name": "kekingcn / kkFileView",
+          "rank": 14,
+          "repo_key": "kekingcn/kkfileview",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kekingcn/kkFileView"
+        },
+        {
+          "description": "🔎 Open source distributed and RESTful search engine.",
+          "forks": null,
+          "name": "opensearch-project / OpenSearch",
+          "rank": 15,
+          "repo_key": "opensearch-project/opensearch",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/opensearch-project/OpenSearch"
+        },
+        {
+          "description": "Generate diagrams from textual description",
+          "forks": null,
+          "name": "plantuml / plantuml",
+          "rank": 16,
+          "repo_key": "plantuml/plantuml",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/plantuml/plantuml"
+        },
+        {
+          "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
+          "forks": null,
+          "name": "hyperledger / besu",
+          "rank": 17,
+          "repo_key": "hyperledger/besu",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hyperledger/besu"
+        },
+        {
+          "description": "🔥 Android developers should collect the following utils(updating).",
+          "forks": null,
+          "name": "Blankj / AndroidUtilCode",
+          "rank": 18,
+          "repo_key": "blankj/androidutilcode",
+          "source_line": 78,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Blankj/AndroidUtilCode"
+        },
+        {
+          "description": "Apache Lucene open-source search software",
+          "forks": null,
+          "name": "apache / lucene",
+          "rank": 19,
+          "repo_key": "apache/lucene",
+          "source_line": 79,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/lucene"
+        },
+        {
+          "description": "Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.",
+          "forks": null,
+          "name": "debezium / debezium",
+          "rank": 20,
+          "repo_key": "debezium/debezium",
+          "source_line": 80,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/debezium/debezium"
+        },
+        {
+          "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+          "forks": null,
+          "name": "trinodb / trino",
+          "rank": 21,
+          "repo_key": "trinodb/trino",
+          "source_line": 81,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/trinodb/trino"
+        },
+        {
+          "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+          "forks": null,
+          "name": "Azure / azure-sdk-for-java",
+          "rank": 22,
+          "repo_key": "azure/azure-sdk-for-java",
+          "source_line": 82,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Azure/azure-sdk-for-java"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2025-01-12",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2025/2025-01-12.md",
+  "source_sha256": "45f02ebe629291d9fd5a31aca564513e2ed7e7f722bf644e83989ab47dda6766",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

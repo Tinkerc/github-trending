@@ -9,6 +9,7 @@ import requests
 
 import notify
 import scraper
+import trends
 from tests.common import fixture
 
 WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/secret-token-abc123"
@@ -73,38 +74,64 @@ class BuildPayloadTest(unittest.TestCase):
             self.snapshot, self.repos, archive_url="https://example.com/archive.json"
         )
         self.assertIn("GitHub Trending 2026-11-15", text)
-        self.assertIn("总榜日榜", text)
-        self.assertIn("总榜周榜", text)
-        self.assertIn("Example/Project +321", text)
+        self.assertIn("今日精选", text)
+        self.assertIn("日增 Top 3 / 周增 Top 3", text)
+        self.assertIn("日增 +321", text)
+        self.assertIn("周增 +1,500", text)
+        self.assertIn("首次采集基线", text)
         self.assertIn("https://github.com/Example/Project", text)
         self.assertIn("归档: https://example.com/archive.json", text)
-        self.assertNotIn("py-only/Lib", text)
+        self.assertIn("py-only/Lib", text)
+        self.assertEqual(text.count("https://github.com/Example/Project"), 1)
+        self.assertIn("示例项目：结构化采集", text)
 
     def test_body_under_limit_and_reduces_entries(self):
         snapshot, repos = make_snapshot_and_repos()
         long_name = "org/" + "x" * 300
-        key = long_name.lower()
-        repos[key] = {
-            "full_name": long_name,
-            "url": "https://github.com/" + long_name,
-            "description": "",
-            "language": None,
-            "first_seen": "2026-11-15",
-            "last_seen": "2026-11-15",
-        }
+        for index in range(8):
+            key = long_name.lower() + str(index)
+            repos[key] = {
+                "full_name": key,
+                "url": "https://github.com/" + key,
+                "description": "中文简介" * 40,
+                "first_seen": "2026-11-15",
+            }
         snapshot["boards"][0]["entries"] = [
-            {"rank": i, "repo_key": key, "stars": i, "forks": 0, "stars_in_period": i}
-            for i in range(1, 41)
+            {"rank": i + 1, "repo_key": long_name.lower() + str(i),
+             "stars": 100, "forks": 0, "stars_in_period": i + 1}
+            for i in range(8)
         ]
-        payload = notify.build_payload(snapshot, repos, top_n=40)
+        digest = trends.build_digest(snapshot, repos, [{"date": "2026-11-14", "boards": []}])
+        with mock.patch.object(notify, "MAX_BODY_BYTES", 2000):
+            payload = notify.build_payload(snapshot, repos, digest=digest)
         body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-        self.assertLess(len(body), notify.MAX_BODY_BYTES)
-        self.assertLess(payload["content"]["text"].count("https://github.com/"), 40)
+        self.assertLess(len(body), 2000)
+        self.assertGreater(payload["content"]["text"].count("https://github.com/"), 0)
+        self.assertLess(payload["content"]["text"].count("https://github.com/"), 8)
+
+    def test_payload_that_cannot_fit_raises(self):
+        with mock.patch.object(notify, "MAX_BODY_BYTES", 10):
+            with self.assertRaises(notify.NotifyError):
+                notify.build_payload(self.snapshot, self.repos)
+
+    def test_empty_digest_explains_no_candidates(self):
+        snapshot = {"date": "2026-11-15", "boards": []}
+        self.assertIn("暂无符合条件", notify.build_text(snapshot, {}))
+
+    def test_streak_beyond_window_is_displayed_as_lower_bound(self):
+        history = [dict(self.snapshot, date="2026-11-{day:02d}".format(day=day))
+                   for day in range(8, 15)]
+        for repo in self.repos.values():
+            repo["first_seen"] = "2026-11-08"
+        digest = trends.build_digest(self.snapshot, self.repos, history)
+        text = notify.build_text(self.snapshot, self.repos, digest=digest)
+        self.assertIn("当前连续至少 7 天", text)
+        self.assertNotIn("当前连续 7 天", text)
 
     def test_chinese_utf8_bytes(self):
         payload = notify.build_payload(self.snapshot, self.repos)
         body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-        self.assertIn("总榜日榜".encode("utf-8"), body)
+        self.assertIn("今日精选".encode("utf-8"), body)
         self.assertLess(len(body), notify.MAX_BODY_BYTES)
 
 

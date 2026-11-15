@@ -1,0 +1,809 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 1,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+          "forks": null,
+          "name": "Shubhamsaboo / awesome-llm-apps",
+          "rank": 2,
+          "repo_key": "shubhamsaboo/awesome-llm-apps",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+        },
+        {
+          "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+          "forks": null,
+          "name": "Zipstack / unstract",
+          "rank": 3,
+          "repo_key": "zipstack/unstract",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Zipstack/unstract"
+        },
+        {
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "forks": null,
+          "name": "Significant-Gravitas / AutoGPT",
+          "rank": 4,
+          "repo_key": "significant-gravitas/autogpt",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Significant-Gravitas/AutoGPT"
+        },
+        {
+          "description": "Python sample codes for robotics algorithms.",
+          "forks": null,
+          "name": "AtsushiSakai / PythonRobotics",
+          "rank": 5,
+          "repo_key": "atsushisakai/pythonrobotics",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AtsushiSakai/PythonRobotics"
+        },
+        {
+          "description": "PDF to Markdown with vision models",
+          "forks": null,
+          "name": "getomni-ai / zerox",
+          "rank": 6,
+          "repo_key": "getomni-ai/zerox",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/getomni-ai/zerox"
+        },
+        {
+          "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+          "forks": null,
+          "name": "myhhub / stock",
+          "rank": 7,
+          "repo_key": "myhhub/stock",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/myhhub/stock"
+        },
+        {
+          "description": "A Lightweight Recommendation System",
+          "forks": null,
+          "name": "bytedance / monolith",
+          "rank": 8,
+          "repo_key": "bytedance/monolith",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bytedance/monolith"
+        },
+        {
+          "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+          "forks": null,
+          "name": "NVlabs / VILA",
+          "rank": 9,
+          "repo_key": "nvlabs/vila",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NVlabs/VILA"
+        },
+        {
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "forks": null,
+          "name": "comfyanonymous / ComfyUI",
+          "rank": 10,
+          "repo_key": "comfyanonymous/comfyui",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/comfyanonymous/ComfyUI"
+        },
+        {
+          "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+          "forks": null,
+          "name": "ComposioHQ / composio",
+          "rank": 11,
+          "repo_key": "composiohq/composio",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ComposioHQ/composio"
+        },
+        {
+          "description": "Open Source Inventory Management System",
+          "forks": null,
+          "name": "inventree / InvenTree",
+          "rank": 12,
+          "repo_key": "inventree/inventree",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/inventree/InvenTree"
+        },
+        {
+          "description": "Infinite Photorealistic Worlds using Procedural Generation",
+          "forks": null,
+          "name": "princeton-vl / infinigen",
+          "rank": 13,
+          "repo_key": "princeton-vl/infinigen",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/princeton-vl/infinigen"
+        },
+        {
+          "description": "Bringing BERT into modernity via both architecture changes and scaling",
+          "forks": null,
+          "name": "AnswerDotAI / ModernBERT",
+          "rank": 14,
+          "repo_key": "answerdotai/modernbert",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AnswerDotAI/ModernBERT"
+        },
+        {
+          "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+          "forks": null,
+          "name": "livekit / agents",
+          "rank": 15,
+          "repo_key": "livekit/agents",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/livekit/agents"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+          "forks": null,
+          "name": "gorhill / uBlock",
+          "rank": 1,
+          "repo_key": "gorhill/ublock",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gorhill/uBlock"
+        },
+        {
+          "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+          "forks": null,
+          "name": "WhiskeySockets / Baileys",
+          "rank": 2,
+          "repo_key": "whiskeysockets/baileys",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WhiskeySockets/Baileys"
+        },
+        {
+          "description": "The Abstraction and Reasoning Corpus",
+          "forks": null,
+          "name": "fchollet / ARC-AGI",
+          "rank": 3,
+          "repo_key": "fchollet/arc-agi",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/fchollet/ARC-AGI"
+        },
+        {
+          "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
+          "forks": null,
+          "name": "docmirror / dev-sidecar",
+          "rank": 4,
+          "repo_key": "docmirror/dev-sidecar",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/docmirror/dev-sidecar"
+        },
+        {
+          "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+          "forks": null,
+          "name": "automatisch / automatisch",
+          "rank": 5,
+          "repo_key": "automatisch/automatisch",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/automatisch/automatisch"
+        },
+        {
+          "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+          "forks": null,
+          "name": "InternLM / MindSearch",
+          "rank": 6,
+          "repo_key": "internlm/mindsearch",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/InternLM/MindSearch"
+        },
+        {
+          "description": "A simple HTML5, YouTube and Vimeo player",
+          "forks": null,
+          "name": "sampotts / plyr",
+          "rank": 7,
+          "repo_key": "sampotts/plyr",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sampotts/plyr"
+        },
+        {
+          "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+          "forks": null,
+          "name": "songquanpeng / one-api",
+          "rank": 8,
+          "repo_key": "songquanpeng/one-api",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/songquanpeng/one-api"
+        },
+        {
+          "description": "web development, streamlined",
+          "forks": null,
+          "name": "sveltejs / kit",
+          "rank": 9,
+          "repo_key": "sveltejs/kit",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sveltejs/kit"
+        },
+        {
+          "description": "a vue2.0 minimal admin template",
+          "forks": null,
+          "name": "PanJiaChen / vue-admin-template",
+          "rank": 10,
+          "repo_key": "panjiachen/vue-admin-template",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PanJiaChen/vue-admin-template"
+        },
+        {
+          "description": "🛁 Clean Code concepts adapted for JavaScript",
+          "forks": null,
+          "name": "ryanmcdermott / clean-code-javascript",
+          "rank": 11,
+          "repo_key": "ryanmcdermott/clean-code-javascript",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+        },
+        {
+          "description": "LuCI - OpenWrt Configuration Interface",
+          "forks": null,
+          "name": "openwrt / luci",
+          "rank": 12,
+          "repo_key": "openwrt/luci",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/openwrt/luci"
+        },
+        {
+          "description": "The React Framework",
+          "forks": null,
+          "name": "vercel / next.js",
+          "rank": 13,
+          "repo_key": "vercel/next.js",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vercel/next.js"
+        },
+        {
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+          "forks": null,
+          "name": "trekhleb / javascript-algorithms",
+          "rank": 14,
+          "repo_key": "trekhleb/javascript-algorithms",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/trekhleb/javascript-algorithms"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+          "forks": null,
+          "name": "gin-gonic / gin",
+          "rank": 1,
+          "repo_key": "gin-gonic/gin",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gin-gonic/gin"
+        },
+        {
+          "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+          "forks": null,
+          "name": "kgretzky / evilginx2",
+          "rank": 2,
+          "repo_key": "kgretzky/evilginx2",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kgretzky/evilginx2"
+        },
+        {
+          "description": "A mock code autogenerator for Go",
+          "forks": null,
+          "name": "vektra / mockery",
+          "rank": 3,
+          "repo_key": "vektra/mockery",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vektra/mockery"
+        },
+        {
+          "description": "Exporter for machine metrics",
+          "forks": null,
+          "name": "prometheus / node_exporter",
+          "rank": 4,
+          "repo_key": "prometheus/node_exporter",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/prometheus/node_exporter"
+        },
+        {
+          "description": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",
+          "forks": null,
+          "name": "moonD4rk / HackBrowserData",
+          "rank": 5,
+          "repo_key": "moond4rk/hackbrowserdata",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/moonD4rk/HackBrowserData"
+        },
+        {
+          "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+          "forks": null,
+          "name": "shadow1ng / fscan",
+          "rank": 6,
+          "repo_key": "shadow1ng/fscan",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/shadow1ng/fscan"
+        },
+        {
+          "description": "Gogs is a painless self-hosted Git service",
+          "forks": null,
+          "name": "gogs / gogs",
+          "rank": 7,
+          "repo_key": "gogs/gogs",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gogs/gogs"
+        },
+        {
+          "description": "🎧☁️ Your Personal Streaming Service",
+          "forks": null,
+          "name": "navidrome / navidrome",
+          "rank": 8,
+          "repo_key": "navidrome/navidrome",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/navidrome/navidrome"
+        },
+        {
+          "description": "A curated list of awesome Go frameworks, libraries and software",
+          "forks": null,
+          "name": "avelino / awesome-go",
+          "rank": 9,
+          "repo_key": "avelino/awesome-go",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/avelino/awesome-go"
+        },
+        {
+          "description": "Kong is a command-line parser for Go",
+          "forks": null,
+          "name": "alecthomas / kong",
+          "rank": 10,
+          "repo_key": "alecthomas/kong",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alecthomas/kong"
+        },
+        {
+          "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+          "forks": null,
+          "name": "vitessio / vitess",
+          "rank": 11,
+          "repo_key": "vitessio/vitess",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vitessio/vitess"
+        },
+        {
+          "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+          "forks": null,
+          "name": "gonum / gonum",
+          "rank": 12,
+          "repo_key": "gonum/gonum",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gonum/gonum"
+        },
+        {
+          "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+          "forks": null,
+          "name": "tmc / langchaingo",
+          "rank": 13,
+          "repo_key": "tmc/langchaingo",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tmc/langchaingo"
+        },
+        {
+          "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+          "forks": null,
+          "name": "grpc / grpc-go",
+          "rank": 14,
+          "repo_key": "grpc/grpc-go",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/grpc/grpc-go"
+        },
+        {
+          "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+          "forks": null,
+          "name": "moby / moby",
+          "rank": 15,
+          "repo_key": "moby/moby",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/moby/moby"
+        },
+        {
+          "description": "Fluent SQL generation for golang",
+          "forks": null,
+          "name": "Masterminds / squirrel",
+          "rank": 16,
+          "repo_key": "masterminds/squirrel",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Masterminds/squirrel"
+        },
+        {
+          "description": "PostgreSQL driver and toolkit for Go",
+          "forks": null,
+          "name": "jackc / pgx",
+          "rank": 17,
+          "repo_key": "jackc/pgx",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jackc/pgx"
+        },
+        {
+          "description": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+          "forks": null,
+          "name": "langgenius / dify-sandbox",
+          "rank": 18,
+          "repo_key": "langgenius/dify-sandbox",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/langgenius/dify-sandbox"
+        },
+        {
+          "description": "Algorand's official implementation in Go.",
+          "forks": null,
+          "name": "algorand / go-algorand",
+          "rank": 19,
+          "repo_key": "algorand/go-algorand",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/algorand/go-algorand"
+        },
+        {
+          "description": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+          "forks": null,
+          "name": "WireGuard / wireguard-go",
+          "rank": 20,
+          "repo_key": "wireguard/wireguard-go",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/WireGuard/wireguard-go"
+        },
+        {
+          "description": "SQL-first Golang ORM",
+          "forks": null,
+          "name": "uptrace / bun",
+          "rank": 21,
+          "repo_key": "uptrace/bun",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/uptrace/bun"
+        },
+        {
+          "description": "Get JSON values quickly - JSON parser for Go",
+          "forks": null,
+          "name": "tidwall / gjson",
+          "rank": 22,
+          "repo_key": "tidwall/gjson",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tidwall/gjson"
+        },
+        {
+          "description": "CLI tool for spawning and running containers according to the OCI specification",
+          "forks": null,
+          "name": "opencontainers / runc",
+          "rank": 23,
+          "repo_key": "opencontainers/runc",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/opencontainers/runc"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+          "forks": null,
+          "name": "CodePhiliaX / Chat2DB",
+          "rank": 1,
+          "repo_key": "codephiliax/chat2db",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/CodePhiliaX/Chat2DB"
+        },
+        {
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+          "forks": null,
+          "name": "krahets / hello-algo",
+          "rank": 2,
+          "repo_key": "krahets/hello-algo",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/krahets/hello-algo"
+        },
+        {
+          "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+          "forks": null,
+          "name": "dataease / dataease",
+          "rank": 3,
+          "repo_key": "dataease/dataease",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dataease/dataease"
+        },
+        {
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "forks": null,
+          "name": "Snailclimb / JavaGuide",
+          "rank": 4,
+          "repo_key": "snailclimb/javaguide",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Snailclimb/JavaGuide"
+        },
+        {
+          "description": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+          "forks": null,
+          "name": "dromara / Sa-Token",
+          "rank": 5,
+          "repo_key": "dromara/sa-token",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dromara/Sa-Token"
+        },
+        {
+          "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+          "forks": null,
+          "name": "apache / shardingsphere",
+          "rank": 6,
+          "repo_key": "apache/shardingsphere",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/shardingsphere"
+        },
+        {
+          "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+          "forks": null,
+          "name": "checkstyle / checkstyle",
+          "rank": 7,
+          "repo_key": "checkstyle/checkstyle",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/checkstyle/checkstyle"
+        },
+        {
+          "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+          "forks": null,
+          "name": "PaperMC / Paper",
+          "rank": 8,
+          "repo_key": "papermc/paper",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PaperMC/Paper"
+        },
+        {
+          "description": "「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。",
+          "forks": null,
+          "name": "jeecgboot / JimuReport",
+          "rank": 9,
+          "repo_key": "jeecgboot/jimureport",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jeecgboot/JimuReport"
+        },
+        {
+          "description": "Graphical Java application for managing BibTeX and biblatex (.bib) databases",
+          "forks": null,
+          "name": "JabRef / jabref",
+          "rank": 10,
+          "repo_key": "jabref/jabref",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JabRef/jabref"
+        },
+        {
+          "description": "Spring Framework",
+          "forks": null,
+          "name": "spring-projects / spring-framework",
+          "rank": 11,
+          "repo_key": "spring-projects/spring-framework",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/spring-projects/spring-framework"
+        },
+        {
+          "description": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+          "forks": null,
+          "name": "jeecgboot / JeecgBoot",
+          "rank": 12,
+          "repo_key": "jeecgboot/jeecgboot",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jeecgboot/JeecgBoot"
+        },
+        {
+          "description": "QNotified phoenix - To make OICQ great again",
+          "forks": null,
+          "name": "cinit / QAuxiliary",
+          "rank": 13,
+          "repo_key": "cinit/qauxiliary",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cinit/QAuxiliary"
+        },
+        {
+          "description": "Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.",
+          "forks": null,
+          "name": "DataLinkDC / dinky",
+          "rank": 14,
+          "repo_key": "datalinkdc/dinky",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DataLinkDC/dinky"
+        },
+        {
+          "description": "Apache ZooKeeper",
+          "forks": null,
+          "name": "apache / zookeeper",
+          "rank": 15,
+          "repo_key": "apache/zookeeper",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/zookeeper"
+        },
+        {
+          "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+          "forks": null,
+          "name": "YunaiV / ruoyi-vue-pro",
+          "rank": 16,
+          "repo_key": "yunaiv/ruoyi-vue-pro",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/YunaiV/ruoyi-vue-pro"
+        },
+        {
+          "description": "Based Minecraft utility mod.",
+          "forks": null,
+          "name": "MeteorDevelopment / meteor-client",
+          "rank": 17,
+          "repo_key": "meteordevelopment/meteor-client",
+          "source_line": 78,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MeteorDevelopment/meteor-client"
+        },
+        {
+          "description": "Modular and customizable Material Design UI components for Android",
+          "forks": null,
+          "name": "material-components / material-components-android",
+          "rank": 18,
+          "repo_key": "material-components/material-components-android",
+          "source_line": 79,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/material-components/material-components-android"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2024-12-25",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2024/2024-12-25.md",
+  "source_sha256": "553c3c7b5a363d42518bb7cc844909759668349bfea107f541b8ad107d4821bc",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

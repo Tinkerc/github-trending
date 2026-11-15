@@ -1,0 +1,853 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory",
+          "forks": null,
+          "name": "unslothai / unsloth",
+          "rank": 1,
+          "repo_key": "unslothai/unsloth",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/unslothai/unsloth"
+        },
+        {
+          "description": "Stable Diffusion web UI",
+          "forks": null,
+          "name": "AUTOMATIC1111 / stable-diffusion-webui",
+          "rank": 2,
+          "repo_key": "automatic1111/stable-diffusion-webui",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+        },
+        {
+          "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+          "forks": null,
+          "name": "infiniflow / ragflow",
+          "rank": 3,
+          "repo_key": "infiniflow/ragflow",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/infiniflow/ragflow"
+        },
+        {
+          "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+          "forks": null,
+          "name": "albertan017 / LLM4Decompile",
+          "rank": 4,
+          "repo_key": "albertan017/llm4decompile",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/albertan017/LLM4Decompile"
+        },
+        {
+          "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+          "forks": null,
+          "name": "potpie-ai / potpie",
+          "rank": 5,
+          "repo_key": "potpie-ai/potpie",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/potpie-ai/potpie"
+        },
+        {
+          "description": "Make websites accessible for AI agents",
+          "forks": null,
+          "name": "browser-use / browser-use",
+          "rank": 6,
+          "repo_key": "browser-use/browser-use",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/browser-use/browser-use"
+        },
+        {
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "forks": null,
+          "name": "jingyaogong / minimind",
+          "rank": 7,
+          "repo_key": "jingyaogong/minimind",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jingyaogong/minimind"
+        },
+        {
+          "description": "The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+          "forks": null,
+          "name": "SciPhi-AI / R2R",
+          "rank": 8,
+          "repo_key": "sciphi-ai/r2r",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SciPhi-AI/R2R"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "lllyasviel / stable-diffusion-webui-forge",
+          "rank": 9,
+          "repo_key": "lllyasviel/stable-diffusion-webui-forge",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge"
+        },
+        {
+          "description": "小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件",
+          "forks": null,
+          "name": "JoeanAmier / XHS-Downloader",
+          "rank": 10,
+          "repo_key": "joeanamier/xhs-downloader",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JoeanAmier/XHS-Downloader"
+        },
+        {
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "forks": null,
+          "name": "home-assistant / core",
+          "rank": 11,
+          "repo_key": "home-assistant/core",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/home-assistant/core"
+        },
+        {
+          "description": "Focus on prompting and generating",
+          "forks": null,
+          "name": "lllyasviel / Fooocus",
+          "rank": 12,
+          "repo_key": "lllyasviel/fooocus",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lllyasviel/Fooocus"
+        },
+        {
+          "description": "The best source for dashboard icons.",
+          "forks": null,
+          "name": "homarr-labs / dashboard-icons",
+          "rank": 13,
+          "repo_key": "homarr-labs/dashboard-icons",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/homarr-labs/dashboard-icons"
+        },
+        {
+          "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+          "forks": null,
+          "name": "ltdrdata / ComfyUI-Manager",
+          "rank": 14,
+          "repo_key": "ltdrdata/comfyui-manager",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ltdrdata/ComfyUI-Manager"
+        },
+        {
+          "description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+          "forks": null,
+          "name": "SWivid / F5-TTS",
+          "rank": 15,
+          "repo_key": "swivid/f5-tts",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SWivid/F5-TTS"
+        },
+        {
+          "description": "TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具",
+          "forks": null,
+          "name": "JoeanAmier / TikTokDownloader",
+          "rank": 16,
+          "repo_key": "joeanamier/tiktokdownloader",
+          "source_line": 19,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JoeanAmier/TikTokDownloader"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "A habit tracker app which treats your goals like a Role Playing Game.",
+          "forks": null,
+          "name": "HabitRPG / habitica",
+          "rank": 1,
+          "repo_key": "habitrpg/habitica",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/HabitRPG/habitica"
+        },
+        {
+          "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+          "forks": null,
+          "name": "wg-easy / wg-easy",
+          "rank": 2,
+          "repo_key": "wg-easy/wg-easy",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/wg-easy/wg-easy"
+        },
+        {
+          "description": "自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器",
+          "forks": null,
+          "name": "cmliu / WorkerVless2sub",
+          "rank": 3,
+          "repo_key": "cmliu/workervless2sub",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cmliu/WorkerVless2sub"
+        },
+        {
+          "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+          "forks": null,
+          "name": "NaiboWang / EasySpider",
+          "rank": 4,
+          "repo_key": "naibowang/easyspider",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NaiboWang/EasySpider"
+        },
+        {
+          "description": "The iconic SVG, font, and CSS toolkit",
+          "forks": null,
+          "name": "FortAwesome / Font-Awesome",
+          "rank": 5,
+          "repo_key": "fortawesome/font-awesome",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/FortAwesome/Font-Awesome"
+        },
+        {
+          "description": "LuCI - OpenWrt Configuration Interface",
+          "forks": null,
+          "name": "openwrt / luci",
+          "rank": 6,
+          "repo_key": "openwrt/luci",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/openwrt/luci"
+        },
+        {
+          "description": "LLM Frontend for Power Users.",
+          "forks": null,
+          "name": "SillyTavern / SillyTavern",
+          "rank": 7,
+          "repo_key": "sillytavern/sillytavern",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SillyTavern/SillyTavern"
+        },
+        {
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.",
+          "forks": null,
+          "name": "bia-pain-bache / BPB-Worker-Panel",
+          "rank": 8,
+          "repo_key": "bia-pain-bache/bpb-worker-panel",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel"
+        },
+        {
+          "description": "2009 youtube frontend.",
+          "forks": null,
+          "name": "ftde0 / yt2009",
+          "rank": 9,
+          "repo_key": "ftde0/yt2009",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ftde0/yt2009"
+        },
+        {
+          "description": "The Free Software Media System - Official Web Client",
+          "forks": null,
+          "name": "jellyfin / jellyfin-web",
+          "rank": 10,
+          "repo_key": "jellyfin/jellyfin-web",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jellyfin/jellyfin-web"
+        },
+        {
+          "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+          "forks": null,
+          "name": "songquanpeng / one-api",
+          "rank": 11,
+          "repo_key": "songquanpeng/one-api",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/songquanpeng/one-api"
+        },
+        {
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "forks": null,
+          "name": "nodejs / node",
+          "rank": 12,
+          "repo_key": "nodejs/node",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nodejs/node"
+        },
+        {
+          "description": "Node.js based forum software built for the modern web",
+          "forks": null,
+          "name": "NodeBB / NodeBB",
+          "rank": 13,
+          "repo_key": "nodebb/nodebb",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NodeBB/NodeBB"
+        },
+        {
+          "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+          "forks": null,
+          "name": "gildas-lormeau / SingleFile",
+          "rank": 14,
+          "repo_key": "gildas-lormeau/singlefile",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gildas-lormeau/SingleFile"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+          "forks": null,
+          "name": "1Panel-dev / 1Panel",
+          "rank": 1,
+          "repo_key": "1panel-dev/1panel",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/1Panel-dev/1Panel"
+        },
+        {
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+          "forks": null,
+          "name": "mudler / LocalAI",
+          "rank": 2,
+          "repo_key": "mudler/localai",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mudler/LocalAI"
+        },
+        {
+          "description": "A platform for building proxies to bypass network restrictions.",
+          "forks": null,
+          "name": "v2fly / v2ray-core",
+          "rank": 3,
+          "repo_key": "v2fly/v2ray-core",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2fly/v2ray-core"
+        },
+        {
+          "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+          "forks": null,
+          "name": "m1k1o / neko",
+          "rank": 4,
+          "repo_key": "m1k1o/neko",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/m1k1o/neko"
+        },
+        {
+          "description": "An open source, self-hosted implementation of the Tailscale control server",
+          "forks": null,
+          "name": "juanfont / headscale",
+          "rank": 5,
+          "repo_key": "juanfont/headscale",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/juanfont/headscale"
+        },
+        {
+          "description": "The Single Sign-On Multi-Factor portal for web apps",
+          "forks": null,
+          "name": "authelia / authelia",
+          "rank": 6,
+          "repo_key": "authelia/authelia",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/authelia/authelia"
+        },
+        {
+          "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+          "forks": null,
+          "name": "ory / kratos",
+          "rank": 7,
+          "repo_key": "ory/kratos",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ory/kratos"
+        },
+        {
+          "description": "A beautiful CLI dashboard for GitHub 🚀",
+          "forks": null,
+          "name": "dlvhdr / gh-dash",
+          "rank": 8,
+          "repo_key": "dlvhdr/gh-dash",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dlvhdr/gh-dash"
+        },
+        {
+          "description": "A lightweight personal bookkeeping app hosted by yourself.",
+          "forks": null,
+          "name": "mayswind / ezbookkeeping",
+          "rank": 9,
+          "repo_key": "mayswind/ezbookkeeping",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mayswind/ezbookkeeping"
+        },
+        {
+          "description": "Terminal file manager",
+          "forks": null,
+          "name": "gokcehan / lf",
+          "rank": 10,
+          "repo_key": "gokcehan/lf",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gokcehan/lf"
+        },
+        {
+          "description": "The easiest, most secure way to use WireGuard and 2FA.",
+          "forks": null,
+          "name": "tailscale / tailscale",
+          "rank": 11,
+          "repo_key": "tailscale/tailscale",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tailscale/tailscale"
+        },
+        {
+          "description": "🌸 A command-line fuzzy finder",
+          "forks": null,
+          "name": "junegunn / fzf",
+          "rank": 12,
+          "repo_key": "junegunn/fzf",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/junegunn/fzf"
+        },
+        {
+          "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+          "forks": null,
+          "name": "jeessy2 / ddns-go",
+          "rank": 13,
+          "repo_key": "jeessy2/ddns-go",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jeessy2/ddns-go"
+        },
+        {
+          "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+          "forks": null,
+          "name": "henrygd / beszel",
+          "rank": 14,
+          "repo_key": "henrygd/beszel",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/henrygd/beszel"
+        },
+        {
+          "description": "A curated list of awesome Go frameworks, libraries and software",
+          "forks": null,
+          "name": "avelino / awesome-go",
+          "rank": 15,
+          "repo_key": "avelino/awesome-go",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/avelino/awesome-go"
+        },
+        {
+          "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+          "forks": null,
+          "name": "XIU2 / CloudflareSpeedTest",
+          "rank": 16,
+          "repo_key": "xiu2/cloudflarespeedtest",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XIU2/CloudflareSpeedTest"
+        },
+        {
+          "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+          "forks": null,
+          "name": "beego / beego",
+          "rank": 17,
+          "repo_key": "beego/beego",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/beego/beego"
+        },
+        {
+          "description": "A process for automating Docker container base image updates.",
+          "forks": null,
+          "name": "containrrr / watchtower",
+          "rank": 18,
+          "repo_key": "containrrr/watchtower",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/containrrr/watchtower"
+        },
+        {
+          "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+          "forks": null,
+          "name": "simulot / immich-go",
+          "rank": 19,
+          "repo_key": "simulot/immich-go",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/simulot/immich-go"
+        },
+        {
+          "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+          "forks": null,
+          "name": "slackhq / nebula",
+          "rank": 20,
+          "repo_key": "slackhq/nebula",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/slackhq/nebula"
+        },
+        {
+          "description": "Deploy workloads from Git to large fleets of Kubernetes clusters",
+          "forks": null,
+          "name": "rancher / fleet",
+          "rank": 21,
+          "repo_key": "rancher/fleet",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/rancher/fleet"
+        },
+        {
+          "description": "select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.",
+          "forks": null,
+          "name": "turbot / tailpipe",
+          "rank": 22,
+          "repo_key": "turbot/tailpipe",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/turbot/tailpipe"
+        },
+        {
+          "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database .",
+          "forks": null,
+          "name": "weaviate / weaviate",
+          "rank": 23,
+          "repo_key": "weaviate/weaviate",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/weaviate/weaviate"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+          "forks": null,
+          "name": "ashishps1 / awesome-low-level-design",
+          "rank": 1,
+          "repo_key": "ashishps1/awesome-low-level-design",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ashishps1/awesome-low-level-design"
+        },
+        {
+          "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+          "forks": null,
+          "name": "PaperMC / Paper",
+          "rank": 2,
+          "repo_key": "papermc/paper",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PaperMC/Paper"
+        },
+        {
+          "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+          "forks": null,
+          "name": "ashishps1 / awesome-leetcode-resources",
+          "rank": 3,
+          "repo_key": "ashishps1/awesome-leetcode-resources",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ashishps1/awesome-leetcode-resources"
+        },
+        {
+          "description": "📱 Nextcloud Android app",
+          "forks": null,
+          "name": "nextcloud / android",
+          "rank": 4,
+          "repo_key": "nextcloud/android",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/nextcloud/android"
+        },
+        {
+          "description": "Design patterns implemented in Java",
+          "forks": null,
+          "name": "iluwatar / java-design-patterns",
+          "rank": 5,
+          "repo_key": "iluwatar/java-design-patterns",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/iluwatar/java-design-patterns"
+        },
+        {
+          "description": "A libre lightweight streaming front-end for Android.",
+          "forks": null,
+          "name": "TeamNewPipe / NewPipe",
+          "rank": 6,
+          "repo_key": "teamnewpipe/newpipe",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/TeamNewPipe/NewPipe"
+        },
+        {
+          "description": "Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.",
+          "forks": null,
+          "name": "vaadin / flow",
+          "rank": 7,
+          "repo_key": "vaadin/flow",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vaadin/flow"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "hkhcoder / vprofile-project",
+          "rank": 8,
+          "repo_key": "hkhcoder/vprofile-project",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hkhcoder/vprofile-project"
+        },
+        {
+          "description": "The Metadata Platform for your Data and AI Stack",
+          "forks": null,
+          "name": "datahub-project / datahub",
+          "rank": 9,
+          "repo_key": "datahub-project/datahub",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/datahub-project/datahub"
+        },
+        {
+          "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+          "forks": null,
+          "name": "jagrosh / MusicBot",
+          "rank": 10,
+          "repo_key": "jagrosh/musicbot",
+          "source_line": 72,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jagrosh/MusicBot"
+        },
+        {
+          "description": "A server software reimplementation for a certain anime game.",
+          "forks": null,
+          "name": "Grasscutters / Grasscutter",
+          "rank": 11,
+          "repo_key": "grasscutters/grasscutter",
+          "source_line": 73,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Grasscutters/Grasscutter"
+        },
+        {
+          "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+          "forks": null,
+          "name": "OpenRefine / OpenRefine",
+          "rank": 12,
+          "repo_key": "openrefine/openrefine",
+          "source_line": 74,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/OpenRefine/OpenRefine"
+        },
+        {
+          "description": "Desktop Bitcoin Wallet focused on security and privacy. Free and open source.",
+          "forks": null,
+          "name": "sparrowwallet / sparrow",
+          "rank": 13,
+          "repo_key": "sparrowwallet/sparrow",
+          "source_line": 75,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sparrowwallet/sparrow"
+        },
+        {
+          "description": "google maps for block game",
+          "forks": null,
+          "name": "cabaletta / baritone",
+          "rank": 14,
+          "repo_key": "cabaletta/baritone",
+          "source_line": 76,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cabaletta/baritone"
+        },
+        {
+          "description": "Ad-Free, New Features & Freedom",
+          "forks": null,
+          "name": "Team-xManager / xManager",
+          "rank": 15,
+          "repo_key": "team-xmanager/xmanager",
+          "source_line": 77,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Team-xManager/xManager"
+        },
+        {
+          "description": "ehviewer，用爱发电，快乐前行",
+          "forks": null,
+          "name": "xiaojieonly / Ehviewer_CN_SXJ",
+          "rank": 16,
+          "repo_key": "xiaojieonly/ehviewer_cn_sxj",
+          "source_line": 78,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
+        },
+        {
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "forks": null,
+          "name": "NationalSecurityAgency / ghidra",
+          "rank": 17,
+          "repo_key": "nationalsecurityagency/ghidra",
+          "source_line": 79,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/NationalSecurityAgency/ghidra"
+        },
+        {
+          "description": "A podcast manager for Android",
+          "forks": null,
+          "name": "AntennaPod / AntennaPod",
+          "rank": 18,
+          "repo_key": "antennapod/antennapod",
+          "source_line": 80,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/AntennaPod/AntennaPod"
+        },
+        {
+          "description": "A material you designed app for your ADB needs",
+          "forks": null,
+          "name": "DP-Hridayan / aShellYou",
+          "rank": 19,
+          "repo_key": "dp-hridayan/ashellyou",
+          "source_line": 81,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DP-Hridayan/aShellYou"
+        },
+        {
+          "description": "Advanced player for set-top boxes and tvs running Android OS",
+          "forks": null,
+          "name": "yuliskov / SmartTube",
+          "rank": 20,
+          "repo_key": "yuliskov/smarttube",
+          "source_line": 82,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yuliskov/SmartTube"
+        },
+        {
+          "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+          "forks": null,
+          "name": "cryptomator / cryptomator",
+          "rank": 21,
+          "repo_key": "cryptomator/cryptomator",
+          "source_line": 83,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cryptomator/cryptomator"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2025-02-11",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2025/2025-02-11.md",
+  "source_sha256": "e70431148ae927cf2253472c8d7662ca6673ae16558d41f489d9be1ae730f142",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

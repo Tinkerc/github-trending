@@ -1,0 +1,523 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "",
+          "forks": null,
+          "name": "apple / ml-ferret",
+          "rank": 1,
+          "repo_key": "apple/ml-ferret",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apple/ml-ferret"
+        },
+        {
+          "description": "StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation",
+          "forks": null,
+          "name": "cumulo-autumn / StreamDiffusion",
+          "rank": 2,
+          "repo_key": "cumulo-autumn/streamdiffusion",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/cumulo-autumn/StreamDiffusion"
+        },
+        {
+          "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+          "forks": null,
+          "name": "JoeanAmier / TikTokDownloader",
+          "rank": 3,
+          "repo_key": "joeanamier/tiktokdownloader",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JoeanAmier/TikTokDownloader"
+        },
+        {
+          "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+          "forks": null,
+          "name": "danswer-ai / danswer",
+          "rank": 4,
+          "repo_key": "danswer-ai/danswer",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/danswer-ai/danswer"
+        },
+        {
+          "description": "A unified evaluation framework for large language models",
+          "forks": null,
+          "name": "microsoft / promptbench",
+          "rank": 5,
+          "repo_key": "microsoft/promptbench",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/microsoft/promptbench"
+        },
+        {
+          "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+          "forks": null,
+          "name": "Pythagora-io / gpt-pilot",
+          "rank": 6,
+          "repo_key": "pythagora-io/gpt-pilot",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Pythagora-io/gpt-pilot"
+        },
+        {
+          "description": "A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频",
+          "forks": null,
+          "name": "jianchang512 / clone-voice",
+          "rank": 7,
+          "repo_key": "jianchang512/clone-voice",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jianchang512/clone-voice"
+        },
+        {
+          "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+          "forks": null,
+          "name": "mnotgod96 / AppAgent",
+          "rank": 8,
+          "repo_key": "mnotgod96/appagent",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mnotgod96/AppAgent"
+        },
+        {
+          "description": "Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.",
+          "forks": null,
+          "name": "prowler-cloud / prowler",
+          "rank": 9,
+          "repo_key": "prowler-cloud/prowler",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/prowler-cloud/prowler"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "A dedicated scratchpad for developers",
+          "forks": null,
+          "name": "heyman / heynote",
+          "rank": 1,
+          "repo_key": "heyman/heynote",
+          "source_line": 15,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/heyman/heynote"
+        },
+        {
+          "description": "Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+          "forks": null,
+          "name": "mouredev / roadmap-retos-programacion",
+          "rank": 2,
+          "repo_key": "mouredev/roadmap-retos-programacion",
+          "source_line": 16,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mouredev/roadmap-retos-programacion"
+        },
+        {
+          "description": "Promise based HTTP client for the browser and node.js",
+          "forks": null,
+          "name": "axios / axios",
+          "rank": 3,
+          "repo_key": "axios/axios",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/axios/axios"
+        },
+        {
+          "description": "Versatile typeface for code, from code.",
+          "forks": null,
+          "name": "be5invis / Iosevka",
+          "rank": 4,
+          "repo_key": "be5invis/iosevka",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/be5invis/Iosevka"
+        },
+        {
+          "description": "LLM Frontend for Power Users.",
+          "forks": null,
+          "name": "SillyTavern / SillyTavern",
+          "rank": 5,
+          "repo_key": "sillytavern/sillytavern",
+          "source_line": 19,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SillyTavern/SillyTavern"
+        },
+        {
+          "description": "A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!",
+          "forks": null,
+          "name": "rphlr / 42-Evals",
+          "rank": 6,
+          "repo_key": "rphlr/42-evals",
+          "source_line": 20,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/rphlr/42-Evals"
+        },
+        {
+          "description": "List of JavaScript methods which you can use natively + ESLint Plugin",
+          "forks": null,
+          "name": "you-dont-need / You-Dont-Need-Lodash-Underscore",
+          "rank": 7,
+          "repo_key": "you-dont-need/you-dont-need-lodash-underscore",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"
+        },
+        {
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "forks": null,
+          "name": "Significant-Gravitas / AutoGPT",
+          "rank": 8,
+          "repo_key": "significant-gravitas/autogpt",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Significant-Gravitas/AutoGPT"
+        },
+        {
+          "description": "List of free GPTs that doesn't require plus subscription",
+          "forks": null,
+          "name": "friuns2 / BlackFriday-GPTs-Prompts",
+          "rank": 9,
+          "repo_key": "friuns2/blackfriday-gpts-prompts",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/friuns2/BlackFriday-GPTs-Prompts"
+        },
+        {
+          "description": "The open-source repo for docs.github.com",
+          "forks": null,
+          "name": "github / docs",
+          "rank": 10,
+          "repo_key": "github/docs",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/github/docs"
+        },
+        {
+          "description": "A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁",
+          "forks": null,
+          "name": "naveeddogar / KING-MD",
+          "rank": 11,
+          "repo_key": "naveeddogar/king-md",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/naveeddogar/KING-MD"
+        },
+        {
+          "description": "chai aur react series on youtube",
+          "forks": null,
+          "name": "hiteshchoudhary / chai-aur-react",
+          "rank": 12,
+          "repo_key": "hiteshchoudhary/chai-aur-react",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hiteshchoudhary/chai-aur-react"
+        },
+        {
+          "description": "收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）",
+          "forks": null,
+          "name": "kska32 / ebooks",
+          "rank": 13,
+          "repo_key": "kska32/ebooks",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kska32/ebooks"
+        },
+        {
+          "description": "The library for web and native user interfaces.",
+          "forks": null,
+          "name": "facebook / react",
+          "rank": 14,
+          "repo_key": "facebook/react",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/facebook/react"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "",
+          "forks": null,
+          "name": "xrpinals / XrpinalsMintTool",
+          "rank": 1,
+          "repo_key": "xrpinals/xrpinalsminttool",
+          "source_line": 31,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xrpinals/XrpinalsMintTool"
+        },
+        {
+          "description": "DeepL Free API (No TOKEN required)",
+          "forks": null,
+          "name": "OwO-Network / DeepLX",
+          "rank": 2,
+          "repo_key": "owo-network/deeplx",
+          "source_line": 32,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/OwO-Network/DeepLX"
+        },
+        {
+          "description": "Deliver Go binaries as fast and easily as possible",
+          "forks": null,
+          "name": "goreleaser / goreleaser",
+          "rank": 3,
+          "repo_key": "goreleaser/goreleaser",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/goreleaser/goreleaser"
+        },
+        {
+          "description": "A Commander for modern Go CLI interactions",
+          "forks": null,
+          "name": "spf13 / cobra",
+          "rank": 4,
+          "repo_key": "spf13/cobra",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/spf13/cobra"
+        },
+        {
+          "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+          "forks": null,
+          "name": "alist-org / alist",
+          "rank": 5,
+          "repo_key": "alist-org/alist",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alist-org/alist"
+        },
+        {
+          "description": "🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+          "forks": null,
+          "name": "ConnectAI-E / feishu-openai",
+          "rank": 6,
+          "repo_key": "connectai-e/feishu-openai",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ConnectAI-E/feishu-openai"
+        },
+        {
+          "description": "Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.",
+          "forks": null,
+          "name": "coroot / coroot",
+          "rank": 7,
+          "repo_key": "coroot/coroot",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/coroot/coroot"
+        },
+        {
+          "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+          "forks": null,
+          "name": "songquanpeng / one-api",
+          "rank": 8,
+          "repo_key": "songquanpeng/one-api",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/songquanpeng/one-api"
+        },
+        {
+          "description": "Redis Go client",
+          "forks": null,
+          "name": "redis / go-redis",
+          "rank": 9,
+          "repo_key": "redis/go-redis",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/redis/go-redis"
+        },
+        {
+          "description": "A fast TCP/UDP tunnel over HTTP",
+          "forks": null,
+          "name": "jpillora / chisel",
+          "rank": 10,
+          "repo_key": "jpillora/chisel",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jpillora/chisel"
+        },
+        {
+          "description": "A comprehensive, efficient, and reusable util function library of Go.",
+          "forks": null,
+          "name": "duke-git / lancet",
+          "rank": 11,
+          "repo_key": "duke-git/lancet",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/duke-git/lancet"
+        },
+        {
+          "description": "Generate type-safe code from SQL",
+          "forks": null,
+          "name": "sqlc-dev / sqlc",
+          "rank": 12,
+          "repo_key": "sqlc-dev/sqlc",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sqlc-dev/sqlc"
+        },
+        {
+          "description": "Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",
+          "forks": null,
+          "name": "grpc-ecosystem / go-grpc-middleware",
+          "rank": 13,
+          "repo_key": "grpc-ecosystem/go-grpc-middleware",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/grpc-ecosystem/go-grpc-middleware"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "locally hosted web application that allows you to perform various operations on PDF files",
+          "forks": null,
+          "name": "Frooodle / Stirling-PDF",
+          "rank": 1,
+          "repo_key": "frooodle/stirling-pdf",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Frooodle/Stirling-PDF"
+        },
+        {
+          "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+          "forks": null,
+          "name": "GrowingGit / GitHub-Chinese-Top-Charts",
+          "rank": 2,
+          "repo_key": "growinggit/github-chinese-top-charts",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts"
+        },
+        {
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。",
+          "forks": null,
+          "name": "krahets / hello-algo",
+          "rank": 3,
+          "repo_key": "krahets/hello-algo",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/krahets/hello-algo"
+        },
+        {
+          "description": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+          "forks": null,
+          "name": "chat2db / Chat2DB",
+          "rank": 4,
+          "repo_key": "chat2db/chat2db",
+          "source_line": 49,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/chat2db/Chat2DB"
+        },
+        {
+          "description": "🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!",
+          "forks": null,
+          "name": "justauth / JustAuth",
+          "rank": 5,
+          "repo_key": "justauth/justauth",
+          "source_line": 50,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/justauth/JustAuth"
+        },
+        {
+          "description": "Mirror of Apache Kafka",
+          "forks": null,
+          "name": "apache / kafka",
+          "rank": 6,
+          "repo_key": "apache/kafka",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/kafka"
+        },
+        {
+          "description": "阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池",
+          "forks": null,
+          "name": "alibaba / druid",
+          "rank": 7,
+          "repo_key": "alibaba/druid",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/alibaba/druid"
+        },
+        {
+          "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+          "forks": null,
+          "name": "apache / rocketmq",
+          "rank": 8,
+          "repo_key": "apache/rocketmq",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/rocketmq"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2023-12-28",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2023/2023-12-28.md",
+  "source_sha256": "b9b58a79cb32a3ae0c77b5dadb3406d6c9ed7cb81ccfdb7fded0781e88ae5e87",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

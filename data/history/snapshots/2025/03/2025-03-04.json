@@ -1,0 +1,721 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "forks": null,
+          "name": "allenai / olmocr",
+          "rank": 1,
+          "repo_key": "allenai/olmocr",
+          "source_line": 4,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/allenai/olmocr"
+        },
+        {
+          "description": "The python library for real-time communication",
+          "forks": null,
+          "name": "freddyaboulton / fastrtc",
+          "rank": 2,
+          "repo_key": "freddyaboulton/fastrtc",
+          "source_line": 5,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/freddyaboulton/fastrtc"
+        },
+        {
+          "description": "Vision agent",
+          "forks": null,
+          "name": "landing-ai / vision-agent",
+          "rank": 3,
+          "repo_key": "landing-ai/vision-agent",
+          "source_line": 6,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/landing-ai/vision-agent"
+        },
+        {
+          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+          "forks": null,
+          "name": "ocrmypdf / OCRmyPDF",
+          "rank": 4,
+          "repo_key": "ocrmypdf/ocrmypdf",
+          "source_line": 7,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ocrmypdf/OCRmyPDF"
+        },
+        {
+          "description": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。",
+          "forks": null,
+          "name": "Soulter / AstrBot",
+          "rank": 5,
+          "repo_key": "soulter/astrbot",
+          "source_line": 8,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Soulter/AstrBot"
+        },
+        {
+          "description": "The Memory layer for AI Agents",
+          "forks": null,
+          "name": "mem0ai / mem0",
+          "rank": 6,
+          "repo_key": "mem0ai/mem0",
+          "source_line": 9,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mem0ai/mem0"
+        },
+        {
+          "description": "GPT-4o and Claude-3.7-Sonnet APIs for coding.",
+          "forks": null,
+          "name": "jjleng / copilot-more",
+          "rank": 7,
+          "repo_key": "jjleng/copilot-more",
+          "source_line": 10,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/jjleng/copilot-more"
+        },
+        {
+          "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+          "forks": null,
+          "name": "ltdrdata / ComfyUI-Manager",
+          "rank": 8,
+          "repo_key": "ltdrdata/comfyui-manager",
+          "source_line": 11,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ltdrdata/ComfyUI-Manager"
+        },
+        {
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "forks": null,
+          "name": "donnemartin / system-design-primer",
+          "rank": 9,
+          "repo_key": "donnemartin/system-design-primer",
+          "source_line": 12,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+          "description": "Main repository of SageMath",
+          "forks": null,
+          "name": "sagemath / sage",
+          "rank": 10,
+          "repo_key": "sagemath/sage",
+          "source_line": 13,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/sagemath/sage"
+        },
+        {
+          "description": "A community-maintained Python framework for creating mathematical animations.",
+          "forks": null,
+          "name": "ManimCommunity / manim",
+          "rank": 11,
+          "repo_key": "manimcommunity/manim",
+          "source_line": 14,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/ManimCommunity/manim"
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Meshery, the cloud native manager",
+          "forks": null,
+          "name": "meshery / meshery",
+          "rank": 1,
+          "repo_key": "meshery/meshery",
+          "source_line": 17,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/meshery/meshery"
+        },
+        {
+          "description": "Firefox user.js for speed, privacy, and security. Your favorite browser, but better.",
+          "forks": null,
+          "name": "yokoffing / Betterfox",
+          "rank": 2,
+          "repo_key": "yokoffing/betterfox",
+          "source_line": 18,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/yokoffing/Betterfox"
+        },
+        {
+          "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+          "forks": null,
+          "name": "brave / brave-browser",
+          "rank": 3,
+          "repo_key": "brave/brave-browser",
+          "source_line": 19,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/brave/brave-browser"
+        },
+        {
+          "description": "Free Open-Source Image and Text Generation",
+          "forks": null,
+          "name": "pollinations / pollinations",
+          "rank": 4,
+          "repo_key": "pollinations/pollinations",
+          "source_line": 20,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/pollinations/pollinations"
+        },
+        {
+          "description": "⭐️ Companies that don't have a broken hiring process",
+          "forks": null,
+          "name": "poteto / hiring-without-whiteboards",
+          "rank": 5,
+          "repo_key": "poteto/hiring-without-whiteboards",
+          "source_line": 21,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/poteto/hiring-without-whiteboards"
+        },
+        {
+          "description": "✨ Standard library for JavaScript and Node.js. ✨",
+          "forks": null,
+          "name": "stdlib-js / stdlib",
+          "rank": 6,
+          "repo_key": "stdlib-js/stdlib",
+          "source_line": 22,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/stdlib-js/stdlib"
+        },
+        {
+          "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+          "forks": null,
+          "name": "processing / p5.js",
+          "rank": 7,
+          "repo_key": "processing/p5.js",
+          "source_line": 23,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/processing/p5.js"
+        },
+        {
+          "description": "React - The Complete Guide Course Resources (Code, Attachments, Slides)",
+          "forks": null,
+          "name": "academind / react-complete-guide-course-resources",
+          "rank": 8,
+          "repo_key": "academind/react-complete-guide-course-resources",
+          "source_line": 24,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/academind/react-complete-guide-course-resources"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "lyfe00011 / levanter",
+          "rank": 9,
+          "repo_key": "lyfe00011/levanter",
+          "source_line": 25,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/lyfe00011/levanter"
+        },
+        {
+          "description": "The library for web and native user interfaces.",
+          "forks": null,
+          "name": "facebook / react",
+          "rank": 10,
+          "repo_key": "facebook/react",
+          "source_line": 26,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/facebook/react"
+        },
+        {
+          "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+          "forks": null,
+          "name": "MagicMirrorOrg / MagicMirror",
+          "rank": 11,
+          "repo_key": "magicmirrororg/magicmirror",
+          "source_line": 27,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MagicMirrorOrg/MagicMirror"
+        },
+        {
+          "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+          "forks": null,
+          "name": "koodo-reader / koodo-reader",
+          "rank": 12,
+          "repo_key": "koodo-reader/koodo-reader",
+          "source_line": 28,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/koodo-reader/koodo-reader"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "kolbytn / mindcraft",
+          "rank": 13,
+          "repo_key": "kolbytn/mindcraft",
+          "source_line": 29,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/kolbytn/mindcraft"
+        },
+        {
+          "description": "JavaScript 3D Library.",
+          "forks": null,
+          "name": "mrdoob / three.js",
+          "rank": 14,
+          "repo_key": "mrdoob/three.js",
+          "source_line": 30,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/mrdoob/three.js"
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "Solar Charging ☀️🚘",
+          "forks": null,
+          "name": "evcc-io / evcc",
+          "rank": 1,
+          "repo_key": "evcc-io/evcc",
+          "source_line": 33,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/evcc-io/evcc"
+        },
+        {
+          "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",
+          "forks": null,
+          "name": "XTLS / Xray-core",
+          "rank": 2,
+          "repo_key": "xtls/xray-core",
+          "source_line": 34,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XTLS/Xray-core"
+        },
+        {
+          "description": "The universal proxy platform",
+          "forks": null,
+          "name": "SagerNet / sing-box",
+          "rank": 3,
+          "repo_key": "sagernet/sing-box",
+          "source_line": 35,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/SagerNet/sing-box"
+        },
+        {
+          "description": "Open Source Continuous File Synchronization",
+          "forks": null,
+          "name": "syncthing / syncthing",
+          "rank": 4,
+          "repo_key": "syncthing/syncthing",
+          "source_line": 36,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/syncthing/syncthing"
+        },
+        {
+          "description": "A platform for building proxies to bypass network restrictions.",
+          "forks": null,
+          "name": "v2fly / v2ray-core",
+          "rank": 5,
+          "repo_key": "v2fly/v2ray-core",
+          "source_line": 37,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/v2fly/v2ray-core"
+        },
+        {
+          "description": "Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!",
+          "forks": null,
+          "name": "keploy / keploy",
+          "rank": 6,
+          "repo_key": "keploy/keploy",
+          "source_line": 38,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/keploy/keploy"
+        },
+        {
+          "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+          "forks": null,
+          "name": "XIU2 / CloudflareSpeedTest",
+          "rank": 7,
+          "repo_key": "xiu2/cloudflarespeedtest",
+          "source_line": 39,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/XIU2/CloudflareSpeedTest"
+        },
+        {
+          "description": "Go SDK library and RPC client for the Solana Blockchain",
+          "forks": null,
+          "name": "gagliardetto / solana-go",
+          "rank": 8,
+          "repo_key": "gagliardetto/solana-go",
+          "source_line": 40,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/gagliardetto/solana-go"
+        },
+        {
+          "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+          "forks": null,
+          "name": "siderolabs / talos",
+          "rank": 9,
+          "repo_key": "siderolabs/talos",
+          "source_line": 41,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/siderolabs/talos"
+        },
+        {
+          "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+          "forks": null,
+          "name": "aquasecurity / kube-bench",
+          "rank": 10,
+          "repo_key": "aquasecurity/kube-bench",
+          "source_line": 42,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/aquasecurity/kube-bench"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "langgenius / dify-plugin-daemon",
+          "rank": 11,
+          "repo_key": "langgenius/dify-plugin-daemon",
+          "source_line": 43,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/langgenius/dify-plugin-daemon"
+        },
+        {
+          "description": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+          "forks": null,
+          "name": "slimtoolkit / slim",
+          "rank": 12,
+          "repo_key": "slimtoolkit/slim",
+          "source_line": 44,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/slimtoolkit/slim"
+        },
+        {
+          "description": "Self Hosted Alternative To Google Analytics",
+          "forks": null,
+          "name": "vinceanalytics / vince",
+          "rank": 13,
+          "repo_key": "vinceanalytics/vince",
+          "source_line": 45,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/vinceanalytics/vince"
+        },
+        {
+          "description": "An alternative full node bitcoin implementation written in Go (golang)",
+          "forks": null,
+          "name": "btcsuite / btcd",
+          "rank": 14,
+          "repo_key": "btcsuite/btcd",
+          "source_line": 46,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/btcsuite/btcd"
+        },
+        {
+          "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+          "forks": null,
+          "name": "dagger / dagger",
+          "rank": 15,
+          "repo_key": "dagger/dagger",
+          "source_line": 47,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/dagger/dagger"
+        },
+        {
+          "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+          "forks": null,
+          "name": "simulot / immich-go",
+          "rank": 16,
+          "repo_key": "simulot/immich-go",
+          "source_line": 48,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/simulot/immich-go"
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+          "forks": null,
+          "name": "PaperMC / Paper",
+          "rank": 1,
+          "repo_key": "papermc/paper",
+          "source_line": 51,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PaperMC/Paper"
+        },
+        {
+          "description": "Neo Modding API for Minecraft, based on Forge",
+          "forks": null,
+          "name": "neoforged / NeoForge",
+          "rank": 2,
+          "repo_key": "neoforged/neoforge",
+          "source_line": 52,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/neoforged/NeoForge"
+        },
+        {
+          "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+          "forks": null,
+          "name": "doocs / leetcode",
+          "rank": 3,
+          "repo_key": "doocs/leetcode",
+          "source_line": 53,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/doocs/leetcode"
+        },
+        {
+          "description": "[Forge Mod] Building Tools and Aesthetic Technology",
+          "forks": null,
+          "name": "Creators-of-Create / Create",
+          "rank": 4,
+          "repo_key": "creators-of-create/create",
+          "source_line": 54,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Creators-of-Create/Create"
+        },
+        {
+          "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+          "forks": null,
+          "name": "conductor-oss / conductor",
+          "rank": 5,
+          "repo_key": "conductor-oss/conductor",
+          "source_line": 55,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/conductor-oss/conductor"
+        },
+        {
+          "description": "Graphical Java application for managing BibTeX and biblatex (.bib) databases",
+          "forks": null,
+          "name": "JabRef / jabref",
+          "rank": 6,
+          "repo_key": "jabref/jabref",
+          "source_line": 56,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/JabRef/jabref"
+        },
+        {
+          "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+          "forks": null,
+          "name": "termux / termux-app",
+          "rank": 7,
+          "repo_key": "termux/termux-app",
+          "source_line": 57,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/termux/termux-app"
+        },
+        {
+          "description": "A full-featured package manager and viewer for Android",
+          "forks": null,
+          "name": "MuntashirAkon / AppManager",
+          "rank": 8,
+          "repo_key": "muntashirakon/appmanager",
+          "source_line": 58,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/MuntashirAkon/AppManager"
+        },
+        {
+          "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
+          "forks": null,
+          "name": "FCL-Team / FoldCraftLauncher",
+          "rank": 9,
+          "repo_key": "fcl-team/foldcraftlauncher",
+          "source_line": 59,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/FCL-Team/FoldCraftLauncher"
+        },
+        {
+          "description": "强大易用的开源建站工具。",
+          "forks": null,
+          "name": "halo-dev / halo",
+          "rank": 10,
+          "repo_key": "halo-dev/halo",
+          "source_line": 60,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/halo-dev/halo"
+        },
+        {
+          "description": "Telegram for Android source",
+          "forks": null,
+          "name": "DrKLO / Telegram",
+          "rank": 11,
+          "repo_key": "drklo/telegram",
+          "source_line": 61,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/DrKLO/Telegram"
+        },
+        {
+          "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+          "forks": null,
+          "name": "zxing / zxing",
+          "rank": 12,
+          "repo_key": "zxing/zxing",
+          "source_line": 62,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/zxing/zxing"
+        },
+        {
+          "description": "Apache Hadoop",
+          "forks": null,
+          "name": "apache / hadoop",
+          "rank": 13,
+          "repo_key": "apache/hadoop",
+          "source_line": 63,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/hadoop"
+        },
+        {
+          "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
+          "forks": null,
+          "name": "PojavLauncherTeam / PojavLauncher",
+          "rank": 14,
+          "repo_key": "pojavlauncherteam/pojavlauncher",
+          "source_line": 64,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/PojavLauncherTeam/PojavLauncher"
+        },
+        {
+          "description": "ehviewer，用爱发电，快乐前行",
+          "forks": null,
+          "name": "xiaojieonly / Ehviewer_CN_SXJ",
+          "rank": 15,
+          "repo_key": "xiaojieonly/ehviewer_cn_sxj",
+          "source_line": 65,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
+        },
+        {
+          "description": "Apache Cassandra®",
+          "forks": null,
+          "name": "apache / cassandra",
+          "rank": 16,
+          "repo_key": "apache/cassandra",
+          "source_line": 66,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/cassandra"
+        },
+        {
+          "description": "",
+          "forks": null,
+          "name": "hkhcoder / vprofile-project",
+          "rank": 17,
+          "repo_key": "hkhcoder/vprofile-project",
+          "source_line": 67,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/hkhcoder/vprofile-project"
+        },
+        {
+          "description": "The automation tower defense RTS",
+          "forks": null,
+          "name": "Anuken / Mindustry",
+          "rank": 18,
+          "repo_key": "anuken/mindustry",
+          "source_line": 68,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/Anuken/Mindustry"
+        },
+        {
+          "description": "The API and the developer guide for Shizuku and Sui.",
+          "forks": null,
+          "name": "RikkaApps / Shizuku-API",
+          "rank": 19,
+          "repo_key": "rikkaapps/shizuku-api",
+          "source_line": 69,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/RikkaApps/Shizuku-API"
+        },
+        {
+          "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
+          "forks": null,
+          "name": "tonikelope / megabasterd",
+          "rank": 20,
+          "repo_key": "tonikelope/megabasterd",
+          "source_line": 70,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/tonikelope/megabasterd"
+        },
+        {
+          "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
+          "forks": null,
+          "name": "apache / polaris",
+          "rank": 21,
+          "repo_key": "apache/polaris",
+          "source_line": 71,
+          "stars": null,
+          "stars_in_period": null,
+          "url": "https://github.com/apache/polaris"
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2025-03-04",
+  "fetched_at": null,
+  "schema_version": 1,
+  "source_file": "2025/2025-03-04.md",
+  "source_sha256": "c6a4b937e65831e27e0cad74ba2718997224c295d06469da22fdd2a498236846",
+  "source_type": "historical_markdown",
+  "timezone": "Asia/Shanghai"
+}

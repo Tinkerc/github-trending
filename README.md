@@ -36,6 +36,26 @@ $ python -m unittest discover -s tests -t .   # 运行测试
 
 可选参数 `--data-dir <目录>` 指定数据目录（默认 `data`）。本地运行只生成数据，Git 提交由 Actions 完成。
 
+## 历史 Markdown 提取与归档
+
+```bash
+python3 archive_history.py
+# 自定义输入根目录和输出根目录
+python3 archive_history.py --source-dir /path/to/github-trending --data-dir /path/to/data
+```
+
+仅使用 Python 标准库，扫描 `YYYY/YYYY-MM-DD.md`，将结果写入 `data/history/`：
+`repos.json` 为去重仓库目录，`snapshots/YYYY/MM/YYYY-MM-DD.json` 为逐日榜单，
+`manifest.json` 为数量与日期范围汇总。原 Markdown 和现有在线采集 JSON 保留。
+重复运行覆盖同名归档，结果一致；不会清理输入中已不存在的旧快照。
+
+历史条目保留显示名称、URL、多行简介、排名和来源行号，快照附源文件路径与 SHA256。
+stars、forks、增长数、实际语言和抓取时间无法从历史文件恢复，保存为 `null`；
+语言标题仅作为榜单筛选条件。历史榜内重复记录保留，避免丢失原始观察。
+
+原始 Markdown 可运行 `python3 archive_markdown.py` 按年份压缩到
+`data/history/markdown/YYYY.zip`，保留原文件，不核对内容哈希。
+
 ## 配置
 
 | 配置 | 类型 | 说明 |
@@ -44,7 +64,15 @@ $ python -m unittest discover -s tests -t .   # 运行测试
 | `FEISHU_SIGNING_SECRET` | Repository Secret | 飞书机器人签名密钥；机器人启用签名校验后必须配置 |
 | `TRENDING_LANGUAGES` | Repository Variable | 可选，逗号分隔语言 slug；默认 `python,javascript,go,html,typescript,java` |
 
-通知内容为总榜日榜 / 周榜 Top 10 与归档链接；语言榜只保存在 JSON 中。
+通知为最多 8 个去重项目的每日精选，附关注理由、简介、语言、日增 / 周增和归档链接：
+
+- **首次发现**：首次进入 JSON 记录的项目；首日只建立基线，不标为新增。回归项目不重复标新。
+- **日增 Top 3**：所有已采集日榜按周期新增 star 排序；同仓库优先使用总榜数值，跨榜不累加。
+- **持续上榜**：最近 7 个自然日内至少 3 天出现在已采集日榜，同时展示当前连续上榜天数；满窗口显示“至少 7 天”。
+- **周增 Top 3**：周榜新增 star 独立排序，不与日增或其他日期周增相加。
+
+各类信号轮流选入摘要，同一项目合并理由。历史不足会注明快照天数，缺失日期不代表零增长；首次发现不代表仓库刚创建。
+分析只使用目标日及此前 JSON，支持指定日期重发；增长加速分析暂未启用。旧 `analysis.py` 继续仅分析历史 Markdown。
 消息按 UTF-8 字节数限制在飞书 20 KB 上限内，超限自动减少条目。
 
 ## Actions 行为
