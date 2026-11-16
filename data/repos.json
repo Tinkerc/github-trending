@@ -45,7 +45,7 @@
       "first_seen": "2026-11-14",
       "full_name": "addyosmani/agent-skills",
       "language": "JavaScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     "adewaskar/jarvis": {
@@ -77,7 +77,7 @@
       "first_seen": "2026-11-15",
       "full_name": "ag-ui-protocol/ag-ui",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/ag-ui-protocol/ag-ui"
     },
     "agent-substrate/substrate": {
@@ -120,6 +120,14 @@
       "last_seen": "2026-11-14",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
     },
+    "aldinokemal/go-whatsapp-web-multidevice": {
+      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+      "first_seen": "2026-11-16",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice"
+    },
     "aleixrodriala/newtube": {
       "description": "SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.",
       "first_seen": "2026-11-14",
@@ -133,7 +141,7 @@
       "first_seen": "2026-11-14",
       "full_name": "alibaba/open-code-review",
       "language": "Go",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/alibaba/open-code-review"
     },
     "alishahryar1/free-claude-code": {
@@ -149,7 +157,7 @@
       "first_seen": "2026-11-15",
       "full_name": "andrewyng/openworker",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/andrewyng/openworker"
     },
     "anthropics/claude-plugins-official": {
@@ -173,7 +181,7 @@
       "first_seen": "2026-11-14",
       "full_name": "anthropics/skills",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/anthropics/skills"
     },
     "anuken/mindustry": {
@@ -181,8 +189,16 @@
       "first_seen": "2026-11-15",
       "full_name": "Anuken/Mindustry",
       "language": "Java",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/Anuken/Mindustry"
+    },
+    "aoaostar/legado": {
+      "description": "阅读APP书源",
+      "first_seen": "2026-11-16",
+      "full_name": "aoaostar/legado",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/aoaostar/legado"
     },
     "apache/doris": {
       "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
@@ -240,6 +256,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/ashhart/TensorFold"
     },
+    "ashishps1/awesome-low-level-design": {
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "first_seen": "2026-11-16",
+      "full_name": "ashishps1/awesome-low-level-design",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/ashishps1/awesome-low-level-design"
+    },
     "ashishps1/awesome-system-design-resources": {
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "first_seen": "2026-11-14",
@@ -247,6 +271,14 @@
       "language": "Java",
       "last_seen": "2026-11-14",
       "url": "https://github.com/ashishps1/awesome-system-design-resources"
+    },
+    "assistant-ui/assistant-ui": {
+      "description": "Typescript/React Library for AI Chat 💬🚀",
+      "first_seen": "2026-11-16",
+      "full_name": "assistant-ui/assistant-ui",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/assistant-ui/assistant-ui"
     },
     "avenoxai/avenoxbeyin": {
       "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
@@ -261,8 +293,16 @@
       "first_seen": "2026-11-14",
       "full_name": "backnotprop/plannotator",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/backnotprop/plannotator"
+    },
+    "black-ant/ant-browser": {
+      "description": "指纹浏览器",
+      "first_seen": "2026-11-16",
+      "full_name": "black-ant/Ant-Browser",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/black-ant/Ant-Browser"
     },
     "block/buzz": {
       "description": "A hive mind communication platform",
@@ -280,6 +320,22 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/bmad-code-org/BMAD-METHOD"
     },
+    "bojieli/ai-infra-book": {
+      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+      "first_seen": "2026-11-16",
+      "full_name": "bojieli/ai-infra-book",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/bojieli/ai-infra-book"
+    },
+    "cabaletta/baritone": {
+      "description": "google maps for block game",
+      "first_seen": "2026-11-16",
+      "full_name": "cabaletta/baritone",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/cabaletta/baritone"
+    },
     "callstack/agent-device": {
       "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
       "first_seen": "2026-11-14",
@@ -287,6 +343,14 @@
       "language": "TypeScript",
       "last_seen": "2026-11-14",
       "url": "https://github.com/callstack/agent-device"
+    },
+    "canner/wrenai": {
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "first_seen": "2026-11-16",
+      "full_name": "Canner/WrenAI",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/Canner/WrenAI"
     },
     "cathrynlavery/diagram-design": {
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
@@ -309,7 +373,7 @@
       "first_seen": "2026-11-14",
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     "cli/cli": {
@@ -344,6 +408,14 @@
       "last_seen": "2026-11-14",
       "url": "https://github.com/coreyhaines31/marketingskills"
     },
+    "creators-of-create/create": {
+      "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+      "first_seen": "2026-11-16",
+      "full_name": "Creators-of-Create/Create",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/Creators-of-Create/Create"
+    },
     "crimera/piko": {
       "description": "morphe patches for twitter and instagram",
       "first_seen": "2026-11-15",
@@ -365,7 +437,7 @@
       "first_seen": "2026-11-14",
       "full_name": "davila7/claude-code-templates",
       "language": "Python",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/davila7/claude-code-templates"
     },
     "debezium/debezium": {
@@ -397,7 +469,7 @@
       "first_seen": "2026-11-15",
       "full_name": "dream-num/univer",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/dream-num/univer"
     },
     "dreammis/social-auto-upload": {
@@ -408,13 +480,29 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/dreammis/social-auto-upload"
     },
+    "elder-plinius/g0dm0d3": {
+      "description": "LIBERATED AI CHAT",
+      "first_seen": "2026-11-16",
+      "full_name": "elder-plinius/G0DM0D3",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/elder-plinius/G0DM0D3"
+    },
     "elementalsouls/claude-bughunter": {
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "first_seen": "2026-11-15",
       "full_name": "elementalsouls/Claude-BugHunter",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    "erigontech/erigon": {
+      "description": "Ethereum implementation on the efficiency frontier",
+      "first_seen": "2026-11-16",
+      "full_name": "erigontech/erigon",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/erigontech/erigon"
     },
     "eternity4719/howtolivebetter": {
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
@@ -440,6 +528,30 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/faroukbmiled/RyukGram"
     },
+    "first-tech-challenge/ftcrobotcontroller": {
+      "description": "FTC Android Studio Workspace for robot programming in Android Studio",
+      "first_seen": "2026-11-16",
+      "full_name": "FIRST-Tech-Challenge/FtcRobotController",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController"
+    },
+    "fqscfqj/y2a-auto": {
+      "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
+      "first_seen": "2026-11-16",
+      "full_name": "fqscfqj/Y2A-Auto",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/fqscfqj/Y2A-Auto"
+    },
+    "freeok/so-novel": {
+      "description": "小说下载｜网文下载 | 网络小说",
+      "first_seen": "2026-11-16",
+      "full_name": "freeok/so-novel",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/freeok/so-novel"
+    },
     "fujiwarachoki/supoclip": {
       "description": "An open-source OpusClip alternative",
       "first_seen": "2026-11-15",
@@ -461,15 +573,31 @@
       "first_seen": "2026-11-15",
       "full_name": "getlago/lago",
       "language": "Go",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/getlago/lago"
+    },
+    "ggml-org/ggml": {
+      "description": "Tensor library for machine learning",
+      "first_seen": "2026-11-16",
+      "full_name": "ggml-org/ggml",
+      "language": "C++",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/ggml-org/ggml"
+    },
+    "gohugoio/hugo": {
+      "description": "The world’s fastest framework for building websites.",
+      "first_seen": "2026-11-16",
+      "full_name": "gohugoio/hugo",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/gohugoio/hugo"
     },
     "google-deepmind/mujoco": {
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "first_seen": "2026-11-14",
       "full_name": "google-deepmind/mujoco",
       "language": "C++",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/google-deepmind/mujoco"
     },
     "google-labs-code/stitch-skills": {
@@ -477,15 +605,23 @@
       "first_seen": "2026-11-14",
       "full_name": "google-labs-code/stitch-skills",
       "language": "TypeScript",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    "google/ax": {
+      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "first_seen": "2026-11-16",
+      "full_name": "google/ax",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/google/ax"
     },
     "google/elephant-goldfish-model": {
       "description": "Open-source plugin for designing and reviewing software with agents",
       "first_seen": "2026-11-14",
       "full_name": "google/elephant-goldfish-model",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/google/elephant-goldfish-model"
     },
     "googlechrome/lighthouse": {
@@ -501,8 +637,16 @@
       "first_seen": "2026-11-14",
       "full_name": "GoogleChrome/modern-web-guidance-src",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    "gravitational/teleport": {
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "first_seen": "2026-11-16",
+      "full_name": "gravitational/teleport",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/gravitational/teleport"
     },
     "grimanticheat/grim": {
       "description": "Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, \"bypassable\" 1.8-1.21 minecraft anticheat.",
@@ -519,6 +663,14 @@
       "language": "Java",
       "last_seen": "2026-11-15",
       "url": "https://github.com/gsantner/markor"
+    },
+    "gustavoguanabara/html-css": {
+      "description": "Curso de HTML5 e CSS3",
+      "first_seen": "2026-11-16",
+      "full_name": "gustavoguanabara/html-css",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/gustavoguanabara/html-css"
     },
     "hanliang97/matrixmedia": {
       "description": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
@@ -552,6 +704,78 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/headroomlabs-ai/headroom"
     },
+    "hkuds/autoswarm": {
+      "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
+      "first_seen": "2026-11-16",
+      "full_name": "HKUDS/AutoSwarm",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/HKUDS/AutoSwarm"
+    },
+    "hkuds/vibe-trading": {
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "first_seen": "2026-11-16",
+      "full_name": "HKUDS/Vibe-Trading",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    "hmcl-dev/hmcl": {
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "first_seen": "2026-11-16",
+      "full_name": "HMCL-dev/HMCL",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/HMCL-dev/HMCL"
+    },
+    "huskerminion/techo5": {
+      "description": "Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "first_seen": "2026-11-16",
+      "full_name": "HuskerMinion/techo5",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/HuskerMinion/techo5"
+    },
+    "huytieu/cog-second-brain": {
+      "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
+      "first_seen": "2026-11-16",
+      "full_name": "huytieu/COG-second-brain",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/huytieu/COG-second-brain"
+    },
+    "internetarchive/openlibrary": {
+      "description": "One webpage for every book ever published!",
+      "first_seen": "2026-11-16",
+      "full_name": "internetarchive/openlibrary",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/internetarchive/openlibrary"
+    },
+    "isjiamu/gzh-design-skill": {
+      "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "first_seen": "2026-11-16",
+      "full_name": "isjiamu/gzh-design-skill",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/isjiamu/gzh-design-skill"
+    },
+    "itsplk/ps5-payload-manager": {
+      "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+      "first_seen": "2026-11-16",
+      "full_name": "itsPLK/ps5-payload-manager",
+      "language": "JavaScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/itsPLK/ps5-payload-manager"
+    },
+    "jaegertracing/jaeger": {
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "first_seen": "2026-11-16",
+      "full_name": "jaegertracing/jaeger",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/jaegertracing/jaeger"
+    },
     "jakubantalik/transitions.dev": {
       "description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.",
       "first_seen": "2026-11-14",
@@ -581,7 +805,7 @@
       "first_seen": "2026-11-15",
       "full_name": "jephersonRD/PC-Free",
       "language": "HTML",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/jephersonRD/PC-Free"
     },
     "juliangarnier/anime": {
@@ -589,7 +813,7 @@
       "first_seen": "2026-11-15",
       "full_name": "juliangarnier/anime",
       "language": "JavaScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/juliangarnier/anime"
     },
     "juliusbrussee/caveman": {
@@ -605,7 +829,7 @@
       "first_seen": "2026-11-14",
       "full_name": "kajisho5/ffmpeg-skill",
       "language": "Python",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     "kksimp/mac.apk": {
@@ -629,7 +853,7 @@
       "first_seen": "2026-11-14",
       "full_name": "kubescape/kubescape",
       "language": "Go",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/kubescape/kubescape"
     },
     "kunal-kushwaha/dsa-bootcamp-java": {
@@ -709,8 +933,24 @@
       "first_seen": "2026-11-14",
       "full_name": "louislam/uptime-kuma",
       "language": "JavaScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/louislam/uptime-kuma"
+    },
+    "maillab/cloud-mail": {
+      "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
+      "first_seen": "2026-11-16",
+      "full_name": "maillab/cloud-mail",
+      "language": "JavaScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/maillab/cloud-mail"
+    },
+    "manimcommunity/manim": {
+      "description": "A community-maintained Python framework for creating mathematical animations.",
+      "first_seen": "2026-11-16",
+      "full_name": "ManimCommunity/manim",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/ManimCommunity/manim"
     },
     "martin-olivier/airgorah": {
       "description": "A WiFi security auditing software",
@@ -733,7 +973,7 @@
       "first_seen": "2026-11-15",
       "full_name": "MengTo/Skills",
       "language": "HTML",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/MengTo/Skills"
     },
     "mengto/threeui": {
@@ -744,12 +984,20 @@
       "last_seen": "2026-11-14",
       "url": "https://github.com/MengTo/threeui"
     },
+    "meshery/meshery": {
+      "description": "Meshery, the cloud native manager",
+      "first_seen": "2026-11-16",
+      "full_name": "meshery/meshery",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/meshery/meshery"
+    },
     "meta/astryx": {
       "description": "An open source design system that's fully customizable and agent ready",
       "first_seen": "2026-11-15",
       "full_name": "meta/astryx",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/meta/astryx"
     },
     "mewx/light-novel-library_wenku8_android": {
@@ -757,7 +1005,7 @@
       "first_seen": "2026-11-15",
       "full_name": "MewX/light-novel-library_Wenku8_Android",
       "language": "Java",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/MewX/light-novel-library_Wenku8_Android"
     },
     "microsoft/power-platform-skills": {
@@ -776,12 +1024,20 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/microsoft/PyRIT"
     },
+    "microsoft/zerotrustassessment": {
+      "description": "Repository for the Zero Trust Assessment project",
+      "first_seen": "2026-11-16",
+      "full_name": "microsoft/zerotrustassessment",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/microsoft/zerotrustassessment"
+    },
     "milind-soni/openmausbot": {
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "first_seen": "2026-11-14",
       "full_name": "milind-soni/OpenMausBot",
       "language": "TypeScript",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/milind-soni/OpenMausBot"
     },
     "mksglu/context-mode": {
@@ -813,7 +1069,7 @@
       "first_seen": "2026-11-15",
       "full_name": "ModinMobileSTS/Sts2MobileLauncher",
       "language": "Java",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher"
     },
     "moeru-ai/airi": {
@@ -823,6 +1079,38 @@
       "language": "TypeScript",
       "last_seen": "2026-11-15",
       "url": "https://github.com/moeru-ai/airi"
+    },
+    "mojolauncher/mojolauncher": {
+      "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
+      "first_seen": "2026-11-16",
+      "full_name": "MojoLauncher/MojoLauncher",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/MojoLauncher/MojoLauncher"
+    },
+    "motion-canvas/motion-canvas": {
+      "description": "Visualize Your Ideas With Code",
+      "first_seen": "2026-11-16",
+      "full_name": "motion-canvas/motion-canvas",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/motion-canvas/motion-canvas"
+    },
+    "motiondivision/motion": {
+      "description": "A modern animation library for React and JavaScript",
+      "first_seen": "2026-11-16",
+      "full_name": "motiondivision/motion",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/motiondivision/motion"
+    },
+    "mudler/localai": {
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "first_seen": "2026-11-16",
+      "full_name": "mudler/LocalAI",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/mudler/LocalAI"
     },
     "mukul975/anthropic-cybersecurity-skills": {
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
@@ -880,6 +1168,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/NginxProxyManager/nginx-proxy-manager"
     },
+    "nolly-studio/cult-ui": {
+      "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
+      "first_seen": "2026-11-16",
+      "full_name": "nolly-studio/cult-ui",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/nolly-studio/cult-ui"
+    },
     "nvidia/auto-ontology": {
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "first_seen": "2026-11-14",
@@ -893,7 +1189,7 @@
       "first_seen": "2026-11-15",
       "full_name": "NVIDIA/SkillEvaluator",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/NVIDIA/SkillEvaluator"
     },
     "nvidia/skillspector": {
@@ -976,6 +1272,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/pnnbao97/VieNeu-TTS"
     },
+    "prefecthq/fastmcp": {
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "first_seen": "2026-11-16",
+      "full_name": "PrefectHQ/fastmcp",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/PrefectHQ/fastmcp"
+    },
     "projectdiscovery/nuclei": {
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "first_seen": "2026-11-15",
@@ -991,6 +1295,14 @@
       "language": "TypeScript",
       "last_seen": "2026-11-14",
       "url": "https://github.com/PurpleDoubleD/locally-uncensored"
+    },
+    "qist/tvbox": {
+      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+      "first_seen": "2026-11-16",
+      "full_name": "qist/tvbox",
+      "language": "JavaScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/qist/tvbox"
     },
     "qwenlm/qwen-code": {
       "description": "An open-source AI coding agent that lives in your terminal.",
@@ -1021,7 +1333,7 @@
       "first_seen": "2026-11-14",
       "full_name": "sdli1995/dlssg_for_sm86",
       "language": "HTML",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/sdli1995/dlssg_for_sm86"
     },
     "shanliuling/dsh-image-gen": {
@@ -1037,7 +1349,7 @@
       "first_seen": "2026-11-14",
       "full_name": "sherlock-project/sherlock",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/sherlock-project/sherlock"
     },
     "sigmahq/sigma": {
@@ -1047,6 +1359,22 @@
       "language": "Python",
       "last_seen": "2026-11-15",
       "url": "https://github.com/SigmaHQ/sigma"
+    },
+    "simonlin1212/vibe-research": {
+      "description": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.",
+      "first_seen": "2026-11-16",
+      "full_name": "simonlin1212/Vibe-Research",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/simonlin1212/Vibe-Research"
+    },
+    "snailsploit/claude-red": {
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "first_seen": "2026-11-16",
+      "full_name": "SnailSploit/Claude-Red",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/SnailSploit/Claude-Red"
     },
     "spring-projects/spring-ai": {
       "description": "An Application Framework for AI Engineering",
@@ -1064,6 +1392,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/spring-projects/spring-security"
     },
+    "starrocks/starrocks": {
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "first_seen": "2026-11-16",
+      "full_name": "StarRocks/starrocks",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/StarRocks/starrocks"
+    },
     "tabler/tabler-icons": {
       "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
       "first_seen": "2026-11-14",
@@ -1077,7 +1413,7 @@
       "first_seen": "2026-11-14",
       "full_name": "tailscale/tailcat",
       "language": "Go",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/tailscale/tailcat"
     },
     "tailscale/tailscale": {
@@ -1087,6 +1423,14 @@
       "language": "Go",
       "last_seen": "2026-11-15",
       "url": "https://github.com/tailscale/tailscale"
+    },
+    "tashfeenahmed/freellmapi": {
+      "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "first_seen": "2026-11-16",
+      "full_name": "tashfeenahmed/freellmapi",
+      "language": "TypeScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     "tencent-hunyuan/hy-mt2": {
       "description": "",
@@ -1101,7 +1445,7 @@
       "first_seen": "2026-11-14",
       "full_name": "Tencent/LoopForge",
       "language": "Go",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/Tencent/LoopForge"
     },
     "tencent/weknora": {
@@ -1111,6 +1455,14 @@
       "language": "Go",
       "last_seen": "2026-11-14",
       "url": "https://github.com/Tencent/WeKnora"
+    },
+    "termux/termux-app": {
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "first_seen": "2026-11-16",
+      "full_name": "termux/termux-app",
+      "language": "Java",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/termux/termux-app"
     },
     "termux/termux-x11": {
       "description": "Termux X-server add-on.",
@@ -1149,15 +1501,31 @@
       "first_seen": "2026-11-14",
       "full_name": "tradermonty/claude-trading-skills",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    "trustwallet/assets": {
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "first_seen": "2026-11-16",
+      "full_name": "trustwallet/assets",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/trustwallet/assets"
+    },
+    "unslothai/unsloth": {
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "first_seen": "2026-11-16",
+      "full_name": "unslothai/unsloth",
+      "language": "Python",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/unslothai/unsloth"
     },
     "vercel-labs/agent-browser": {
       "description": "Browser automation CLI for AI agents",
       "first_seen": "2026-11-14",
       "full_name": "vercel-labs/agent-browser",
       "language": "Rust",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/vercel-labs/agent-browser"
     },
     "vercel-labs/agent-desktop": {
@@ -1167,6 +1535,14 @@
       "language": "Rust",
       "last_seen": "2026-11-14",
       "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    "vernesong/openclash": {
+      "description": "A Clash Client For OpenWrt",
+      "first_seen": "2026-11-16",
+      "full_name": "vernesong/OpenClash",
+      "language": "JavaScript",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/vernesong/OpenClash"
     },
     "vernette/warpscout": {
       "description": "🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on",
@@ -1213,15 +1589,39 @@
       "first_seen": "2026-11-14",
       "full_name": "we-promise/sure",
       "language": "Ruby",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/we-promise/sure"
+    },
+    "web-platform-tests/wpt": {
+      "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+      "first_seen": "2026-11-16",
+      "full_name": "web-platform-tests/wpt",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/web-platform-tests/wpt"
+    },
+    "xbtlin/ai-berkshire": {
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "first_seen": "2026-11-16",
+      "full_name": "xbtlin/ai-berkshire",
+      "language": "HTML",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    "xtls/xray-core": {
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "first_seen": "2026-11-16",
+      "full_name": "XTLS/Xray-core",
+      "language": "Go",
+      "last_seen": "2026-11-16",
+      "url": "https://github.com/XTLS/Xray-core"
     },
     "yuliskov/smarttube": {
       "description": "Browse media content with your own rules on Android TV",
       "first_seen": "2026-11-15",
       "full_name": "yuliskov/SmartTube",
       "language": "Java",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/yuliskov/SmartTube"
     },
     "yunaiv/ruoyi-vue-pro": {
@@ -1253,7 +1653,7 @@
       "first_seen": "2026-11-14",
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "language": "Python",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     "zulip/zulip": {
