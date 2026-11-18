@@ -1,0 +1,862 @@
+{
+  "boards": [
+    {
+      "entries": [
+        {
+          "forks": 1430,
+          "rank": 1,
+          "repo_key": "elementalsouls/claude-bughunter",
+          "stars": 10183,
+          "stars_in_period": 1005
+        },
+        {
+          "forks": 6185,
+          "rank": 2,
+          "repo_key": "mvanhorn/last30days-skill",
+          "stars": 69483,
+          "stars_in_period": 696
+        },
+        {
+          "forks": 4465,
+          "rank": 3,
+          "repo_key": "alibaba/open-code-review",
+          "stars": 54046,
+          "stars_in_period": 763
+        },
+        {
+          "forks": 500,
+          "rank": 4,
+          "repo_key": "tencent/loopforge",
+          "stars": 3666,
+          "stars_in_period": 591
+        },
+        {
+          "forks": 2652,
+          "rank": 5,
+          "repo_key": "dream-num/univer",
+          "stars": 29736,
+          "stars_in_period": 1774
+        },
+        {
+          "forks": 526,
+          "rank": 6,
+          "repo_key": "getarcaneapp/arcane",
+          "stars": 9533,
+          "stars_in_period": 618
+        },
+        {
+          "forks": 1343,
+          "rank": 7,
+          "repo_key": "google-labs-code/stitch-skills",
+          "stars": 10248,
+          "stars_in_period": 350
+        },
+        {
+          "forks": 1854,
+          "rank": 8,
+          "repo_key": "cursor/plugins",
+          "stars": 17028,
+          "stars_in_period": 201
+        },
+        {
+          "forks": 28505,
+          "rank": 9,
+          "repo_key": "obra/superpowers",
+          "stars": 319635,
+          "stars_in_period": 1917
+        },
+        {
+          "forks": 2082,
+          "rank": 10,
+          "repo_key": "ag-ui-protocol/ag-ui",
+          "stars": 20230,
+          "stars_in_period": 1445
+        },
+        {
+          "forks": 1334,
+          "rank": 11,
+          "repo_key": "backnotprop/plannotator",
+          "stars": 13228,
+          "stars_in_period": 691
+        },
+        {
+          "forks": 6195,
+          "rank": 12,
+          "repo_key": "sveltejs/svelte",
+          "stars": 89607,
+          "stars_in_period": 477
+        },
+        {
+          "forks": 45027,
+          "rank": 13,
+          "repo_key": "affaan-m/ecc",
+          "stars": 305944,
+          "stars_in_period": 883
+        },
+        {
+          "forks": 8706,
+          "rank": 14,
+          "repo_key": "jingyaogong/minimind",
+          "stars": 66363,
+          "stars_in_period": 192
+        },
+        {
+          "forks": 458,
+          "rank": 15,
+          "repo_key": "google-research/paper-orchestra",
+          "stars": 3532,
+          "stars_in_period": 1072
+        }
+      ],
+      "language_filter": "all",
+      "period": "daily",
+      "source_url": "https://github.com/trending?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 732,
+          "rank": 1,
+          "repo_key": "googlechrome/modern-web-guidance-src",
+          "stars": 8617,
+          "stars_in_period": 7015
+        },
+        {
+          "forks": 1334,
+          "rank": 2,
+          "repo_key": "backnotprop/plannotator",
+          "stars": 13228,
+          "stars_in_period": 2926
+        },
+        {
+          "forks": 2370,
+          "rank": 3,
+          "repo_key": "meta/astryx",
+          "stars": 30359,
+          "stars_in_period": 8700
+        },
+        {
+          "forks": 1430,
+          "rank": 4,
+          "repo_key": "we-promise/sure",
+          "stars": 16360,
+          "stars_in_period": 4786
+        },
+        {
+          "forks": 57848,
+          "rank": 5,
+          "repo_key": "zhulinsen/daily_stock_analysis",
+          "stars": 73230,
+          "stars_in_period": 3653
+        },
+        {
+          "forks": 23076,
+          "rank": 6,
+          "repo_key": "anthropics/skills",
+          "stars": 196955,
+          "stars_in_period": 4847
+        },
+        {
+          "forks": 1430,
+          "rank": 7,
+          "repo_key": "elementalsouls/claude-bughunter",
+          "stars": 10184,
+          "stars_in_period": 2508
+        },
+        {
+          "forks": 4465,
+          "rank": 8,
+          "repo_key": "alibaba/open-code-review",
+          "stars": 54046,
+          "stars_in_period": 3675
+        },
+        {
+          "forks": 3671,
+          "rank": 9,
+          "repo_key": "vercel-labs/agent-browser",
+          "stars": 52496,
+          "stars_in_period": 3429
+        },
+        {
+          "forks": 4872,
+          "rank": 10,
+          "repo_key": "chromedevtools/chrome-devtools-mcp",
+          "stars": 58128,
+          "stars_in_period": 2948
+        },
+        {
+          "forks": 1419,
+          "rank": 11,
+          "repo_key": "tradermonty/claude-trading-skills",
+          "stars": 6953,
+          "stars_in_period": 2985
+        },
+        {
+          "forks": 1343,
+          "rank": 12,
+          "repo_key": "google-labs-code/stitch-skills",
+          "stars": 10248,
+          "stars_in_period": 1197
+        },
+        {
+          "forks": 1096,
+          "rank": 13,
+          "repo_key": "openai/codex-security",
+          "stars": 14023,
+          "stars_in_period": 2531
+        },
+        {
+          "forks": 12382,
+          "rank": 14,
+          "repo_key": "addyosmani/agent-skills",
+          "stars": 118779,
+          "stars_in_period": 3884
+        }
+      ],
+      "language_filter": "all",
+      "period": "weekly",
+      "source_url": "https://github.com/trending?since=weekly"
+    },
+    {
+      "entries": [
+        {
+          "forks": 1430,
+          "rank": 1,
+          "repo_key": "elementalsouls/claude-bughunter",
+          "stars": 10184,
+          "stars_in_period": 1005
+        },
+        {
+          "forks": 6185,
+          "rank": 2,
+          "repo_key": "mvanhorn/last30days-skill",
+          "stars": 69484,
+          "stars_in_period": 696
+        },
+        {
+          "forks": 8706,
+          "rank": 3,
+          "repo_key": "jingyaogong/minimind",
+          "stars": 66363,
+          "stars_in_period": 192
+        },
+        {
+          "forks": 458,
+          "rank": 4,
+          "repo_key": "google-research/paper-orchestra",
+          "stars": 3532,
+          "stars_in_period": 1072
+        },
+        {
+          "forks": 475,
+          "rank": 5,
+          "repo_key": "nvidia/skillevaluator",
+          "stars": 3430,
+          "stars_in_period": 869
+        },
+        {
+          "forks": 8675,
+          "rank": 6,
+          "repo_key": "usestrix/strix",
+          "stars": 76407,
+          "stars_in_period": 337
+        },
+        {
+          "forks": 1419,
+          "rank": 7,
+          "repo_key": "tradermonty/claude-trading-skills",
+          "stars": 6953,
+          "stars_in_period": 703
+        },
+        {
+          "forks": 734,
+          "rank": 8,
+          "repo_key": "kajisho5/ffmpeg-skill",
+          "stars": 7880,
+          "stars_in_period": 1292
+        },
+        {
+          "forks": 1597,
+          "rank": 9,
+          "repo_key": "dograh-hq/dograh",
+          "stars": 6198,
+          "stars_in_period": 17
+        },
+        {
+          "forks": 4079,
+          "rank": 10,
+          "repo_key": "virgiliojr94/book-to-skill",
+          "stars": 38339,
+          "stars_in_period": 160
+        },
+        {
+          "forks": 9772,
+          "rank": 11,
+          "repo_key": "composiohq/awesome-claude-skills",
+          "stars": 79770,
+          "stars_in_period": 85
+        },
+        {
+          "forks": 2882,
+          "rank": 12,
+          "repo_key": "hkuds/rag-anything",
+          "stars": 24622,
+          "stars_in_period": 17
+        },
+        {
+          "forks": 437,
+          "rank": 13,
+          "repo_key": "hkuds/autoswarm",
+          "stars": 2638,
+          "stars_in_period": 53
+        },
+        {
+          "forks": 714,
+          "rank": 14,
+          "repo_key": "3441293738/creatorhub",
+          "stars": 3656,
+          "stars_in_period": 100
+        },
+        {
+          "forks": 76,
+          "rank": 15,
+          "repo_key": "vstorm-co/agenticos",
+          "stars": 417,
+          "stars_in_period": 44
+        },
+        {
+          "forks": 14400,
+          "rank": 16,
+          "repo_key": "graphify-labs/graphify",
+          "stars": 149856,
+          "stars_in_period": 649
+        }
+      ],
+      "language_filter": "python",
+      "period": "daily",
+      "source_url": "https://github.com/trending/python?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 6195,
+          "rank": 1,
+          "repo_key": "sveltejs/svelte",
+          "stars": 89607,
+          "stars_in_period": 477
+        },
+        {
+          "forks": 45027,
+          "rank": 2,
+          "repo_key": "affaan-m/ecc",
+          "stars": 305944,
+          "stars_in_period": 883
+        },
+        {
+          "forks": 937,
+          "rank": 3,
+          "repo_key": "deanchensj/jiangshan-map",
+          "stars": 7744,
+          "stars_in_period": 991
+        },
+        {
+          "forks": 3007,
+          "rank": 4,
+          "repo_key": "duartesantos8/opengym",
+          "stars": 22620,
+          "stars_in_period": 487
+        },
+        {
+          "forks": 3988,
+          "rank": 5,
+          "repo_key": "poteto/hiring-without-whiteboards",
+          "stars": 53384,
+          "stars_in_period": 56
+        },
+        {
+          "forks": 7338,
+          "rank": 6,
+          "repo_key": "lodash/lodash",
+          "stars": 61340,
+          "stars_in_period": 178
+        },
+        {
+          "forks": 1196,
+          "rank": 7,
+          "repo_key": "jeffallan/claude-skills",
+          "stars": 12433,
+          "stars_in_period": 23
+        },
+        {
+          "forks": 239,
+          "rank": 8,
+          "repo_key": "hanliang97/matrixmedia",
+          "stars": 1557,
+          "stars_in_period": 92
+        },
+        {
+          "forks": 8916,
+          "rank": 9,
+          "repo_key": "coreyhaines31/marketingskills",
+          "stars": 61117,
+          "stars_in_period": 237
+        },
+        {
+          "forks": 1331,
+          "rank": 10,
+          "repo_key": "citrolabs/ego-lite",
+          "stars": 23484,
+          "stars_in_period": 251
+        },
+        {
+          "forks": 625,
+          "rank": 11,
+          "repo_key": "minglink/dsh-infinite-gen-5",
+          "stars": 4507,
+          "stars_in_period": 108
+        },
+        {
+          "forks": 10886,
+          "rank": 12,
+          "repo_key": "dietrichgebert/ponytail",
+          "stars": 193563,
+          "stars_in_period": 862
+        },
+        {
+          "forks": 433,
+          "rank": 13,
+          "repo_key": "aliyun/ai-agent-handbook",
+          "stars": 3477,
+          "stars_in_period": 69
+        }
+      ],
+      "language_filter": "javascript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/javascript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 4465,
+          "rank": 1,
+          "repo_key": "alibaba/open-code-review",
+          "stars": 54046,
+          "stars_in_period": 763
+        },
+        {
+          "forks": 500,
+          "rank": 2,
+          "repo_key": "tencent/loopforge",
+          "stars": 3666,
+          "stars_in_period": 591
+        },
+        {
+          "forks": 526,
+          "rank": 3,
+          "repo_key": "getarcaneapp/arcane",
+          "stars": 9533,
+          "stars_in_period": 618
+        },
+        {
+          "forks": 7079,
+          "rank": 4,
+          "repo_key": "juliusbrussee/caveman",
+          "stars": 121167,
+          "stars_in_period": 318
+        },
+        {
+          "forks": 1296,
+          "rank": 5,
+          "repo_key": "crossplane/crossplane",
+          "stars": 12251,
+          "stars_in_period": 2
+        },
+        {
+          "forks": 3127,
+          "rank": 6,
+          "repo_key": "seaweedfs/seaweedfs",
+          "stars": 36133,
+          "stars_in_period": 25
+        },
+        {
+          "forks": 2808,
+          "rank": 7,
+          "repo_key": "knadh/listmonk",
+          "stars": 24365,
+          "stars_in_period": 22
+        },
+        {
+          "forks": 623,
+          "rank": 8,
+          "repo_key": "guohuiyuan/go-music-dl",
+          "stars": 6565,
+          "stars_in_period": 71
+        },
+        {
+          "forks": 656,
+          "rank": 9,
+          "repo_key": "christ9038/ydisks-xianyu-helper",
+          "stars": 2466,
+          "stars_in_period": 16
+        },
+        {
+          "forks": 12729,
+          "rank": 10,
+          "repo_key": "quantumnous/new-api",
+          "stars": 52138,
+          "stars_in_period": 79
+        },
+        {
+          "forks": 631,
+          "rank": 11,
+          "repo_key": "autumn-27/scopesentry",
+          "stars": 2505,
+          "stars_in_period": 29
+        },
+        {
+          "forks": 1431,
+          "rank": 12,
+          "repo_key": "arvinlovegood/go-stock",
+          "stars": 8200,
+          "stars_in_period": 27
+        },
+        {
+          "forks": 1759,
+          "rank": 13,
+          "repo_key": "basketikun/chatgpt2api",
+          "stars": 6946,
+          "stars_in_period": 16
+        },
+        {
+          "forks": 796,
+          "rank": 14,
+          "repo_key": "google/ax",
+          "stars": 14779,
+          "stars_in_period": 24
+        }
+      ],
+      "language_filter": "go",
+      "period": "daily",
+      "source_url": "https://github.com/trending/go?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 1424,
+          "rank": 1,
+          "repo_key": "ahmadibrahiim/website-downloader",
+          "stars": 6190,
+          "stars_in_period": 11
+        },
+        {
+          "forks": 4570,
+          "rank": 2,
+          "repo_key": "cathrynlavery/diagram-design",
+          "stars": 68059,
+          "stars_in_period": 252
+        },
+        {
+          "forks": 2067,
+          "rank": 3,
+          "repo_key": "op7418/guizang-ppt-skill",
+          "stars": 30028,
+          "stars_in_period": 92
+        },
+        {
+          "forks": 884,
+          "rank": 4,
+          "repo_key": "mengto/skills",
+          "stars": 7694,
+          "stars_in_period": 24
+        },
+        {
+          "forks": 295,
+          "rank": 5,
+          "repo_key": "plannotator/effective-html",
+          "stars": 4244,
+          "stars_in_period": 41
+        },
+        {
+          "forks": 325,
+          "rank": 6,
+          "repo_key": "aoaostar/legado",
+          "stars": 7477,
+          "stars_in_period": 34
+        },
+        {
+          "forks": 26158,
+          "rank": 7,
+          "repo_key": "ossu/computer-science",
+          "stars": 211257,
+          "stars_in_period": 69
+        },
+        {
+          "forks": 8037,
+          "rank": 8,
+          "repo_key": "pkuflyingpig/cs-self-learning",
+          "stars": 76785,
+          "stars_in_period": 24
+        },
+        {
+          "forks": 714,
+          "rank": 9,
+          "repo_key": "guyungy/damaihelper",
+          "stars": 4550,
+          "stars_in_period": 49
+        },
+        {
+          "forks": 947,
+          "rank": 10,
+          "repo_key": "datawhalechina/agent-learning-hub",
+          "stars": 9458,
+          "stars_in_period": 18
+        }
+      ],
+      "language_filter": "html",
+      "period": "daily",
+      "source_url": "https://github.com/trending/html?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 2652,
+          "rank": 1,
+          "repo_key": "dream-num/univer",
+          "stars": 29736,
+          "stars_in_period": 1774
+        },
+        {
+          "forks": 1343,
+          "rank": 2,
+          "repo_key": "google-labs-code/stitch-skills",
+          "stars": 10248,
+          "stars_in_period": 350
+        },
+        {
+          "forks": 1854,
+          "rank": 3,
+          "repo_key": "cursor/plugins",
+          "stars": 17028,
+          "stars_in_period": 201
+        },
+        {
+          "forks": 2082,
+          "rank": 4,
+          "repo_key": "ag-ui-protocol/ag-ui",
+          "stars": 20230,
+          "stars_in_period": 1445
+        },
+        {
+          "forks": 1334,
+          "rank": 5,
+          "repo_key": "backnotprop/plannotator",
+          "stars": 13228,
+          "stars_in_period": 691
+        },
+        {
+          "forks": 4872,
+          "rank": 6,
+          "repo_key": "chromedevtools/chrome-devtools-mcp",
+          "stars": 58128,
+          "stars_in_period": 478
+        },
+        {
+          "forks": 1660,
+          "rank": 7,
+          "repo_key": "karakeep-app/karakeep",
+          "stars": 30669,
+          "stars_in_period": 40
+        },
+        {
+          "forks": 7626,
+          "rank": 8,
+          "repo_key": "tashfeenahmed/freellmapi",
+          "stars": 54253,
+          "stars_in_period": 613
+        },
+        {
+          "forks": 2922,
+          "rank": 9,
+          "repo_key": "elder-plinius/g0dm0d3",
+          "stars": 12653,
+          "stars_in_period": 91
+        },
+        {
+          "forks": 8135,
+          "rank": 10,
+          "repo_key": "stablyai/orca",
+          "stars": 128311,
+          "stars_in_period": 1066
+        },
+        {
+          "forks": 3542,
+          "rank": 11,
+          "repo_key": "milind-soni/openmausbot",
+          "stars": 25065,
+          "stars_in_period": 640
+        },
+        {
+          "forks": 3114,
+          "rank": 12,
+          "repo_key": "mastra-ai/mastra",
+          "stars": 29596,
+          "stars_in_period": 22
+        },
+        {
+          "forks": 1203,
+          "rank": 13,
+          "repo_key": "hieunc229/mailflare",
+          "stars": 6966,
+          "stars_in_period": 190
+        },
+        {
+          "forks": 1634,
+          "rank": 14,
+          "repo_key": "elie222/rakazo",
+          "stars": 9083,
+          "stars_in_period": 188
+        },
+        {
+          "forks": 846,
+          "rank": 15,
+          "repo_key": "nightly-labs/openbot",
+          "stars": 8772,
+          "stars_in_period": 343
+        },
+        {
+          "forks": 1148,
+          "rank": 16,
+          "repo_key": "a-ghorbani/pocketpal-ai",
+          "stars": 9560,
+          "stars_in_period": 94
+        },
+        {
+          "forks": 1187,
+          "rank": 17,
+          "repo_key": "lnkiai/m3e-canvas",
+          "stars": 10591,
+          "stars_in_period": 103
+        }
+      ],
+      "language_filter": "typescript",
+      "period": "daily",
+      "source_url": "https://github.com/trending/typescript?since=daily"
+    },
+    {
+      "entries": [
+        {
+          "forks": 42723,
+          "rank": 1,
+          "repo_key": "spring-projects/spring-boot",
+          "stars": 81898,
+          "stars_in_period": 187
+        },
+        {
+          "forks": 85,
+          "rank": 2,
+          "repo_key": "jean-voila/feurstagram",
+          "stars": 1393,
+          "stars_in_period": 18
+        },
+        {
+          "forks": 861,
+          "rank": 3,
+          "repo_key": "dependencytrack/dependency-track",
+          "stars": 4474,
+          "stars_in_period": 7
+        },
+        {
+          "forks": 6154,
+          "rank": 4,
+          "repo_key": "jetbrains/intellij-community",
+          "stars": 20741,
+          "stars_in_period": 9
+        },
+        {
+          "forks": 6712,
+          "rank": 5,
+          "repo_key": "ashishps1/awesome-low-level-design",
+          "stars": 28143,
+          "stars_in_period": 21
+        },
+        {
+          "forks": 3540,
+          "rank": 6,
+          "repo_key": "kestra-io/kestra",
+          "stars": 30270,
+          "stars_in_period": 15
+        },
+        {
+          "forks": 11490,
+          "rank": 7,
+          "repo_key": "xuxueli/xxl-job",
+          "stars": 30674,
+          "stars_in_period": 4
+        },
+        {
+          "forks": 27341,
+          "rank": 8,
+          "repo_key": "iluwatar/java-design-patterns",
+          "stars": 94886,
+          "stars_in_period": 10
+        },
+        {
+          "forks": 2340,
+          "rank": 9,
+          "repo_key": "yuliskov/smarttube",
+          "stars": 36435,
+          "stars_in_period": 27
+        },
+        {
+          "forks": 4994,
+          "rank": 10,
+          "repo_key": "notharshhaa/devops-projects",
+          "stars": 5603,
+          "stars_in_period": 4
+        },
+        {
+          "forks": 187,
+          "rank": 11,
+          "repo_key": "kksimp/mac.apk",
+          "stars": 4336,
+          "stars_in_period": 21
+        },
+        {
+          "forks": 8687,
+          "rank": 12,
+          "repo_key": "yunaiv/ruoyi-vue-pro",
+          "stars": 40501,
+          "stars_in_period": 25
+        },
+        {
+          "forks": 3838,
+          "rank": 13,
+          "repo_key": "hibernate/hibernate-orm",
+          "stars": 6488,
+          "stars_in_period": 0
+        },
+        {
+          "forks": 9207,
+          "rank": 14,
+          "repo_key": "keycloak/keycloak",
+          "stars": 37927,
+          "stars_in_period": 25
+        },
+        {
+          "forks": 1350,
+          "rank": 15,
+          "repo_key": "zcshou/gogogo",
+          "stars": 11859,
+          "stars_in_period": 8
+        }
+      ],
+      "language_filter": "java",
+      "period": "daily",
+      "source_url": "https://github.com/trending/java?since=daily"
+    }
+  ],
+  "date": "2026-11-18",
+  "fetched_at": "2026-11-18T09:49:20Z",
+  "schema_version": 1,
+  "timezone": "Asia/Shanghai"
+}
