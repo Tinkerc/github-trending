@@ -48,6 +48,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/a2ui-project/a2ui"
     },
+    "abdurazaaqmohammed/mp-manager": {
+      "description": "Dual pane Android file manager with focus on APKs",
+      "first_seen": "2026-11-20",
+      "full_name": "AbdurazaaqMohammed/MP-Manager",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
+    },
     "abhigyanpatwari/gitnexus": {
       "description": "GitNexus: The Zero-Server Code Intelligence Engine",
       "first_seen": "2026-11-14",
@@ -93,7 +101,7 @@
       "first_seen": "2026-11-14",
       "full_name": "affaan-m/ECC",
       "language": "JavaScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/affaan-m/ECC"
     },
     "ag-ui-protocol/ag-ui": {
@@ -101,7 +109,7 @@
       "first_seen": "2026-11-15",
       "full_name": "ag-ui-protocol/ag-ui",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/ag-ui-protocol/ag-ui"
     },
     "agent-substrate/substrate": {
@@ -109,8 +117,16 @@
       "first_seen": "2026-11-14",
       "full_name": "agent-substrate/substrate",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/agent-substrate/substrate"
+    },
+    "agentscope-ai/agentscope": {
+      "description": "Build and run agents you can see, understand and trust.",
+      "first_seen": "2026-11-20",
+      "full_name": "agentscope-ai/agentscope",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/agentscope-ai/agentscope"
     },
     "agentscope-ai/agentscope-java": {
       "description": "Build distributed, production-grade, long-running agents.",
@@ -157,7 +173,7 @@
       "first_seen": "2026-11-19",
       "full_name": "Aizistral-Studios/No-Chat-Reports",
       "language": "Java",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/Aizistral-Studios/No-Chat-Reports"
     },
     "aizistral-studios/no-chat-restrictions": {
@@ -189,7 +205,7 @@
       "first_seen": "2026-11-14",
       "full_name": "alibaba/open-code-review",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/alibaba/open-code-review"
     },
     "alibaba/spring-ai-alibaba": {
@@ -239,6 +255,14 @@
       "language": "TypeScript",
       "last_seen": "2026-11-19",
       "url": "https://github.com/angular/angular"
+    },
+    "anomalyco/opencode": {
+      "description": "The open source coding agent.",
+      "first_seen": "2026-11-20",
+      "full_name": "anomalyco/opencode",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/anomalyco/opencode"
     },
     "ansible/ansible": {
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
@@ -293,8 +317,16 @@
       "first_seen": "2026-11-16",
       "full_name": "aoaostar/legado",
       "language": "HTML",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/aoaostar/legado"
+    },
+    "apache/airflow": {
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/airflow",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/airflow"
     },
     "apache/doris": {
       "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
@@ -303,6 +335,14 @@
       "language": "Java",
       "last_seen": "2026-11-19",
       "url": "https://github.com/apache/doris"
+    },
+    "apache/fineract": {
+      "description": "Apache Fineract",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/fineract",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/fineract"
     },
     "apache/flink": {
       "description": "Apache Flink",
@@ -328,6 +368,46 @@
       "last_seen": "2026-11-17",
       "url": "https://github.com/apache/maven"
     },
+    "apache/nifi": {
+      "description": "Apache NiFi",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/nifi",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/nifi"
+    },
+    "apache/polaris": {
+      "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/polaris",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/polaris"
+    },
+    "apache/seatunnel": {
+      "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/seatunnel",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/seatunnel"
+    },
+    "apache/skywalking": {
+      "description": "APM, Application Performance Monitoring System",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/skywalking",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/skywalking"
+    },
+    "apache/solr": {
+      "description": "Apache Solr open-source search software",
+      "first_seen": "2026-11-20",
+      "full_name": "apache/solr",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/apache/solr"
+    },
     "apache/zookeeper": {
       "description": "Apache ZooKeeper",
       "first_seen": "2026-11-14",
@@ -341,7 +421,7 @@
       "first_seen": "2026-11-19",
       "full_name": "appwrite/appwrite",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/appwrite/appwrite"
     },
     "aquasecurity/trivy": {
@@ -421,7 +501,7 @@
       "first_seen": "2026-11-18",
       "full_name": "Autumn-27/ScopeSentry",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/Autumn-27/ScopeSentry"
     },
     "avenoxai/avenoxbeyin": {
@@ -432,6 +512,14 @@
       "last_seen": "2026-11-14",
       "url": "https://github.com/avenoxai/avenoxbeyin"
     },
+    "awslabs/cli-agent-orchestrator": {
+      "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+      "first_seen": "2026-11-20",
+      "full_name": "awslabs/cli-agent-orchestrator",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/awslabs/cli-agent-orchestrator"
+    },
     "axios/axios": {
       "description": "Promise based HTTP client for the browser and node.js",
       "first_seen": "2026-11-17",
@@ -440,12 +528,20 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/axios/axios"
     },
+    "babygoton/workdaddy": {
+      "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
+      "first_seen": "2026-11-20",
+      "full_name": "babygoton/WorkDaddy",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/babygoton/WorkDaddy"
+    },
     "backnotprop/plannotator": {
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "first_seen": "2026-11-14",
       "full_name": "backnotprop/plannotator",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/backnotprop/plannotator"
     },
     "basketikun/chatgpt2api": {
@@ -455,6 +551,14 @@
       "language": "Go",
       "last_seen": "2026-11-18",
       "url": "https://github.com/basketikun/chatgpt2api"
+    },
+    "bendlang/bend": {
+      "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+      "first_seen": "2026-11-20",
+      "full_name": "bendlang/bend",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/bendlang/bend"
     },
     "bilawalsidhu/gods-eye-view": {
       "description": "God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai",
@@ -557,7 +661,7 @@
       "first_seen": "2026-11-14",
       "full_name": "cathrynlavery/diagram-design",
       "language": "HTML",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     "cherryhq/cherry-studio": {
@@ -581,7 +685,7 @@
       "first_seen": "2026-11-14",
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     "citrolabs/ego-lite": {
@@ -613,7 +717,7 @@
       "first_seen": "2026-11-19",
       "full_name": "colbymchenry/codegraph",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     "composiohq/awesome-claude-skills": {
@@ -623,6 +727,14 @@
       "language": "Python",
       "last_seen": "2026-11-18",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    "cooldude2349/offline-html-games-pack": {
+      "description": "352 offline HTML games, each on a single file",
+      "first_seen": "2026-11-20",
+      "full_name": "CoolDude2349/Offline-HTML-Games-Pack",
+      "language": "HTML",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/CoolDude2349/Offline-HTML-Games-Pack"
     },
     "copilotkit/openbot": {
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
@@ -656,6 +768,14 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/crimera/piko"
     },
+    "croffasia/itsaplan": {
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+      "first_seen": "2026-11-20",
+      "full_name": "croffasia/itsaplan",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/croffasia/itsaplan"
+    },
     "crossplane/crossplane": {
       "description": "The Cloud Native Control Plane",
       "first_seen": "2026-11-18",
@@ -677,7 +797,7 @@
       "first_seen": "2026-11-18",
       "full_name": "cursor/plugins",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/cursor/plugins"
     },
     "dagucloud/dagu": {
@@ -696,6 +816,14 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/datawhalechina/Agent-Learning-Hub"
     },
+    "datazip-inc/olake-go": {
+      "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
+      "first_seen": "2026-11-20",
+      "full_name": "datazip-inc/olake-go",
+      "language": "Go",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/datazip-inc/olake-go"
+    },
     "davila7/claude-code-templates": {
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "first_seen": "2026-11-14",
@@ -703,6 +831,14 @@
       "language": "Python",
       "last_seen": "2026-11-17",
       "url": "https://github.com/davila7/claude-code-templates"
+    },
+    "dbeaver/dbeaver": {
+      "description": "Free universal database tool and SQL client",
+      "first_seen": "2026-11-20",
+      "full_name": "dbeaver/dbeaver",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/dbeaver/dbeaver"
     },
     "deanchensj/jiangshan-map": {
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
@@ -725,7 +861,7 @@
       "first_seen": "2026-11-18",
       "full_name": "DependencyTrack/dependency-track",
       "language": "Java",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/DependencyTrack/dependency-track"
     },
     "dequelabs/axe-core": {
@@ -741,7 +877,7 @@
       "first_seen": "2026-11-14",
       "full_name": "DietrichGebert/ponytail",
       "language": "JavaScript",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     "docker/compose": {
@@ -781,7 +917,7 @@
       "first_seen": "2026-11-15",
       "full_name": "dream-num/univer",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/dream-num/univer"
     },
     "dreammis/social-auto-upload": {
@@ -799,6 +935,14 @@
       "language": "JavaScript",
       "last_seen": "2026-11-19",
       "url": "https://github.com/DuarteSantos8/openGym"
+    },
+    "earendil-works/pi": {
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "first_seen": "2026-11-20",
+      "full_name": "earendil-works/pi",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/earendil-works/pi"
     },
     "elastic/elasticsearch": {
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
@@ -821,7 +965,7 @@
       "first_seen": "2026-11-15",
       "full_name": "elementalsouls/Claude-BugHunter",
       "language": "Python",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     "elie222/rakazo": {
@@ -880,6 +1024,14 @@
       "last_seen": "2026-11-17",
       "url": "https://github.com/FCL-Team/FoldCraftLauncher"
     },
+    "firecrawl/firecrawl": {
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "first_seen": "2026-11-20",
+      "full_name": "firecrawl/firecrawl",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
     "first-tech-challenge/ftcrobotcontroller": {
       "description": "FTC Android Studio Workspace for robot programming in Android Studio",
       "first_seen": "2026-11-16",
@@ -887,6 +1039,22 @@
       "language": "Java",
       "last_seen": "2026-11-16",
       "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController"
+    },
+    "fission-ai/openspec": {
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "first_seen": "2026-11-20",
+      "full_name": "Fission-AI/OpenSpec",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    "flashml-org/freevideo": {
+      "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
+      "first_seen": "2026-11-20",
+      "full_name": "FlashML-org/FreeVideo",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/FlashML-org/FreeVideo"
     },
     "floci-io/floci": {
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
@@ -920,6 +1088,14 @@
       "last_seen": "2026-11-17",
       "url": "https://github.com/FujiwaraChoki/supoclip"
     },
+    "gastownhall/beads": {
+      "description": "Beads - A memory upgrade for your coding agent",
+      "first_seen": "2026-11-20",
+      "full_name": "gastownhall/beads",
+      "language": "Go",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/gastownhall/beads"
+    },
     "gentleman-programming/gentle-ai": {
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "first_seen": "2026-11-14",
@@ -933,7 +1109,7 @@
       "first_seen": "2026-11-17",
       "full_name": "getarcaneapp/arcane",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/getarcaneapp/arcane"
     },
     "getlago/lago": {
@@ -959,6 +1135,14 @@
       "language": "JavaScript",
       "last_seen": "2026-11-19",
       "url": "https://github.com/github/awesome-copilot"
+    },
+    "github/spec-kit": {
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "first_seen": "2026-11-20",
+      "full_name": "github/spec-kit",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/github/spec-kit"
     },
     "gnacho/netpulse": {
       "description": "PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.",
@@ -997,7 +1181,7 @@
       "first_seen": "2026-11-14",
       "full_name": "google-labs-code/stitch-skills",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     "google-research/paper-orchestra": {
@@ -1005,7 +1189,7 @@
       "first_seen": "2026-11-17",
       "full_name": "google-research/paper-orchestra",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/google-research/paper-orchestra"
     },
     "google/ax": {
@@ -1037,7 +1221,7 @@
       "first_seen": "2026-11-14",
       "full_name": "GoogleChrome/modern-web-guidance-src",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
     },
     "graphify-labs/graphify": {
@@ -1104,6 +1288,14 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/Guyungy/damaihelper"
     },
+    "had0yun/cozyclay": {
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "first_seen": "2026-11-20",
+      "full_name": "HaD0Yun/CozyClay",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/HaD0Yun/CozyClay"
+    },
     "hanliang97/matrixmedia": {
       "description": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
       "first_seen": "2026-11-15",
@@ -1149,7 +1341,7 @@
       "first_seen": "2026-11-17",
       "full_name": "hieunc229/mailflare",
       "language": "TypeScript",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/hieunc229/mailflare"
     },
     "hkuds/autoswarm": {
@@ -1165,7 +1357,7 @@
       "first_seen": "2026-11-19",
       "full_name": "HKUDS/CLI-Anything",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     "hkuds/rag-anything": {
@@ -1239,6 +1431,14 @@
       "language": "Java",
       "last_seen": "2026-11-19",
       "url": "https://github.com/iluwatar/java-design-patterns"
+    },
+    "imbad0202/academic-research-skills": {
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "first_seen": "2026-11-20",
+      "full_name": "Imbad0202/academic-research-skills",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     "internetarchive/openlibrary": {
       "description": "One webpage for every book ever published!",
@@ -1357,7 +1557,7 @@
       "first_seen": "2026-11-18",
       "full_name": "jingyaogong/minimind",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/jingyaogong/minimind"
     },
     "jquery/jquery": {
@@ -1365,7 +1565,7 @@
       "first_seen": "2026-11-19",
       "full_name": "jquery/jquery",
       "language": "JavaScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/jquery/jquery"
     },
     "juliangarnier/anime": {
@@ -1389,7 +1589,7 @@
       "first_seen": "2026-11-14",
       "full_name": "kajisho5/ffmpeg-skill",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     "karakeep-app/karakeep": {
@@ -1405,7 +1605,7 @@
       "first_seen": "2026-11-18",
       "full_name": "kestra-io/kestra",
       "language": "Java",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/kestra-io/kestra"
     },
     "keycloak/keycloak": {
@@ -1413,7 +1613,7 @@
       "first_seen": "2026-11-18",
       "full_name": "keycloak/keycloak",
       "language": "Java",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/keycloak/keycloak"
     },
     "kksimp/mac.apk": {
@@ -1480,6 +1680,14 @@
       "last_seen": "2026-11-14",
       "url": "https://github.com/langchain-ai/langgraph"
     },
+    "langchain4j/langchain4j": {
+      "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+      "first_seen": "2026-11-20",
+      "full_name": "langchain4j/langchain4j",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/langchain4j/langchain4j"
+    },
     "larksuite/cli": {
       "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "first_seen": "2026-11-14",
@@ -1503,6 +1711,14 @@
       "language": "JavaScript",
       "last_seen": "2026-11-19",
       "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    "lewislulu/html-ppt-skill": {
+      "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+      "first_seen": "2026-11-20",
+      "full_name": "lewislulu/html-ppt-skill",
+      "language": "HTML",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/lewislulu/html-ppt-skill"
     },
     "libretranslate/libretranslate": {
       "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
@@ -1605,7 +1821,7 @@
       "first_seen": "2026-11-18",
       "full_name": "mastra-ai/mastra",
       "language": "TypeScript",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/mastra-ai/mastra"
     },
     "mattpocock/skills": {
@@ -1645,7 +1861,7 @@
       "first_seen": "2026-11-15",
       "full_name": "meta/astryx",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/meta/astryx"
     },
     "mewx/light-novel-library_wenku8_android": {
@@ -1656,6 +1872,14 @@
       "last_seen": "2026-11-16",
       "url": "https://github.com/MewX/light-novel-library_Wenku8_Android"
     },
+    "michael-denyer/pstack-claude": {
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "first_seen": "2026-11-20",
+      "full_name": "michael-denyer/pstack-claude",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/michael-denyer/pstack-claude"
+    },
     "microg/gmscore": {
       "description": "Free implementation of Play Services",
       "first_seen": "2026-11-17",
@@ -1664,13 +1888,29 @@
       "last_seen": "2026-11-17",
       "url": "https://github.com/microg/GmsCore"
     },
+    "micromatch/picomatch": {
+      "description": "Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…",
+      "first_seen": "2026-11-20",
+      "full_name": "micromatch/picomatch",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/micromatch/picomatch"
+    },
     "microsoft/copilot-sdk": {
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "first_seen": "2026-11-19",
       "full_name": "microsoft/copilot-sdk",
       "language": "Java",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/microsoft/copilot-sdk"
+    },
+    "microsoft/markitdown": {
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "first_seen": "2026-11-20",
+      "full_name": "microsoft/markitdown",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/microsoft/markitdown"
     },
     "microsoft/power-platform-skills": {
       "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
@@ -1711,6 +1951,14 @@
       "language": "JavaScript",
       "last_seen": "2026-11-19",
       "url": "https://github.com/Minglink/dsh-infinite-gen-5"
+    },
+    "mjmirza/app-store-compliance": {
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "first_seen": "2026-11-20",
+      "full_name": "mjmirza/app-store-compliance",
+      "language": "Shell",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/mjmirza/app-store-compliance"
     },
     "mksglu/context-mode": {
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
@@ -1805,7 +2053,7 @@
       "first_seen": "2026-11-14",
       "full_name": "multica-ai/multica",
       "language": "Go",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/multica-ai/multica"
     },
     "mvanhorn/last30days-skill": {
@@ -1813,7 +2061,7 @@
       "first_seen": "2026-11-14",
       "full_name": "mvanhorn/last30days-skill",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     "n8n-io/n8n": {
@@ -1831,6 +2079,14 @@
       "language": "TypeScript",
       "last_seen": "2026-11-15",
       "url": "https://github.com/Narcooo/inkos"
+    },
+    "nats-io/nats-server": {
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "first_seen": "2026-11-20",
+      "full_name": "nats-io/nats-server",
+      "language": "Go",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/nats-io/nats-server"
     },
     "nautilus-os/gust": {
       "description": "GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distributed with ease, and with no reliance on serviceworkers, GUST can be used without the need to host it on an admin-blockable website.",
@@ -1855,6 +2111,14 @@
       "language": "Go",
       "last_seen": "2026-11-15",
       "url": "https://github.com/netbirdio/netbird"
+    },
+    "nginx/nginx": {
+      "description": "The official NGINX Open Source repository.",
+      "first_seen": "2026-11-20",
+      "full_name": "nginx/nginx",
+      "language": "C",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/nginx/nginx"
     },
     "nginxproxymanager/nginx-proxy-manager": {
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
@@ -1933,7 +2197,7 @@
       "first_seen": "2026-11-18",
       "full_name": "obra/superpowers",
       "language": "Shell",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/obra/superpowers"
     },
     "odoo/odoo": {
@@ -1941,7 +2205,7 @@
       "first_seen": "2026-11-19",
       "full_name": "odoo/odoo",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/odoo/odoo"
     },
     "ollama/ollama": {
@@ -1959,6 +2223,14 @@
       "language": "HTML",
       "last_seen": "2026-11-19",
       "url": "https://github.com/op7418/guizang-ppt-skill"
+    },
+    "openai/codex-plugin-cc": {
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "first_seen": "2026-11-20",
+      "full_name": "openai/codex-plugin-cc",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/openai/codex-plugin-cc"
     },
     "openai/codex-security": {
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
@@ -1997,7 +2269,7 @@
       "first_seen": "2026-11-19",
       "full_name": "openjdk/jdk",
       "language": "Java",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/openjdk/jdk"
     },
     "opensandbox-group/opensandbox": {
@@ -2005,7 +2277,7 @@
       "first_seen": "2026-11-19",
       "full_name": "opensandbox-group/OpenSandbox",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "opensearch-project/opensearch": {
@@ -2013,7 +2285,7 @@
       "first_seen": "2026-11-15",
       "full_name": "opensearch-project/OpenSearch",
       "language": "Java",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/opensearch-project/OpenSearch"
     },
     "opentofu/opentofu": {
@@ -2029,7 +2301,7 @@
       "first_seen": "2026-11-19",
       "full_name": "openvinotoolkit/openvino",
       "language": "C++",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     "openwhispr/openwhispr": {
@@ -2045,7 +2317,7 @@
       "first_seen": "2026-11-18",
       "full_name": "ossu/computer-science",
       "language": "HTML",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/ossu/computer-science"
     },
     "p-e-w/heretic": {
@@ -2053,7 +2325,7 @@
       "first_seen": "2026-11-19",
       "full_name": "p-e-w/heretic",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/p-e-w/heretic"
     },
     "penglonghuang/chinese-novelist-skill": {
@@ -2063,6 +2335,14 @@
       "language": "JavaScript",
       "last_seen": "2026-11-15",
       "url": "https://github.com/PenglongHuang/chinese-novelist-skill"
+    },
+    "phone-harness/phone-harness": {
+      "description": "let your agent control your phone",
+      "first_seen": "2026-11-20",
+      "full_name": "phone-harness/phone-harness",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/phone-harness/phone-harness"
     },
     "pingdotgg/t3code": {
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
@@ -2085,7 +2365,7 @@
       "first_seen": "2026-11-18",
       "full_name": "plannotator/effective-html",
       "language": "HTML",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/plannotator/effective-html"
     },
     "pnnbao97/vieneu-tts": {
@@ -2095,6 +2375,14 @@
       "language": "Python",
       "last_seen": "2026-11-15",
       "url": "https://github.com/pnnbao97/VieNeu-TTS"
+    },
+    "pookjw/hermesenabler": {
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "first_seen": "2026-11-20",
+      "full_name": "pookjw/HermesEnabler",
+      "language": "Objective-C",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/pookjw/HermesEnabler"
     },
     "poteto/hiring-without-whiteboards": {
       "description": "⭐️ Companies that don't have a broken hiring process",
@@ -2111,6 +2399,14 @@
       "language": "Python",
       "last_seen": "2026-11-16",
       "url": "https://github.com/PrefectHQ/fastmcp"
+    },
+    "projectcontour/contour": {
+      "description": "Contour is a Kubernetes ingress controller using Envoy proxy.",
+      "first_seen": "2026-11-20",
+      "full_name": "projectcontour/contour",
+      "language": "HTML",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/projectcontour/contour"
     },
     "projectdiscovery/nuclei": {
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
@@ -2143,6 +2439,22 @@
       "language": "TypeScript",
       "last_seen": "2026-11-14",
       "url": "https://github.com/PurpleDoubleD/locally-uncensored"
+    },
+    "putyy/res-downloader": {
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "first_seen": "2026-11-20",
+      "full_name": "putyy/res-downloader",
+      "language": "Go",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/putyy/res-downloader"
+    },
+    "pytorch/torchtitan": {
+      "description": "A PyTorch native platform for training generative AI models",
+      "first_seen": "2026-11-20",
+      "full_name": "pytorch/torchtitan",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/pytorch/torchtitan"
     },
     "qist/tvbox": {
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
@@ -2253,7 +2565,7 @@
       "first_seen": "2026-11-19",
       "full_name": "shanraisshan/claude-code-best-practice",
       "language": "HTML",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     "sherlock-project/sherlock": {
@@ -2293,7 +2605,7 @@
       "first_seen": "2026-11-19",
       "full_name": "solidjs/solid",
       "language": "TypeScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/solidjs/solid"
     },
     "spring-projects/spring-ai": {
@@ -2333,7 +2645,7 @@
       "first_seen": "2026-11-16",
       "full_name": "StarRocks/starrocks",
       "language": "Java",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/StarRocks/starrocks"
     },
     "storybookjs/storybook": {
@@ -2344,12 +2656,20 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/storybookjs/storybook"
     },
+    "strimzi/strimzi-kafka-operator": {
+      "description": "Apache Kafka® running on Kubernetes",
+      "first_seen": "2026-11-20",
+      "full_name": "strimzi/strimzi-kafka-operator",
+      "language": "Java",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/strimzi/strimzi-kafka-operator"
+    },
     "superdesigndev/treg": {
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "first_seen": "2026-11-17",
       "full_name": "superdesigndev/treg",
       "language": "Python",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/superdesigndev/treg"
     },
     "sveltejs/svelte": {
@@ -2357,8 +2677,16 @@
       "first_seen": "2026-11-17",
       "full_name": "sveltejs/svelte",
       "language": "JavaScript",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/sveltejs/svelte"
+    },
+    "swe-agent/mini-swe-agent": {
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "first_seen": "2026-11-20",
+      "full_name": "SWE-agent/mini-swe-agent",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/SWE-agent/mini-swe-agent"
     },
     "tabler/tabler-icons": {
       "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
@@ -2413,7 +2741,7 @@
       "first_seen": "2026-11-14",
       "full_name": "Tencent/LoopForge",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/Tencent/LoopForge"
     },
     "tencent/weknora": {
@@ -2429,7 +2757,7 @@
       "first_seen": "2026-11-19",
       "full_name": "TencentCloud/CubeSandbox",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/TencentCloud/CubeSandbox"
     },
     "termux/termux-app": {
@@ -2472,12 +2800,28 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/thingsboard/thingsboard"
     },
+    "tianma-if/edgeever": {
+      "description": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
+      "first_seen": "2026-11-20",
+      "full_name": "tianma-if/edgeever",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/tianma-if/edgeever"
+    },
+    "toeverything/affine": {
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "first_seen": "2026-11-20",
+      "full_name": "toeverything/AFFiNE",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
     "tooljet/tooljet": {
       "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
       "first_seen": "2026-11-19",
       "full_name": "ToolJet/ToolJet",
       "language": "HTML",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/ToolJet/ToolJet"
     },
     "totec448-spec/chat-on-steroids": {
@@ -2488,12 +2832,20 @@
       "last_seen": "2026-11-15",
       "url": "https://github.com/totec448-spec/chat-on-steroids"
     },
+    "tracer-cloud/opensre": {
+      "description": "The open-source agent for CI/CD reliability.",
+      "first_seen": "2026-11-20",
+      "full_name": "Tracer-Cloud/opensre",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
     "tradermonty/claude-trading-skills": {
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "first_seen": "2026-11-14",
       "full_name": "tradermonty/claude-trading-skills",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/tradermonty/claude-trading-skills"
     },
     "trustwallet/assets": {
@@ -2503,6 +2855,14 @@
       "language": "Go",
       "last_seen": "2026-11-16",
       "url": "https://github.com/trustwallet/assets"
+    },
+    "twentyhq/twenty": {
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "first_seen": "2026-11-20",
+      "full_name": "twentyhq/twenty",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/twentyhq/twenty"
     },
     "unslothai/unsloth": {
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
@@ -2535,6 +2895,14 @@
       "language": "Rust",
       "last_seen": "2026-11-14",
       "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    "vercel-labs/agent-skills": {
+      "description": "Vercel's official collection of agent skills",
+      "first_seen": "2026-11-20",
+      "full_name": "vercel-labs/agent-skills",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/vercel-labs/agent-skills"
     },
     "vercel/eve": {
       "description": "The Open Framework for Building Agents",
@@ -2584,6 +2952,14 @@
       "last_seen": "2026-11-18",
       "url": "https://github.com/virgiliojr94/book-to-skill"
     },
+    "visgl/deck.gl": {
+      "description": "WebGL2 powered visualization framework",
+      "first_seen": "2026-11-20",
+      "full_name": "visgl/deck.gl",
+      "language": "TypeScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/visgl/deck.gl"
+    },
     "vllm-project/semantic-router": {
       "description": "An open, programmable decision layer for models and compute.",
       "first_seen": "2026-11-15",
@@ -2597,7 +2973,7 @@
       "first_seen": "2026-11-19",
       "full_name": "vllm-project/vllm-ascend",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/vllm-project/vllm-ascend"
     },
     "volcengine/openviking": {
@@ -2621,7 +2997,7 @@
       "first_seen": "2026-11-19",
       "full_name": "vxcontrol/pentagi",
       "language": "Go",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/vxcontrol/pentagi"
     },
     "wailsapp/wails": {
@@ -2645,7 +3021,7 @@
       "first_seen": "2026-11-14",
       "full_name": "we-promise/sure",
       "language": "Ruby",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/we-promise/sure"
     },
     "web-platform-tests/wpt": {
@@ -2664,12 +3040,28 @@
       "last_seen": "2026-11-19",
       "url": "https://github.com/Wei-Shaw/sub2api"
     },
+    "wonderwhy-er/desktopcommandermcp": {
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "first_seen": "2026-11-20",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "language": "JavaScript",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    "wshobson/agents": {
+      "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
+      "first_seen": "2026-11-20",
+      "full_name": "wshobson/agents",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/wshobson/agents"
+    },
     "xbtlin/ai-berkshire": {
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "first_seen": "2026-11-16",
       "full_name": "xbtlin/ai-berkshire",
       "language": "HTML",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/xbtlin/ai-berkshire"
     },
     "xiaoyouchr/ghost-downloader-3": {
@@ -2677,7 +3069,7 @@
       "first_seen": "2026-11-19",
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
       "language": "Python",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
     },
     "xtls/xray-core": {
@@ -2735,6 +3127,14 @@
       "language": "Rust",
       "last_seen": "2026-11-14",
       "url": "https://github.com/zed-industries/zed"
+    },
+    "zhouxiaoka/autoclip": {
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "first_seen": "2026-11-20",
+      "full_name": "zhouxiaoka/autoclip",
+      "language": "Python",
+      "last_seen": "2026-11-20",
+      "url": "https://github.com/zhouxiaoka/autoclip"
     },
     "zhukunpenglinyutong/jetbrains-cc-gui": {
       "description": "Jetbrains Claude Code and Codex GUI Plugin",
