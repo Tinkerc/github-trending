@@ -51,7 +51,7 @@ ANCHOR_XAU_USD = Decimal('3544')
 ANCHOR_AU9999_CNY_PER_GRAM = Decimal('763')
 REFERENCE_RATE = ANCHOR_AU9999_CNY_PER_GRAM * GRAMS_PER_TROY_OUNCE / ANCHOR_XAU_USD
 REFERENCE_RATE_TEXT = (
-    f'**固定锚点参考汇率** 1 美元 ≈ {REFERENCE_RATE:.4f} 元'
+    f'**金价隐含汇率** 1 美元 ≈ {REFERENCE_RATE:.4f} 元'
     f'（伦敦金 {ANCHOR_XAU_USD} 美元/金衡盎司，Au99.99 {ANCHOR_AU9999_CNY_PER_GRAM} 元/克，含境内外金价差）'
 )
 
@@ -129,9 +129,11 @@ def summarize_gold_quote(previous):
     except (OSError, HTTPException, KeyError, TypeError, ValueError, DecimalException):
         return '伦敦金行情暂不可用（Gold API）。', None
 
+    cny_per_gram = quote.price * REFERENCE_RATE / GRAMS_PER_TROY_OUNCE
     lines = [
         f'**伦敦金（XAU/USD）** {quote.price:,.2f} 美元/金衡盎司',
         f'来源 Gold API · 采集于北京时间 {beijing_time(quote)}',
+        f'**推算人民币金价** ≈ {cny_per_gram:,.2f} 元/克',
     ]
     if age > timedelta(minutes=5):
         lines.append('报价已超过 5 分钟，暂不计算涨跌。')

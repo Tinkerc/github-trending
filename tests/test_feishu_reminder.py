@@ -56,9 +56,9 @@ class FeishuReminderTest(unittest.TestCase):
         baseline = self.directory / "initial" / "quote.json"
         current = self.directory / "current" / "quote.json"
 
-        for next_price, delta, percent in [
-            (3547.85, "+3.85", "+0.11"),
-            (3540.15, "-3.85", "-0.11"),
+        for next_price, delta, percent, cny_price in [
+            (3547.85, "+3.85", "+0.11", "763.83"),
+            (3540.15, "-3.85", "-0.11", "762.17"),
         ]:
             with self.subTest(next_price=next_price):
                 self.quote_open.reset_mock()
@@ -74,6 +74,7 @@ class FeishuReminderTest(unittest.TestCase):
                     0,
                 )
                 self.assertIn("暂无上次有效报价", self.sent_body())
+                self.assertIn("**推算人民币金价** ≈ 763.00 元/克", self.sent_body())
                 self.assertEqual(
                     json.loads(baseline.read_text()),
                     {
@@ -97,6 +98,7 @@ class FeishuReminderTest(unittest.TestCase):
                 )
                 body = self.sent_body()
                 self.assertIn(f"{next_price:,.2f} 美元/金衡盎司", body)
+                self.assertIn(f"**推算人民币金价** ≈ {cny_price} 元/克", body)
                 self.assertIn(f"{delta} 美元/金衡盎司（{percent}%）", body)
                 self.assertIn(
                     first_time.astimezone(reminder.SHANGHAI_TZ).strftime(
@@ -149,6 +151,7 @@ class FeishuReminderTest(unittest.TestCase):
 
         body = self.sent_body()
         self.assertIn("伦敦金行情暂不可用", body)
+        self.assertNotIn("推算人民币金价", body)
         self.assertIn("6.6964", body)
         self.assertFalse(output.exists())
         self.quote_open.assert_called_once()
