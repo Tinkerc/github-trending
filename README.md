@@ -83,6 +83,12 @@ stars、forks、增长数、实际语言和抓取时间无法从历史文件恢�
 - 通知和提交使用采集步骤输出的快照日期，跨上海时间午夜运行时仍引用本次快照。
 - 推送失败时工作流标记失败，不发送成功通知；可用 `--notify-only` 单独重发。
 
+## 黄金观察提醒
+
+独立的 **Feishu Gold Observation Reminder** 工作流在周一至周五北京时间 09:30、15:00、21:00 发送飞书卡片，包含伦敦金报价、较上次有效报价的涨跌和固定锚点参考汇率。工作流复用上述飞书密钥，需要配置签名密钥。合入默认分支后，可在 Actions 中选择 `test` 手动发送测试卡片，测试不会更新报价基准。
+
+[黄金观察提醒配置与报价说明](docs/02-solution/feishu-gold-reminder.md)
+
 ## Special Day
 
 - [2017-03-29](https://github.com/bonfy/github-trending/blob/master/2017/2017-03-29.md) - my repo [qiandao](https://github.com/bonfy/qiandao) record by github-trending(Python)
