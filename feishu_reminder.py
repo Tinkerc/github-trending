@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""获取国际现货黄金参考报价并发送飞书黄金观察提醒。"""
+"""获取国际现货黄金参考报价并发送飞书黄金小时播报。"""
 
 import argparse
 import base64
@@ -17,31 +17,6 @@ from pathlib import Path
 from urllib import error, request
 from zoneinfo import ZoneInfo
 
-
-REMINDERS = {
-    'morning': (
-        '9:30 早间观察提醒',
-        '先确认渠道开放，检查隔夜变化及风险或减仓条件，与上一交易日21:00报价比较；±2%只作复核。不补仓，无触发则记录后结束。',
-    ),
-    'afternoon': (
-        '15:00 观察提醒',
-        '查看日间变化及关键价位，与上一交易日21:00报价比较；±2%只作复核。先确认渠道开放，无触发则记录后结束，不因提醒而交易。',
-    ),
-    'evening': (
-        '21:00 记录提醒',
-        '与上一交易日21:00报价比较，±2%只作复核；记录同渠道金价、实际时间与来源，作为下一交易日基准。休市则注明，不因提醒而交易。',
-    ),
-    'test': (
-        '飞书通知测试',
-        '这是一条 GitHub Actions 测试消息。定时提醒在周一至周五北京时间 9:30、15:00、21:00 发送。',
-    ),
-}
-
-SLOTS_BY_CRON = {
-    '30 1 * * 1-5': 'morning',
-    '0 7 * * 1-5': 'afternoon',
-    '0 13 * * 1-5': 'evening',
-}
 
 GOLD_QUOTE_URL = 'https://api.gold-api.com/price/XAU'
 SGE_DELAYED_QUOTES = '[查看上金所 Au99.99 延时行情](https://www.sge.com.cn/sjzx/yshqbg)'
@@ -180,14 +155,14 @@ def send(webhook, secret, payload):
         raise ValueError(f'飞书拒绝消息（业务码 {code}）')
 
 
-def build_card(subtitle, text):
+def build_card(title, text):
     return {
         'msg_type': 'interactive',
         'card': {
             'config': {'wide_screen_mode': True},
             'header': {
                 'template': 'orange',
-                'title': {'tag': 'plain_text', 'content': f'黄金观察提醒｜{subtitle}'},
+                'title': {'tag': 'plain_text', 'content': title},
             },
             'elements': [{'tag': 'div', 'text': {'tag': 'lark_md', 'content': text}}],
         },
@@ -196,19 +171,19 @@ def build_card(subtitle, text):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    trigger = parser.add_mutually_exclusive_group(required=True)
-    trigger.add_argument('--slot', choices=REMINDERS)
-    trigger.add_argument('--cron', choices=SLOTS_BY_CRON)
+    parser.add_argument('--slot', choices=('hourly', 'test'), required=True)
     parser.add_argument('--previous-quote', type=Path, help='上次有效的 XAU/USD JSON 快照')
     parser.add_argument('--save-quote', type=Path, help='新快照的 JSON 输出路径')
     parser.add_argument('--dry-run', action='store_true', help='离线预览基础卡片')
     args = parser.parse_args()
 
-    slot = args.slot or SLOTS_BY_CRON[args.cron]
-    subtitle, text = REMINDERS[slot]
-    body = f'{REFERENCE_RATE_TEXT}\n{SGE_DELAYED_QUOTES}\n\n**观察事项**\n{text}'
+    title = '黄金小时播报'
+    body = f'{REFERENCE_RATE_TEXT}\n{SGE_DELAYED_QUOTES}'
+    if args.slot == 'test':
+        title += '｜测试'
+        body = f'{body}\n\n这是一条 GitHub Actions 测试消息。正式播报每天在北京时间每小时第 17 分钟触发。'
     if args.dry_run:
-        print(json.dumps(build_card(subtitle, body), ensure_ascii=False))
+        print(json.dumps(build_card(title, body), ensure_ascii=False))
         return 0
 
     webhook = os.environ.get('FEISHU_WEBHOOK_URL', '').strip()
@@ -222,7 +197,7 @@ def main():
 
     summary, snapshot = summarize_gold_quote(load_previous_quote(args.previous_quote))
     snapshot_failed = False
-    if snapshot is not None and args.save_quote is not None and slot != 'test':
+    if snapshot is not None and args.save_quote is not None and args.slot != 'test':
         try:
             save_gold_quote(args.save_quote, snapshot)
         except OSError:
@@ -230,7 +205,7 @@ def main():
             snapshot_failed = True
 
     try:
-        send(webhook, secret, build_card(subtitle, f'{summary}\n\n{body}'))
+        send(webhook, secret, build_card(title, f'{summary}\n\n{body}'))
     except ValueError as exc:
         print(f'发送失败：{exc}', file=sys.stderr)
         return 1

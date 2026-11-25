@@ -50,7 +50,7 @@ class FeishuReminderTest(unittest.TestCase):
         self.assertEqual((webhook, secret), (WEBHOOK, SECRET))
         return payload["card"]["elements"][0]["text"]["content"]
 
-    def test_observations_save_and_compare_consecutive_quotes(self):
+    def test_broadcasts_save_and_compare_consecutive_quotes(self):
         timestamp = datetime.now(timezone.utc).replace(microsecond=0)
         first_time = timestamp - timedelta(minutes=1)
         baseline = self.directory / "initial" / "quote.json"
@@ -68,9 +68,7 @@ class FeishuReminderTest(unittest.TestCase):
                 ]
 
                 self.assertEqual(
-                    self.run_reminder(
-                        "--cron", "30 1 * * 1-5", "--save-quote", baseline
-                    ),
+                    self.run_reminder("--slot", "hourly", "--save-quote", baseline),
                     0,
                 )
                 self.assertIn("暂无上次有效报价", self.sent_body())
@@ -88,7 +86,7 @@ class FeishuReminderTest(unittest.TestCase):
                 self.assertEqual(
                     self.run_reminder(
                         "--slot",
-                        "afternoon",
+                        "hourly",
                         "--previous-quote",
                         baseline,
                         "--save-quote",
@@ -130,7 +128,7 @@ class FeishuReminderTest(unittest.TestCase):
                 self.assertEqual(
                     self.run_reminder(
                         "--slot",
-                        "morning",
+                        "hourly",
                         "--previous-quote",
                         baseline,
                         "--save-quote",
@@ -146,7 +144,7 @@ class FeishuReminderTest(unittest.TestCase):
         output = self.directory / "quote.json"
 
         self.assertEqual(
-            self.run_reminder("--slot", "morning", "--save-quote", output), 0
+            self.run_reminder("--slot", "hourly", "--save-quote", output), 0
         )
 
         body = self.sent_body()
@@ -172,7 +170,11 @@ class FeishuReminderTest(unittest.TestCase):
             0,
         )
 
-        self.assertIn("+0.11%", self.sent_body())
+        body = self.sent_body()
+        self.assertIn("+0.11%", body)
+        self.assertIn("每小时第 17 分钟", body)
+        payload = self.send.call_args.args[2]
+        self.assertEqual(payload["card"]["header"]["title"]["content"], "黄金小时播报｜测试")
         self.assertFalse(output.exists())
 
     def test_snapshot_survives_feishu_failure(self):
@@ -183,17 +185,17 @@ class FeishuReminderTest(unittest.TestCase):
         output = self.directory / "quote.json"
 
         self.assertEqual(
-            self.run_reminder("--slot", "morning", "--save-quote", output), 1
+            self.run_reminder("--slot", "hourly", "--save-quote", output), 1
         )
 
         self.assertEqual(json.loads(output.read_text())["price"], "3547.85")
 
     def test_dry_run_does_not_fetch_quotes(self):
-        self.assertEqual(self.run_reminder("--slot", "morning", "--dry-run"), 0)
+        self.assertEqual(self.run_reminder("--slot", "hourly", "--dry-run"), 0)
 
         payload = json.loads(self.stdout.getvalue())
         body = payload["card"]["elements"][0]["text"]["content"]
-        self.assertIn(reminder.REMINDERS["morning"][1], body)
+        self.assertEqual(payload["card"]["header"]["title"]["content"], "黄金小时播报")
         self.assertIn("6.6964", body)
         self.quote_open.assert_not_called()
         self.send.assert_not_called()

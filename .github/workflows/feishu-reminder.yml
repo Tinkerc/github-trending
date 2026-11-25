@@ -1,22 +1,18 @@
-name: Feishu Gold Observation Reminder
+name: Feishu Gold Price Broadcast
 
 on:
   schedule:
-    - cron: '30 1 * * 1-5' # 北京时间 09:30
-    - cron: '0 7 * * 1-5'  # 北京时间 15:00
-    - cron: '0 13 * * 1-5' # 北京时间 21:00
+    - cron: '17 * * * *' # 北京时间每小时第 17 分钟
   workflow_dispatch:
     inputs:
       slot:
-        description: '选择提醒时段，test 发送测试卡片'
+        description: '选择播报类型，test 发送测试卡片，hourly 立即播报'
         type: choice
         required: true
         default: test
         options:
           - test
-          - morning
-          - afternoon
-          - evening
+          - hourly
 
 permissions:
   actions: read
@@ -61,21 +57,15 @@ jobs:
               --name "$GOLD_QUOTE_ARTIFACT" --dir "$GOLD_QUOTE_DIR/previous"
           fi
 
-      - name: Send Feishu reminder
+      - name: Send Feishu gold price broadcast
         id: send
         shell: bash
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_SIGNING_SECRET: ${{ secrets.FEISHU_SIGNING_SECRET }}
-          REMINDER_CRON: ${{ github.event.schedule }}
-          REMINDER_SLOT: ${{ inputs.slot }}
+          REMINDER_SLOT: ${{ inputs.slot || 'hourly' }}
         run: |
-          if [[ "$GITHUB_EVENT_NAME" == schedule ]]; then
-            trigger=(--cron "$REMINDER_CRON")
-          else
-            trigger=(--slot "$REMINDER_SLOT")
-          fi
-          python feishu_reminder.py "${trigger[@]}" \
+          python feishu_reminder.py --slot "$REMINDER_SLOT" \
             --previous-quote "$GOLD_QUOTE_DIR/previous/quote.json" \
             --save-quote "$GOLD_QUOTE_DIR/current/quote.json"
 
